@@ -1,1 +1,33 @@
-<media></media>
+<?xml version="1.0" encoding="utf-8"?>
+<media>
+	<media>
+		<title>#CANLI Melih Gümüşbıçak İle Çevre Kontrolü</title>
+		<thumb>https://i.ytimg.com/vi/RdpqsTbi_KU/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>RdpqsTbi_KU</src>
+	</media>
+	<media>
+		<title>A Spor Canlı Yayın 🔴 Bulgaristan 1-6 Türkiye | MAÇ SONU YORUMLARI</title>
+		<thumb>https://i.ytimg.com/vi/ysh-bPiD3Oo/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>ysh-bPiD3Oo</src>
+	</media>
+	<media>
+		<title>SIFIR TV CANLI YAYIN</title>
+		<thumb>https://i.ytimg.com/vi/JCSOAmBeXnY/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>JCSOAmBeXnY</src>
+	</media>
+	<media>
+		<title>Bulgaristan - Türkiye Maç Sonu | Ersin, Yağız, Uğur, Erbatur, Veli</title>
+		<thumb>https://i.ytimg.com/vi/QnJt_TSbHEU/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>QnJt_TSbHEU</src>
+	</media>
+	<media>
+		<title>beIN SPORTS HABER Canlı Yayını | #beINSPORTS</title>
+		<thumb>https://i.ytimg.com/vi/ovXYPBAzo-w/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>ovXYPBAzo-w</src>
+	</media>
+</media>
