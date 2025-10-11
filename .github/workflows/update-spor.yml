@@ -26,7 +26,7 @@ jobs:
 
       - name: XML dosyasını güncelle
         env:
-          YT_API_KEY: ${{ secrets.YT_API_KEY_SPOR }}
+          YT_API_KEY: ${{ secrets.YT_API_KEY }}
         run: python update_spor.py
 
       - name: Commit ve Push
