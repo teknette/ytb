@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <media>
 	<media>
-		<title>#CANLI Melih Gümüşbıçak İle Çevre Kontrolü</title>
+		<title>🔴 HT Spor 7/24 Canlı Yayını</title>
 		<thumb>https://i.ytimg.com/vi/RdpqsTbi_KU/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>RdpqsTbi_KU</src>
 	</media>
 	<media>
-		<title>A Spor Canlı Yayın 🔴 Bulgaristan 1-6 Türkiye | MAÇ SONU YORUMLARI</title>
+		<title>A Spor Canlı Yayın 🔴</title>
 		<thumb>https://i.ytimg.com/vi/ysh-bPiD3Oo/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>ysh-bPiD3Oo</src>
@@ -19,15 +19,21 @@
 		<src>JCSOAmBeXnY</src>
 	</media>
 	<media>
-		<title>Bulgaristan - Türkiye Maç Sonu | Ersin, Yağız, Uğur, Erbatur, Veli</title>
-		<thumb>https://i.ytimg.com/vi/QnJt_TSbHEU/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>QnJt_TSbHEU</src>
-	</media>
-	<media>
 		<title>beIN SPORTS HABER Canlı Yayını | #beINSPORTS</title>
 		<thumb>https://i.ytimg.com/vi/ovXYPBAzo-w/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>ovXYPBAzo-w</src>
+	</media>
+	<media>
+		<title>🔴 Galatasaray - Beşiktaş Maç Özetleri | beIN SPORTS Arşiv</title>
+		<thumb>https://i.ytimg.com/vi/q_Rk-xjUESc/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>q_Rk-xjUESc</src>
+	</media>
+	<media>
+		<title>RADYO GOL 7/24 CANLI YAYIN!</title>
+		<thumb>https://i.ytimg.com/vi/HxEynOg1-tA/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>HxEynOg1-tA</src>
 	</media>
 </media>
