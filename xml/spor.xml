@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <media>
 	<media>
+		<title>#CANLI Fenerbahçe&amp;#39;de Cenk Tosun ve İrfan Can Kahveci Kadro Dışı Bırakıldı</title>
+		<thumb>https://i.ytimg.com/vi/dYQdEM7DqnE/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>dYQdEM7DqnE</src>
+	</media>
+	<media>
 		<title>A Spor Canlı Yayın 🔴</title>
 		<thumb>https://i.ytimg.com/vi/ysh-bPiD3Oo/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
@@ -11,6 +17,12 @@
 		<thumb>https://i.ytimg.com/vi/JCSOAmBeXnY/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>JCSOAmBeXnY</src>
+	</media>
+	<media>
+		<title>beIN SPORTS HABER Canlı Yayını | #beINSPORTS</title>
+		<thumb>https://i.ytimg.com/vi/ovXYPBAzo-w/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>ovXYPBAzo-w</src>
 	</media>
 	<media>
 		<title>🔴 Galatasaray - Beşiktaş Maç Özetleri | beIN SPORTS Arşiv</title>
