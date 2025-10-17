@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <media>
 	<media>
-		<title>🔴 HT Spor 7/24 Canlı Yayını</title>
+		<title>#CANLI - 3 Madde Onaylanmazsa Ne Olacak?</title>
+		<thumb>https://i.ytimg.com/vi/98hG1TYlepU/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>98hG1TYlepU</src>
+	</media>
+	<media>
+		<title>#CANLI - Deniz Biricik ile Satır Arası</title>
 		<thumb>https://i.ytimg.com/vi/RdpqsTbi_KU/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>RdpqsTbi_KU</src>
@@ -32,8 +38,8 @@
 	</media>
 	<media>
 		<title>RADYO GOL 7/24 CANLI YAYIN!</title>
-		<thumb>https://i.ytimg.com/vi/HxEynOg1-tA/hqdefault_live.jpg</thumb>
+		<thumb>https://i.ytimg.com/vi/j3QogQVwMng/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>HxEynOg1-tA</src>
+		<src>j3QogQVwMng</src>
 	</media>
 </media>
