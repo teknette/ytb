@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <media>
 	<media>
-		<title>#CANLI - Trabzonspor&amp;#39;da Bouchouari Açıklamalarda Bulunuyor</title>
-		<thumb>https://i.ytimg.com/vi/jPewreYYiBQ/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>jPewreYYiBQ</src>
-	</media>
-	<media>
-		<title>#CANLI - Deniz Biricik ile Satır Arası</title>
+		<title>🔴 HT Spor 7/24 Canlı Yayını</title>
 		<thumb>https://i.ytimg.com/vi/RdpqsTbi_KU/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>RdpqsTbi_KU</src>
@@ -35,5 +29,11 @@
 		<thumb>https://i.ytimg.com/vi/q_Rk-xjUESc/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>q_Rk-xjUESc</src>
+	</media>
+	<media>
+		<title>RADYO GOL 7/24 CANLI YAYIN!</title>
+		<thumb>https://i.ytimg.com/vi/HxEynOg1-tA/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>HxEynOg1-tA</src>
 	</media>
 </media>
