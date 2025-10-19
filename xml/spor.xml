@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <media>
 	<media>
-		<title>🔴 HT Spor 7/24 Canlı Yayını</title>
+		<title>#CANLI - Türkiye Drift Şampiyonası</title>
+		<thumb>https://i.ytimg.com/vi/ESu3GRXjzlI/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>ESu3GRXjzlI</src>
+	</media>
+	<media>
+		<title>#CANLI Dardanel Çanakkale Belediyespor - Nesibe Aydın | Kadınlar Basketbol Süper Ligi</title>
+		<thumb>https://i.ytimg.com/vi/v_BSpT1cqEg/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>v_BSpT1cqEg</src>
+	</media>
+	<media>
+		<title>#CANLI Dardanel Çanakkale Belediyespor - Nesibe Aydın | Kadınlar Basketbol Süper Ligi</title>
 		<thumb>https://i.ytimg.com/vi/RdpqsTbi_KU/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>RdpqsTbi_KU</src>
@@ -17,6 +29,30 @@
 		<thumb>https://i.ytimg.com/vi/JCSOAmBeXnY/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>JCSOAmBeXnY</src>
+	</media>
+	<media>
+		<title>Bornova 1877 Sportif Yatırımlar A.Ş. - Ayvalıkgücü Belediyespor</title>
+		<thumb>https://i.ytimg.com/vi/T-aE-cOb_O4/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>T-aE-cOb_O4</src>
+	</media>
+	<media>
+		<title>Hacettepe A.Ş. Türk Metal 1963 Spor - Silifke Belediye Spor</title>
+		<thumb>https://i.ytimg.com/vi/kQxteHZIjjA/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>kQxteHZIjjA</src>
+	</media>
+	<media>
+		<title>Bursa Yıldırım Spor Kulübü - Silivrispor</title>
+		<thumb>https://i.ytimg.com/vi/H7oQBMXmuoc/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>H7oQBMXmuoc</src>
+	</media>
+	<media>
+		<title>Söke 1970 Spor Kulübü - Oktaş Uşak Spor A.Ş.</title>
+		<thumb>https://i.ytimg.com/vi/pEvwm3_3jQ4/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>pEvwm3_3jQ4</src>
 	</media>
 	<media>
 		<title>beIN SPORTS HABER Canlı Yayını | #beINSPORTS</title>
