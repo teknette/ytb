@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <media>
 	<media>
-		<title>🔴 HT Spor 7/24 Canlı Yayını</title>
+		<title>#CANLI - Sadettin Saran Kadro Dışı Kararları İçin &amp;quot;Geçici&amp;quot; Demişti</title>
+		<thumb>https://i.ytimg.com/vi/x5CfzEhc8xM/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>x5CfzEhc8xM</src>
+	</media>
+	<media>
+		<title>#CANLI - Deniz Biricik ile Satır Arası</title>
 		<thumb>https://i.ytimg.com/vi/RdpqsTbi_KU/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>RdpqsTbi_KU</src>
@@ -25,10 +31,10 @@
 		<src>ovXYPBAzo-w</src>
 	</media>
 	<media>
-		<title>🔴 Galatasaray - Beşiktaş Maç Özetleri | beIN SPORTS Arşiv</title>
-		<thumb>https://i.ytimg.com/vi/q_Rk-xjUESc/hqdefault_live.jpg</thumb>
+		<title>🔴 Beşiktaş - Fenerbahçe Maç Özetleri | beIN SPORTS Arşiv</title>
+		<thumb>https://i.ytimg.com/vi/4S_4wCO5Yk8/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>q_Rk-xjUESc</src>
+		<src>4S_4wCO5Yk8</src>
 	</media>
 	<media>
 		<title>RADYO GOL 7/24 CANLI YAYIN!</title>
