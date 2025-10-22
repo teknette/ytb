@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <media>
 	<media>
-		<title>🔴 HT Spor 7/24 Canlı Yayını</title>
+		<title>#CANLI Beşiktaş Konyaspor&amp;#39;a Konuk Olacak</title>
+		<thumb>https://i.ytimg.com/vi/FF8FtrRbBHc/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>FF8FtrRbBHc</src>
+	</media>
+	<media>
+		<title>#CANLI Deniz Biricik İle Satır Arası</title>
 		<thumb>https://i.ytimg.com/vi/RdpqsTbi_KU/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>RdpqsTbi_KU</src>
+	</media>
+	<media>
+		<title>Okan Buruk Bodo/Glimt Maçı 11&amp;#39;ini Belirledi | A Spor Canlı</title>
+		<thumb>https://i.ytimg.com/vi/gNAfQUw7mM8/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>gNAfQUw7mM8</src>
 	</media>
 	<media>
 		<title>A Spor Canlı Yayın 🔴</title>
@@ -32,8 +44,8 @@
 	</media>
 	<media>
 		<title>RADYO GOL 7/24 CANLI YAYIN!</title>
-		<thumb>https://i.ytimg.com/vi/j3QogQVwMng/hqdefault_live.jpg</thumb>
+		<thumb>https://i.ytimg.com/vi/wDihTMdw2Ag/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>j3QogQVwMng</src>
+		<src>wDihTMdw2Ag</src>
 	</media>
 </media>
