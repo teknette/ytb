@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <media>
 	<media>
-		<title>🔴 HT Spor 7/24 Canlı Yayını</title>
+		<title>#CANLI - Osimhen Şov Yaptı, Aslan Kükredi</title>
+		<thumb>https://i.ytimg.com/vi/9sW-j5inu_E/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>9sW-j5inu_E</src>
+	</media>
+	<media>
+		<title>#CANLI - Deniz Biricik İle Satır Arası</title>
 		<thumb>https://i.ytimg.com/vi/RdpqsTbi_KU/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>RdpqsTbi_KU</src>
@@ -17,6 +23,18 @@
 		<thumb>https://i.ytimg.com/vi/JCSOAmBeXnY/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>JCSOAmBeXnY</src>
+	</media>
+	<media>
+		<title>#CANLI | Spor Günlüğü - Rezzan Yetiş Yönetci &amp;amp; Yusuf Kenan Çalık &amp;amp; Burhan Can Terzi | 23.10.2025</title>
+		<thumb>https://i.ytimg.com/vi/anUwZJE603E/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>anUwZJE603E</src>
+	</media>
+	<media>
+		<title>🔴 CANLI | Osimhen farkı, Barış Alper Yılmaz ıslıklandı, Fenerbahçe&amp;#39;nin Stuttgart planı</title>
+		<thumb>https://i.ytimg.com/vi/vRygjFqz0gQ/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>vRygjFqz0gQ</src>
 	</media>
 	<media>
 		<title>beIN SPORTS HABER Canlı Yayını | #beINSPORTS</title>
