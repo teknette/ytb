@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <media>
 	<media>
-		<title>🔴 HT Spor 7/24 Canlı Yayını</title>
+		<title>#CANLI - Avrupalı Samsunspor</title>
+		<thumb>https://i.ytimg.com/vi/_gkgAoTColA/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>_gkgAoTColA</src>
+	</media>
+	<media>
+		<title>#CANLI - Deniz Biricik İle Satır Arası</title>
 		<thumb>https://i.ytimg.com/vi/RdpqsTbi_KU/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>RdpqsTbi_KU</src>
@@ -11,6 +17,12 @@
 		<thumb>https://i.ytimg.com/vi/ysh-bPiD3Oo/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>ysh-bPiD3Oo</src>
+	</media>
+	<media>
+		<title>Malatya Yeşilyurt Spor Kulübü - KARPEDO DONDURMAKahramanmaraş Spor A.Ş.</title>
+		<thumb>https://i.ytimg.com/vi/L3M810INsRI/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>L3M810INsRI</src>
 	</media>
 	<media>
 		<title>SIFIR TV CANLI YAYIN</title>
@@ -35,11 +47,5 @@
 		<thumb>https://i.ytimg.com/vi/4S_4wCO5Yk8/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>4S_4wCO5Yk8</src>
-	</media>
-	<media>
-		<title>RADYO GOL 7/24 CANLI YAYIN!</title>
-		<thumb>https://i.ytimg.com/vi/wDihTMdw2Ag/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>wDihTMdw2Ag</src>
 	</media>
 </media>
