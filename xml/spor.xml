@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <media>
 	<media>
-		<title>🔴 HT Spor 7/24 Canlı Yayını</title>
+		<title>#CANLI - Ayça Kaçmaz İle Spor Hattı</title>
 		<thumb>https://i.ytimg.com/vi/RdpqsTbi_KU/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>RdpqsTbi_KU</src>
@@ -13,10 +13,34 @@
 		<src>ysh-bPiD3Oo</src>
 	</media>
 	<media>
-		<title>SIFIR TV CANLI YAYIN</title>
-		<thumb>https://i.ytimg.com/vi/JCSOAmBeXnY/hqdefault_live.jpg</thumb>
+		<title>Güzide Gebze Spor Kulübü - Menemen Futbol Kulübü</title>
+		<thumb>https://i.ytimg.com/vi/S49E39cCvqc/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>JCSOAmBeXnY</src>
+		<src>S49E39cCvqc</src>
+	</media>
+	<media>
+		<title>Kdz. Ereğli Belediye Spor - Tokat Belediye Spor Kulübü</title>
+		<thumb>https://i.ytimg.com/vi/5UysaLjHXOo/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>5UysaLjHXOo</src>
+	</media>
+	<media>
+		<title>Somaspor - Arkent Arnavutköy Belediyesi Futbol SK</title>
+		<thumb>https://i.ytimg.com/vi/U-AhvxqxJFQ/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>U-AhvxqxJFQ</src>
+	</media>
+	<media>
+		<title>Suvermez Kapadokya Spor - Diyarbekir Spor A.Ş.</title>
+		<thumb>https://i.ytimg.com/vi/UJise7CZFzY/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>UJise7CZFzY</src>
+	</media>
+	<media>
+		<title>İskenderunspor A.Ş. - Beykoz Anadolu Spor A.Ş.</title>
+		<thumb>https://i.ytimg.com/vi/T-H2DCSMtoY/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>T-H2DCSMtoY</src>
 	</media>
 	<media>
 		<title>beIN SPORTS HABER Canlı Yayını | #beINSPORTS</title>
