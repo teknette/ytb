@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <media>
 	<media>
-		<title>🔴 HT Spor 7/24 Canlı Yayını</title>
+		<title>#CANLI - Fenerbahçe Gaziantep&amp;#39;ten 3 Puanla Çıktı</title>
+		<thumb>https://i.ytimg.com/vi/OHtqLBCa6Ds/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>OHtqLBCa6Ds</src>
+	</media>
+	<media>
+		<title>#CANLI - Deniz Biricik ile Satır Arası</title>
 		<thumb>https://i.ytimg.com/vi/RdpqsTbi_KU/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>RdpqsTbi_KU</src>
 	</media>
 	<media>
-		<title>A Spor Canlı Yayın 🔴</title>
+		<title>A Spor Canlı Yayın 🔴 52 Orduspor FK - Sarıyer | Ziraat Türkiye Kupası 3. Tur Maçı</title>
 		<thumb>https://i.ytimg.com/vi/ysh-bPiD3Oo/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>ysh-bPiD3Oo</src>
@@ -17,6 +23,12 @@
 		<thumb>https://i.ytimg.com/vi/JCSOAmBeXnY/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>JCSOAmBeXnY</src>
+	</media>
+	<media>
+		<title>Oyun Planı | Ersin Düzen, Emre Özcan</title>
+		<thumb>https://i.ytimg.com/vi/WduyFuq2ZLw/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>WduyFuq2ZLw</src>
 	</media>
 	<media>
 		<title>beIN SPORTS HABER Canlı Yayını | #beINSPORTS</title>
