@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <media>
 	<media>
-		<title>#Canlı 149 Hakemin Kariyerine Son Verildi!</title>
-		<thumb>https://i.ytimg.com/vi/qU2jB9CwAUw/hqdefault_live.jpg</thumb>
+		<title>beIN SPORTS HABER Canlı Yayını | #beINSPORTS</title>
+		<thumb>https://i.ytimg.com/vi/9xVXWLwT0vA/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>qU2jB9CwAUw</src>
-	</media>
-	<media>
-		<title>🔴 HT Spor 7/24 Canlı Yayını</title>
-		<thumb>https://i.ytimg.com/vi/RdpqsTbi_KU/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>RdpqsTbi_KU</src>
-	</media>
-	<media>
-		<title>A Spor Canlı Yayın 🔴</title>
-		<thumb>https://i.ytimg.com/vi/ysh-bPiD3Oo/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>ysh-bPiD3Oo</src>
-	</media>
-	<media>
-		<title>FENERBAHÇE GELİŞİM - MERSİN GENÇLERBİRLİĞİ</title>
-		<thumb>https://i.ytimg.com/vi/PjcGDL5bLPE/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>PjcGDL5bLPE</src>
+		<src>9xVXWLwT0vA</src>
 	</media>
 	<media>
 		<title>🔴 Galatasaray - Trabzonspor Maç Özetleri | beIN SPORTS Arşiv</title>
@@ -35,5 +17,59 @@
 		<thumb>https://i.ytimg.com/vi/4S_4wCO5Yk8/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>4S_4wCO5Yk8</src>
+	</media>
+	<media>
+		<title>A Spor Canlı Yayın 🔴</title>
+		<thumb>https://i.ytimg.com/vi/ysh-bPiD3Oo/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>ysh-bPiD3Oo</src>
+	</media>
+	<media>
+		<title>#Canlı Siner Çakır Heyse ile Ana Haber</title>
+		<thumb>https://i.ytimg.com/vi/RdpqsTbi_KU/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>RdpqsTbi_KU</src>
+	</media>
+	<media>
+		<title>TJK TV Eyerleme Alanı İstanbul</title>
+		<thumb>https://i.ytimg.com/vi/EAQCVTOMK1g/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>EAQCVTOMK1g</src>
+	</media>
+	<media>
+		<title>TJK TV Canlı Yayın</title>
+		<thumb>https://i.ytimg.com/vi/g89RQMJtK6E/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>g89RQMJtK6E</src>
+	</media>
+	<media>
+		<title>TJK TV Eyerleme Alanı Bursa</title>
+		<thumb>https://i.ytimg.com/vi/pmOfvTjlpZc/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>pmOfvTjlpZc</src>
+	</media>
+	<media>
+		<title>Start Kura Çekimi  Adana</title>
+		<thumb>https://i.ytimg.com/vi/rHyTL2BPPwQ/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>rHyTL2BPPwQ</src>
+	</media>
+	<media>
+		<title>Start Kura Çekimi İstanbul</title>
+		<thumb>https://i.ytimg.com/vi/LMRt3N64_Wg/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>LMRt3N64_Wg</src>
+	</media>
+	<media>
+		<title>⚪ Beşiktaş - Fenerbahçe DERBİ öncesi son gelişmeler | Beşiktaş Gündemi | Kartal Record</title>
+		<thumb>https://i.ytimg.com/vi/MkO5npydOrM/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>MkO5npydOrM</src>
+	</media>
+	<media>
+		<title>BAHİS SKANDALI &amp;amp; GALATASARAY vs TRABZONSPOR MAÇI | Konsey</title>
+		<thumb>https://i.ytimg.com/vi/5GUZ_ohntk8/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>5GUZ_ohntk8</src>
 	</media>
 </media>
