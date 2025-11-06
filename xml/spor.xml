@@ -13,16 +13,10 @@
 		<src>cwTpwlxJ4bs</src>
 	</media>
 	<media>
-		<title>A Spor Canlı Yayın 🔴 Ajax - Galatasaray Maçına Doğru</title>
+		<title>A Spor Canlı Yayın 🔴</title>
 		<thumb>https://i.ytimg.com/vi/ysh-bPiD3Oo/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>ysh-bPiD3Oo</src>
-	</media>
-	<media>
-		<title>#Canlı Deniz Biricik ile Satır Arası</title>
-		<thumb>https://i.ytimg.com/vi/MF1vZwWRuNE/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>MF1vZwWRuNE</src>
 	</media>
 	<media>
 		<title>🔴 HT Spor 7/24 Canlı Yayını</title>
@@ -37,6 +31,18 @@
 		<src>JCSOAmBeXnY</src>
 	</media>
 	<media>
+		<title>TJK TV Canlı Yayın</title>
+		<thumb>https://i.ytimg.com/vi/g89RQMJtK6E/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>g89RQMJtK6E</src>
+	</media>
+	<media>
+		<title>TJK TV Eyerleme Alanı Elazığ</title>
+		<thumb>https://i.ytimg.com/vi/bOHudemRt84/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>bOHudemRt84</src>
+	</media>
+	<media>
 		<title>Start Kura Çekimi  Bursa</title>
 		<thumb>https://i.ytimg.com/vi/i5CgnroZ1HY/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
@@ -47,23 +53,5 @@
 		<thumb>https://i.ytimg.com/vi/LMRt3N64_Wg/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>LMRt3N64_Wg</src>
-	</media>
-	<media>
-		<title>TJK TV Canlı Yayın</title>
-		<thumb>https://i.ytimg.com/vi/g89RQMJtK6E/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>g89RQMJtK6E</src>
-	</media>
-	<media>
-		<title>TJK TV Eyerleme Alanı İstanbul</title>
-		<thumb>https://i.ytimg.com/vi/EAQCVTOMK1g/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>EAQCVTOMK1g</src>
-	</media>
-	<media>
-		<title>TJK TV Eyerleme Alanı Elazığ</title>
-		<thumb>https://i.ytimg.com/vi/bOHudemRt84/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>bOHudemRt84</src>
 	</media>
 </media>
