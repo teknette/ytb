@@ -19,6 +19,12 @@
 		<src>ysh-bPiD3Oo</src>
 	</media>
 	<media>
+		<title>#Canlı Deniz Biricik ile Satır Arası</title>
+		<thumb>https://i.ytimg.com/vi/C3Ork9oqzPQ/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>C3Ork9oqzPQ</src>
+	</media>
+	<media>
 		<title>🔴 HT Spor 7/24 Canlı Yayını</title>
 		<thumb>https://i.ytimg.com/vi/RdpqsTbi_KU/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
@@ -37,21 +43,27 @@
 		<src>g89RQMJtK6E</src>
 	</media>
 	<media>
-		<title>TJK TV Eyerleme Alanı Elazığ</title>
-		<thumb>https://i.ytimg.com/vi/bOHudemRt84/hqdefault_live.jpg</thumb>
+		<title>TJK TV Eyerleme Alanı İzmir</title>
+		<thumb>https://i.ytimg.com/vi/_iDNXJ2C0so/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>bOHudemRt84</src>
+		<src>_iDNXJ2C0so</src>
 	</media>
 	<media>
-		<title>Start Kura Çekimi  Bursa</title>
-		<thumb>https://i.ytimg.com/vi/i5CgnroZ1HY/hqdefault_live.jpg</thumb>
+		<title>Start Kura Çekimi  İzmir</title>
+		<thumb>https://i.ytimg.com/vi/sWTZFl075gk/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>i5CgnroZ1HY</src>
+		<src>sWTZFl075gk</src>
 	</media>
 	<media>
-		<title>Start Kura Çekimi İstanbul</title>
-		<thumb>https://i.ytimg.com/vi/LMRt3N64_Wg/hqdefault_live.jpg</thumb>
+		<title>Start Kura Çekimi  Diyarbakır</title>
+		<thumb>https://i.ytimg.com/vi/SGZMjZsypoE/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>LMRt3N64_Wg</src>
+		<src>SGZMjZsypoE</src>
+	</media>
+	<media>
+		<title>TJK TV Eyerleme Alanı Ankara</title>
+		<thumb>https://i.ytimg.com/vi/quTzNRG1AYg/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>quTzNRG1AYg</src>
 	</media>
 </media>
