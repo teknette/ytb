@@ -19,7 +19,13 @@
 		<src>ysh-bPiD3Oo</src>
 	</media>
 	<media>
-		<title>#CANLI -🔴 HT Spor 7/24 Canlı Yayını</title>
+		<title>#CANLI - Deniz Biricik İle Satır Arası</title>
+		<thumb>https://i.ytimg.com/vi/o6mpxPsZnkA/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>o6mpxPsZnkA</src>
+	</media>
+	<media>
+		<title>#CANLI - Deniz Biricik İle Satır Arası</title>
 		<thumb>https://i.ytimg.com/vi/RdpqsTbi_KU/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>RdpqsTbi_KU</src>
@@ -37,27 +43,33 @@
 		<src>g89RQMJtK6E</src>
 	</media>
 	<media>
-		<title>TJK TV Eyerleme Alanı İstanbul</title>
-		<thumb>https://i.ytimg.com/vi/AYlJ5y_-ya8/hqdefault_live.jpg</thumb>
+		<title>TJK TV Eyerleme Alanı İzmir</title>
+		<thumb>https://i.ytimg.com/vi/_iDNXJ2C0so/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>AYlJ5y_-ya8</src>
+		<src>_iDNXJ2C0so</src>
 	</media>
 	<media>
-		<title>TJK TV Eyerleme Alanı Elazığ</title>
-		<thumb>https://i.ytimg.com/vi/bOHudemRt84/hqdefault_live.jpg</thumb>
+		<title>Start Kura Çekimi  Diyarbakır</title>
+		<thumb>https://i.ytimg.com/vi/SGZMjZsypoE/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>bOHudemRt84</src>
+		<src>SGZMjZsypoE</src>
 	</media>
 	<media>
-		<title>Start Kura Çekimi  Bursa</title>
-		<thumb>https://i.ytimg.com/vi/i5CgnroZ1HY/hqdefault_live.jpg</thumb>
+		<title>TJK TV Eyerleme Alanı Ankara</title>
+		<thumb>https://i.ytimg.com/vi/quTzNRG1AYg/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>i5CgnroZ1HY</src>
+		<src>quTzNRG1AYg</src>
 	</media>
 	<media>
-		<title>Start Kura Çekimi İstanbul</title>
-		<thumb>https://i.ytimg.com/vi/LMRt3N64_Wg/hqdefault_live.jpg</thumb>
+		<title>Start Kura Çekimi  İzmir</title>
+		<thumb>https://i.ytimg.com/vi/sWTZFl075gk/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>LMRt3N64_Wg</src>
+		<src>sWTZFl075gk</src>
+	</media>
+	<media>
+		<title>🔴 CANLI | Türkiye - Azerbaycan &amp;quot;6. İslami Dayanışma Oyunları Kadınlar Voleybol&amp;quot;</title>
+		<thumb>https://i.ytimg.com/vi/nCSuKRFab1g/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>nCSuKRFab1g</src>
 	</media>
 </media>
