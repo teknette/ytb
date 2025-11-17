@@ -19,16 +19,10 @@
 		<src>ysh-bPiD3Oo</src>
 	</media>
 	<media>
-		<title>#CANLI | Levent Yavuz ile Spor Hattı</title>
+		<title>#CANLI | HT Spor 7/24 Canlı Yayın 🔴</title>
 		<thumb>https://i.ytimg.com/vi/RdpqsTbi_KU/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>RdpqsTbi_KU</src>
-	</media>
-	<media>
-		<title>FENERBAHÇE ARSAVEV KADIN FUTBOL TAKIMI - YÜKSEKOVA SPOR KULÜBÜ</title>
-		<thumb>https://i.ytimg.com/vi/l0fpDaRG-sI/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>l0fpDaRG-sI</src>
 	</media>
 	<media>
 		<title>SIFIR TV CANLI YAYIN</title>
@@ -43,15 +37,27 @@
 		<src>g89RQMJtK6E</src>
 	</media>
 	<media>
-		<title>Start Kura Çekimi  Adana</title>
-		<thumb>https://i.ytimg.com/vi/rHyTL2BPPwQ/hqdefault_live.jpg</thumb>
+		<title>TJK TV Eyerleme Alanı Şanlıurfa</title>
+		<thumb>https://i.ytimg.com/vi/kBdR-O0cRRg/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>rHyTL2BPPwQ</src>
+		<src>kBdR-O0cRRg</src>
 	</media>
 	<media>
-		<title>Start Kura Çekimi  Antalya</title>
-		<thumb>https://i.ytimg.com/vi/vFgQLLBX_so/hqdefault_live.jpg</thumb>
+		<title>Start Kura Çekimi  Elazığ</title>
+		<thumb>https://i.ytimg.com/vi/i1cqwNZxj20/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>vFgQLLBX_so</src>
+		<src>i1cqwNZxj20</src>
+	</media>
+	<media>
+		<title>TJK TV Eyerleme Alanı Bursa</title>
+		<thumb>https://i.ytimg.com/vi/pmOfvTjlpZc/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>pmOfvTjlpZc</src>
+	</media>
+	<media>
+		<title>Start Kura Çekimi İstanbul</title>
+		<thumb>https://i.ytimg.com/vi/LMRt3N64_Wg/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>LMRt3N64_Wg</src>
 	</media>
 </media>
