@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <media>
 	<media>
+		<title>beIN SPORTS HABER Canlı Yayını | #beINSPORTS</title>
+		<thumb>https://i.ytimg.com/vi/9xVXWLwT0vA/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>9xVXWLwT0vA</src>
+	</media>
+	<media>
 		<title>🔴 Fenerbahçe - Galatasaray Maç Özetleri | beIN SPORTS Arşiv</title>
 		<thumb>https://i.ytimg.com/vi/cwTpwlxJ4bs/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
@@ -13,7 +19,7 @@
 		<src>ysh-bPiD3Oo</src>
 	</media>
 	<media>
-		<title>#CANLI | Açık Oturum: Bahis (TEKRAR)</title>
+		<title>#CANLI | HT Spor 7/24 Canlı Yayın</title>
 		<thumb>https://i.ytimg.com/vi/RdpqsTbi_KU/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>RdpqsTbi_KU</src>
