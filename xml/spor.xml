@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <media>
 	<media>
+		<title>beIN SPORTS HABER Canlı Yayını | #beINSPORTS</title>
+		<thumb>https://i.ytimg.com/vi/9xVXWLwT0vA/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>9xVXWLwT0vA</src>
+	</media>
+	<media>
 		<title>🔴 Fenerbahçe - Galatasaray Maç Özetleri | beIN SPORTS Arşiv</title>
 		<thumb>https://i.ytimg.com/vi/cwTpwlxJ4bs/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
@@ -13,22 +19,22 @@
 		<src>ysh-bPiD3Oo</src>
 	</media>
 	<media>
-		<title>#CANLI | Melih Aydoğmuş ile Satır Arası</title>
+		<title>#CANLI | HT Spor 7/24 Canlı Yayın</title>
 		<thumb>https://i.ytimg.com/vi/RdpqsTbi_KU/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>RdpqsTbi_KU</src>
+	</media>
+	<media>
+		<title>SIFIR TV CANLI YAYIN</title>
+		<thumb>https://i.ytimg.com/vi/JCSOAmBeXnY/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>JCSOAmBeXnY</src>
 	</media>
 	<media>
 		<title>TJK TV Canlı Yayın</title>
 		<thumb>https://i.ytimg.com/vi/g89RQMJtK6E/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>g89RQMJtK6E</src>
-	</media>
-	<media>
-		<title>TJK TV Eyerleme Alanı İstanbul</title>
-		<thumb>https://i.ytimg.com/vi/Kl048t9SOXA/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>Kl048t9SOXA</src>
 	</media>
 	<media>
 		<title>TJK TV Eyerleme Alanı Elazığ</title>
