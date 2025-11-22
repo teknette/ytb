@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <media>
 	<media>
-		<title>beIN SPORTS HABER Canlı Yayını | #beINSPORTS</title>
-		<thumb>https://i.ytimg.com/vi/9xVXWLwT0vA/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>9xVXWLwT0vA</src>
-	</media>
-	<media>
 		<title>🔴 Fenerbahçe - Galatasaray Maç Özetleri | beIN SPORTS Arşiv</title>
 		<thumb>https://i.ytimg.com/vi/cwTpwlxJ4bs/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
@@ -19,10 +13,16 @@
 		<src>ysh-bPiD3Oo</src>
 	</media>
 	<media>
-		<title>#CANLI | HT Spor 7/24 Canlı Yayın</title>
+		<title>#CANLI | Ayça Kaçmaz ile Spor Hattı</title>
 		<thumb>https://i.ytimg.com/vi/ih2KAtA50I4/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>ih2KAtA50I4</src>
+	</media>
+	<media>
+		<title>ANKARA BÜYÜKŞEHİR BELEDİYESİ FOMGET - SERCAN İNŞAAT GAZİANTEP ALG SPOR</title>
+		<thumb>https://i.ytimg.com/vi/AItSgd1q3Sw/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>AItSgd1q3Sw</src>
 	</media>
 	<media>
 		<title>SIFIR TV CANLI YAYIN</title>
@@ -35,6 +35,12 @@
 		<thumb>https://i.ytimg.com/vi/g89RQMJtK6E/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>g89RQMJtK6E</src>
+	</media>
+	<media>
+		<title>TJK TV Eyerleme Alanı İstanbul</title>
+		<thumb>https://i.ytimg.com/vi/Sws0zHpVFRA/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>Sws0zHpVFRA</src>
 	</media>
 	<media>
 		<title>Start Kura Çekimi  Şanlıurfa</title>
