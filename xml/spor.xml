@@ -19,10 +19,16 @@
 		<src>ysh-bPiD3Oo</src>
 	</media>
 	<media>
-		<title>#CANLI | Melih Aydoğmuş ile Çevre Kontrolü</title>
+		<title>#CANLI | Seçil Menteş ile Maç Yolu</title>
 		<thumb>https://i.ytimg.com/vi/ih2KAtA50I4/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>ih2KAtA50I4</src>
+	</media>
+	<media>
+		<title>ÇEKMEKÖY BİLGİDOĞA - FENERBAHÇE ARSAVEV KADIN FUTBOL TAKIMI</title>
+		<thumb>https://i.ytimg.com/vi/Ktd6hBOfa9g/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>Ktd6hBOfa9g</src>
 	</media>
 	<media>
 		<title>SIFIR TV CANLI YAYIN</title>
@@ -43,15 +49,15 @@
 		<src>_iDNXJ2C0so</src>
 	</media>
 	<media>
-		<title>Start Kura Çekimi  Adana</title>
-		<thumb>https://i.ytimg.com/vi/rHyTL2BPPwQ/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>rHyTL2BPPwQ</src>
-	</media>
-	<media>
 		<title>Start Kura Çekimi  Antalya</title>
 		<thumb>https://i.ytimg.com/vi/vFgQLLBX_so/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>vFgQLLBX_so</src>
+	</media>
+	<media>
+		<title>Start Kura Çekimi  Adana</title>
+		<thumb>https://i.ytimg.com/vi/rHyTL2BPPwQ/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>rHyTL2BPPwQ</src>
 	</media>
 </media>
