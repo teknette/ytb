@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <media>
 	<media>
+		<title>beIN SPORTS HABER Canlı Yayını | #beINSPORTS</title>
+		<thumb>https://i.ytimg.com/vi/9xVXWLwT0vA/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>9xVXWLwT0vA</src>
+	</media>
+	<media>
 		<title>🔴 Fenerbahçe - Galatasaray Maç Özetleri | beIN SPORTS Arşiv</title>
 		<thumb>https://i.ytimg.com/vi/cwTpwlxJ4bs/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
@@ -13,28 +19,16 @@
 		<src>ysh-bPiD3Oo</src>
 	</media>
 	<media>
-		<title>#CANLI | Aslan&amp;#39;da hedef ilk 8, Rakip USG | Satır Arası</title>
+		<title>#CANLI | HT Spor 7/24 Canlı Yayın</title>
 		<thumb>https://i.ytimg.com/vi/ih2KAtA50I4/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>ih2KAtA50I4</src>
-	</media>
-	<media>
-		<title>Haluk Kesim ile Sıfır&amp;#39;dan Konuşalım | Mehmet Mustafa Erkol - Para Triatlon</title>
-		<thumb>https://i.ytimg.com/vi/cNdbPNEI4Nw/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>cNdbPNEI4Nw</src>
 	</media>
 	<media>
 		<title>SIFIR TV CANLI YAYIN</title>
 		<thumb>https://i.ytimg.com/vi/JCSOAmBeXnY/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>JCSOAmBeXnY</src>
-	</media>
-	<media>
-		<title>TJK TV Canlı Yayın</title>
-		<thumb>https://i.ytimg.com/vi/g89RQMJtK6E/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>g89RQMJtK6E</src>
 	</media>
 	<media>
 		<title>TJK TV Eyerleme Alanı Adana</title>
