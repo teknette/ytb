@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <media>
 	<media>
-		<title>beIN SPORTS HABER Canlı Yayını | #beINSPORTS</title>
-		<thumb>https://i.ytimg.com/vi/9xVXWLwT0vA/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>9xVXWLwT0vA</src>
-	</media>
-	<media>
 		<title>🔴 Fenerbahçe - Galatasaray Maç Özetleri | beIN SPORTS Arşiv</title>
 		<thumb>https://i.ytimg.com/vi/cwTpwlxJ4bs/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
@@ -19,22 +13,58 @@
 		<src>ysh-bPiD3Oo</src>
 	</media>
 	<media>
-		<title>#CANLI | HT Spor 7/24 Canlı Yayın</title>
+		<title>#CANLI</title>
 		<thumb>https://i.ytimg.com/vi/ih2KAtA50I4/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>ih2KAtA50I4</src>
 	</media>
 	<media>
-		<title>SIFIR TV CANLI YAYIN</title>
-		<thumb>https://i.ytimg.com/vi/JCSOAmBeXnY/hqdefault_live.jpg</thumb>
+		<title>#CANLI OGM Orman - Çanakkale Dardanel | Halkbank Kadınlar Basketbol Süper Ligi Müsabakası</title>
+		<thumb>https://i.ytimg.com/vi/qbGVGZGrapM/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>JCSOAmBeXnY</src>
+		<src>qbGVGZGrapM</src>
+	</media>
+	<media>
+		<title>ARKENT ARNAVUTKÖY BELEDİYESİ FUTBOL SK - KCT 1461 TRABZON FK</title>
+		<thumb>https://i.ytimg.com/vi/WMiKWSnt9pg/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>WMiKWSnt9pg</src>
+	</media>
+	<media>
+		<title>NİĞDE BELEDİYESİ SPOR - KIRIKKALE FK SPOR KULÜBÜ</title>
+		<thumb>https://i.ytimg.com/vi/1nNyUIcGHmc/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>1nNyUIcGHmc</src>
+	</media>
+	<media>
+		<title>KARABÜK İDMANYURDU SPOR  - KDZ.EREĞLİ BELEDİYE SPOR</title>
+		<thumb>https://i.ytimg.com/vi/1pjEF7IyO5s/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>1pjEF7IyO5s</src>
+	</media>
+	<media>
+		<title>KÜÇÜKÇEKMECE SİNOP SPOR A.Ş. - SİLİVRİSPOR</title>
+		<thumb>https://i.ytimg.com/vi/T-Zz520iw-c/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>T-Zz520iw-c</src>
+	</media>
+	<media>
+		<title>ISBAŞ ISPARTA 32 SPOR KULÜBÜ - ALİAĞA FUTBOL A.Ş.</title>
+		<thumb>https://i.ytimg.com/vi/1Ze1_xoFaQo/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>1Ze1_xoFaQo</src>
 	</media>
 	<media>
 		<title>TJK TV Canlı Yayın</title>
 		<thumb>https://i.ytimg.com/vi/g89RQMJtK6E/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>g89RQMJtK6E</src>
+	</media>
+	<media>
+		<title>TJK TV Eyerleme Alanı İstanbul</title>
+		<thumb>https://i.ytimg.com/vi/ppAxk_5YtCQ/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>ppAxk_5YtCQ</src>
 	</media>
 	<media>
 		<title>Start Kura Çekimi  Şanlıurfa</title>
