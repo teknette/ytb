@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <media>
 	<media>
-		<title>beIN SPORTS HABER Canlı Yayını | #beINSPORTS</title>
-		<thumb>https://i.ytimg.com/vi/9xVXWLwT0vA/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>9xVXWLwT0vA</src>
-	</media>
-	<media>
 		<title>🔴 Fenerbahçe - Galatasaray Maç Özetleri | beIN SPORTS Arşiv</title>
 		<thumb>https://i.ytimg.com/vi/cwTpwlxJ4bs/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
@@ -19,16 +13,46 @@
 		<src>ysh-bPiD3Oo</src>
 	</media>
 	<media>
-		<title>HT Spor 7/24 Canlı Yayın</title>
+		<title>#CANLI - Nesibe Aydın – Çimsa ÇBK Mersin | Kadınlar Basketbol Ligi Müsabakası</title>
 		<thumb>https://i.ytimg.com/vi/ih2KAtA50I4/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>ih2KAtA50I4</src>
 	</media>
 	<media>
-		<title>SIFIR TV CANLI YAYIN</title>
-		<thumb>https://i.ytimg.com/vi/JCSOAmBeXnY/hqdefault_live.jpg</thumb>
+		<title>#CANLI - Nesibe Aydın – Çimsa ÇBK Mersin | Kadınlar Basketbol Ligi Müsabakası</title>
+		<thumb>https://i.ytimg.com/vi/UaCBiFWoAjk/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>JCSOAmBeXnY</src>
+		<src>UaCBiFWoAjk</src>
+	</media>
+	<media>
+		<title>SEZA ÇİMENTO ELAZIĞSPOR - BUCASPOR 1928</title>
+		<thumb>https://i.ytimg.com/vi/vmAPt2-4eQA/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>vmAPt2-4eQA</src>
+	</media>
+	<media>
+		<title>İSKENDERUNSPOR A.Ş. - MERKÜR JET ERBAASPOR</title>
+		<thumb>https://i.ytimg.com/vi/2ZidHngu8IA/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>2ZidHngu8IA</src>
+	</media>
+	<media>
+		<title>BURSASPOR - FETHİYESPOR</title>
+		<thumb>https://i.ytimg.com/vi/G9jduSedc4k/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>G9jduSedc4k</src>
+	</media>
+	<media>
+		<title>ALTINORDU - MUĞLASPOR KULÜBÜ</title>
+		<thumb>https://i.ytimg.com/vi/_PHR4y_49yk/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>_PHR4y_49yk</src>
+	</media>
+	<media>
+		<title>BEYOĞLU YENİ ÇARŞI SPOR FAALİYETLERİ A.Ş. - SİNCAN BELEDİYESİ ANKARASPOR</title>
+		<thumb>https://i.ytimg.com/vi/dOLo3zR3zrQ/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>dOLo3zR3zrQ</src>
 	</media>
 	<media>
 		<title>TJK TV Canlı Yayın</title>
