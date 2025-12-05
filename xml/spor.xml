@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <media>
 	<media>
+		<title>beIN SPORTS HABER Canlı Yayını | #beINSPORTS</title>
+		<thumb>https://i.ytimg.com/vi/9xVXWLwT0vA/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>9xVXWLwT0vA</src>
+	</media>
+	<media>
 		<title>🔴 Fenerbahçe - Galatasaray Maç Özetleri | beIN SPORTS Arşiv</title>
 		<thumb>https://i.ytimg.com/vi/cwTpwlxJ4bs/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
@@ -11,18 +17,6 @@
 		<thumb>https://i.ytimg.com/vi/ysh-bPiD3Oo/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>ysh-bPiD3Oo</src>
-	</media>
-	<media>
-		<title>#CANLI | Deniz Biricik ile Satır Arası</title>
-		<thumb>https://i.ytimg.com/vi/ih2KAtA50I4/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>ih2KAtA50I4</src>
-	</media>
-	<media>
-		<title>Haluk Kesim ile Sıfır&amp;#39;dan Konuşalım</title>
-		<thumb>https://i.ytimg.com/vi/YScv_5x8-_Y/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>YScv_5x8-_Y</src>
 	</media>
 	<media>
 		<title>TJK TV Canlı Yayın</title>
