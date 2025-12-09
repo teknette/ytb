@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <media>
 	<media>
+		<title>beIN SPORTS HABER Canlı Yayını | #beINSPORTS</title>
+		<thumb>https://i.ytimg.com/vi/9xVXWLwT0vA/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>9xVXWLwT0vA</src>
+	</media>
+	<media>
 		<title>🔴 Fenerbahçe - Galatasaray Maç Özetleri | beIN SPORTS Arşiv</title>
 		<thumb>https://i.ytimg.com/vi/cwTpwlxJ4bs/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
@@ -13,16 +19,10 @@
 		<src>ysh-bPiD3Oo</src>
 	</media>
 	<media>
-		<title>#CANLI | Deniz Biricik ile Satır Arası</title>
+		<title>#CANLI | HT Spor 7/24 Canlı Yayın</title>
 		<thumb>https://i.ytimg.com/vi/ih2KAtA50I4/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>ih2KAtA50I4</src>
-	</media>
-	<media>
-		<title>Haluk Kesim ile Sıfır&amp;#39;dan Konuşalım</title>
-		<thumb>https://i.ytimg.com/vi/3gZLz7n0ZV0/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>3gZLz7n0ZV0</src>
 	</media>
 	<media>
 		<title>TJK TV Canlı Yayın</title>
@@ -31,16 +31,16 @@
 		<src>g89RQMJtK6E</src>
 	</media>
 	<media>
-		<title>Start Kura Çekimi  Şanlıurfa</title>
-		<thumb>https://i.ytimg.com/vi/uSBWISJ1YHA/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>uSBWISJ1YHA</src>
-	</media>
-	<media>
 		<title>TJK TV Eyerleme Alanı Şanlıurfa</title>
 		<thumb>https://i.ytimg.com/vi/kBdR-O0cRRg/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>kBdR-O0cRRg</src>
+	</media>
+	<media>
+		<title>Start Kura Çekimi  Şanlıurfa</title>
+		<thumb>https://i.ytimg.com/vi/uSBWISJ1YHA/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>uSBWISJ1YHA</src>
 	</media>
 	<media>
 		<title>TJK TV Eyerleme Alanı Bursa</title>
@@ -53,11 +53,5 @@
 		<thumb>https://i.ytimg.com/vi/LMRt3N64_Wg/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>LMRt3N64_Wg</src>
-	</media>
-	<media>
-		<title>🔴 CANLI | Tedesco&amp;#39;nun maç başlangıç planı, Kerem Aktürkoğlu&amp;#39;nun performansı, Galatasaray&amp;#39;ın oyunu</title>
-		<thumb>https://i.ytimg.com/vi/HKBPTTASej4/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>HKBPTTASej4</src>
 	</media>
 </media>
