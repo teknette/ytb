@@ -19,16 +19,22 @@
 		<src>ysh-bPiD3Oo</src>
 	</media>
 	<media>
-		<title>#CANLI | HT Spor 7/24 Canlı Yayın</title>
+		<title>#CANLI OGM Ormanspor - Galatasaray Çağdaş Faktoring | Halkbank Kadınlar Basketbol Süper Ligi</title>
 		<thumb>https://i.ytimg.com/vi/ih2KAtA50I4/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>ih2KAtA50I4</src>
 	</media>
 	<media>
-		<title>TJK TV Eyerleme Alanı Antalya</title>
-		<thumb>https://i.ytimg.com/vi/_1_K-Nl2uHY/hqdefault_live.jpg</thumb>
+		<title>#CANLI OGM Ormanspor - Galatasaray Çağdaş Faktoring | Halkbank Kadınlar Basketbol Süper Ligi</title>
+		<thumb>https://i.ytimg.com/vi/zNoF1wZj50o/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>_1_K-Nl2uHY</src>
+		<src>zNoF1wZj50o</src>
+	</media>
+	<media>
+		<title>Haluk Kesim ile Sıfır&amp;#39;dan Konuşalım</title>
+		<thumb>https://i.ytimg.com/vi/dcf6tA73E6k/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>dcf6tA73E6k</src>
 	</media>
 	<media>
 		<title>TJK TV Canlı Yayın</title>
@@ -37,10 +43,16 @@
 		<src>g89RQMJtK6E</src>
 	</media>
 	<media>
-		<title>TJK TV Eyerleme Alanı Adana</title>
-		<thumb>https://i.ytimg.com/vi/S3sBJ1B7toE/hqdefault_live.jpg</thumb>
+		<title>TJK TV Eyerleme Alanı İstanbul</title>
+		<thumb>https://i.ytimg.com/vi/YfQeXWO-SQc/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>S3sBJ1B7toE</src>
+		<src>YfQeXWO-SQc</src>
+	</media>
+	<media>
+		<title>TJK TV Eyerleme Alanı Şanlıurfa</title>
+		<thumb>https://i.ytimg.com/vi/kBdR-O0cRRg/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>kBdR-O0cRRg</src>
 	</media>
 	<media>
 		<title>Start Kura Çekimi  İzmir</title>
@@ -53,5 +65,11 @@
 		<thumb>https://i.ytimg.com/vi/vFgQLLBX_so/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>vFgQLLBX_so</src>
+	</media>
+	<media>
+		<title>Tedesco’nun Yeni Orta Saha Hedefi, Galatasaray’da Neves Gündemi | Ersin Düzen, Emre Özcan</title>
+		<thumb>https://i.ytimg.com/vi/rZug4RU20cQ/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>rZug4RU20cQ</src>
 	</media>
 </media>
