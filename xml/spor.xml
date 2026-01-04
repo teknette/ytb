@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <media>
 	<media>
-		<title>beIN SPORTS HABER Canlı Yayını | #beINSPORTS</title>
-		<thumb>https://i.ytimg.com/vi/9xVXWLwT0vA/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>9xVXWLwT0vA</src>
-	</media>
-	<media>
 		<title>🔴 Fenerbahçe - Beşiktaş  Maç Özetleri | beIN SPORTS Arşiv</title>
 		<thumb>https://i.ytimg.com/vi/FAbm2xnWV8Q/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
@@ -19,7 +13,7 @@
 		<src>ysh-bPiD3Oo</src>
 	</media>
 	<media>
-		<title>#CANLI </title>
+		<title>#CANLI | Galatasaray transfer gündemi | Spor Hattı</title>
 		<thumb>https://i.ytimg.com/vi/ih2KAtA50I4/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>ih2KAtA50I4</src>
@@ -37,15 +31,21 @@
 		<src>S3sBJ1B7toE</src>
 	</media>
 	<media>
-		<title>Start Kura Çekimi  Şanlıurfa</title>
-		<thumb>https://i.ytimg.com/vi/uSBWISJ1YHA/hqdefault_live.jpg</thumb>
+		<title>TJK TV Eyerleme Alanı İzmir</title>
+		<thumb>https://i.ytimg.com/vi/_iDNXJ2C0so/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>uSBWISJ1YHA</src>
+		<src>_iDNXJ2C0so</src>
 	</media>
 	<media>
-		<title>Start Kura Çekimi  Bursa</title>
-		<thumb>https://i.ytimg.com/vi/i5CgnroZ1HY/hqdefault_live.jpg</thumb>
+		<title>Start Kura Çekimi  Adana</title>
+		<thumb>https://i.ytimg.com/vi/rHyTL2BPPwQ/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>i5CgnroZ1HY</src>
+		<src>rHyTL2BPPwQ</src>
+	</media>
+	<media>
+		<title>Start Kura Çekimi  Antalya</title>
+		<thumb>https://i.ytimg.com/vi/vFgQLLBX_so/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>vFgQLLBX_so</src>
 	</media>
 </media>
