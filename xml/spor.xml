@@ -19,10 +19,16 @@
 		<src>ysh-bPiD3Oo</src>
 	</media>
 	<media>
-		<title>#CANLI | HT Spor 7/24 Canlı Yayını</title>
+		<title>#CANLI | Deniz biricik ile Satır Arası</title>
 		<thumb>https://i.ytimg.com/vi/ih2KAtA50I4/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>ih2KAtA50I4</src>
+	</media>
+	<media>
+		<title>Haluk Kesim ile Sıfır&amp;#39;dan Konuşalım</title>
+		<thumb>https://i.ytimg.com/vi/yoclo0HouJI/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>yoclo0HouJI</src>
 	</media>
 	<media>
 		<title>TJK TV Canlı Yayın</title>
@@ -43,15 +49,15 @@
 		<src>_iDNXJ2C0so</src>
 	</media>
 	<media>
-		<title>Start Kura Çekimi  İzmir</title>
-		<thumb>https://i.ytimg.com/vi/sWTZFl075gk/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>sWTZFl075gk</src>
-	</media>
-	<media>
 		<title>Start Kura Çekimi  Adana</title>
 		<thumb>https://i.ytimg.com/vi/rHyTL2BPPwQ/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>rHyTL2BPPwQ</src>
+	</media>
+	<media>
+		<title>Start Kura Çekimi  İzmir</title>
+		<thumb>https://i.ytimg.com/vi/sWTZFl075gk/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>sWTZFl075gk</src>
 	</media>
 </media>
