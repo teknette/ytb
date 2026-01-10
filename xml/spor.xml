@@ -19,10 +19,46 @@
 		<src>ysh-bPiD3Oo</src>
 	</media>
 	<media>
-		<title>#CANLI | HT Spor 7/24 Canlı Yayını</title>
+		<title>#CANLI Galatasaray - Fenerbahçe | Derbi Özel</title>
 		<thumb>https://i.ytimg.com/vi/ih2KAtA50I4/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>ih2KAtA50I4</src>
+	</media>
+	<media>
+		<title>NAZİLLİ SPOR A.Ş. - AYVALIKGÜCÜ BELEDİYESPOR</title>
+		<thumb>https://i.ytimg.com/vi/5DGGDK2vMEg/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>5DGGDK2vMEg</src>
+	</media>
+	<media>
+		<title>GÜZİDE GEBZE SPOR KULÜBÜ - SOMASPOR</title>
+		<thumb>https://i.ytimg.com/vi/ljz2sDCItlk/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>ljz2sDCItlk</src>
+	</media>
+	<media>
+		<title>KARABÜK İDMANYURDU SPOR - 52 ORDUSPOR FK</title>
+		<thumb>https://i.ytimg.com/vi/Y_AjUbNSoEs/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>Y_AjUbNSoEs</src>
+	</media>
+	<media>
+		<title>YALOVA FK 77 SK - BEYKOZ İSHAKLI SPOR FAALİYETLERİ A.Ş.</title>
+		<thumb>https://i.ytimg.com/vi/X8dVblZ08DA/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>X8dVblZ08DA</src>
+	</media>
+	<media>
+		<title>ISBAŞ ISPARTA 32 SPOR KULÜBÜ - ADANASPOR</title>
+		<thumb>https://i.ytimg.com/vi/64_mCtI7_f8/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>64_mCtI7_f8</src>
+	</media>
+	<media>
+		<title>TJK TV Eyerleme Alanı İstanbul</title>
+		<thumb>https://i.ytimg.com/vi/mxQUmrdOcnI/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>mxQUmrdOcnI</src>
 	</media>
 	<media>
 		<title>TJK TV Eyerleme Alanı Adana</title>
@@ -31,16 +67,16 @@
 		<src>S3sBJ1B7toE</src>
 	</media>
 	<media>
+		<title>Start Kura Çekimi  Şanlıurfa</title>
+		<thumb>https://i.ytimg.com/vi/oiR4SeeTZ1I/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>oiR4SeeTZ1I</src>
+	</media>
+	<media>
 		<title>TJK TV Canlı Yayın</title>
 		<thumb>https://i.ytimg.com/vi/g89RQMJtK6E/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>g89RQMJtK6E</src>
-	</media>
-	<media>
-		<title>TJK TV Eyerleme Alanı İstanbul</title>
-		<thumb>https://i.ytimg.com/vi/mxQUmrdOcnI/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>mxQUmrdOcnI</src>
 	</media>
 	<media>
 		<title>Start Kura Çekimi  Bursa</title>
