@@ -19,16 +19,16 @@
 		<src>mDTnFqGLLs4</src>
 	</media>
 	<media>
-		<title>#CANLI </title>
+		<title>#CANLI | Deniz Biricik ile Satır Arası</title>
 		<thumb>https://i.ytimg.com/vi/ih2KAtA50I4/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>ih2KAtA50I4</src>
 	</media>
 	<media>
-		<title>TJK TV Canlı Yayın</title>
-		<thumb>https://i.ytimg.com/vi/g89RQMJtK6E/hqdefault_live.jpg</thumb>
+		<title>Nazım Türknas ile Sıfır Noktası</title>
+		<thumb>https://i.ytimg.com/vi/UR8v2XrvUAM/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>g89RQMJtK6E</src>
+		<src>UR8v2XrvUAM</src>
 	</media>
 	<media>
 		<title>TJK TV Eyerleme Alanı Antalya</title>
@@ -37,15 +37,21 @@
 		<src>_1_K-Nl2uHY</src>
 	</media>
 	<media>
-		<title>Start Kura Çekimi  İzmir</title>
-		<thumb>https://i.ytimg.com/vi/sWTZFl075gk/hqdefault_live.jpg</thumb>
+		<title>TJK TV Canlı Yayın</title>
+		<thumb>https://i.ytimg.com/vi/g89RQMJtK6E/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>sWTZFl075gk</src>
+		<src>g89RQMJtK6E</src>
 	</media>
 	<media>
 		<title>Start Kura Çekimi  Adana</title>
 		<thumb>https://i.ytimg.com/vi/rHyTL2BPPwQ/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>rHyTL2BPPwQ</src>
+	</media>
+	<media>
+		<title>Start Kura Çekimi  İzmir</title>
+		<thumb>https://i.ytimg.com/vi/sWTZFl075gk/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>sWTZFl075gk</src>
 	</media>
 </media>
