@@ -19,58 +19,10 @@
 		<src>mDTnFqGLLs4</src>
 	</media>
 	<media>
-		<title>#CANLI | Fenerbahçe transfer gündemi | Spor Hattı</title>
+		<title>#CANLI</title>
 		<thumb>https://i.ytimg.com/vi/ih2KAtA50I4/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>ih2KAtA50I4</src>
-	</media>
-	<media>
-		<title>ALTINORDU - İSKENDERUNSPOR A.Ş.</title>
-		<thumb>https://i.ytimg.com/vi/pbxcr35MqSw/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>pbxcr35MqSw</src>
-	</media>
-	<media>
-		<title>TURKISH OIL YENİ MERSİN İDMANYURDU FUTBOL A.Ş. - KUZEYBORU 68 AKSARAY BELEDİYE SPOR</title>
-		<thumb>https://i.ytimg.com/vi/ZJ_RLMI4Ioo/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>ZJ_RLMI4Ioo</src>
-	</media>
-	<media>
-		<title>SOMASPOR - FETHİYESPOR</title>
-		<thumb>https://i.ytimg.com/vi/-SvFQbGaYk4/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>-SvFQbGaYk4</src>
-	</media>
-	<media>
-		<title>ÇORLU SPOR 1947 - SİLİVRİSPOR</title>
-		<thumb>https://i.ytimg.com/vi/imn8XDCzHVY/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>imn8XDCzHVY</src>
-	</media>
-	<media>
-		<title>AYVALIKGÜCÜ BELEDİYESPOR - ALTAY</title>
-		<thumb>https://i.ytimg.com/vi/IYRliOGTwyE/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>IYRliOGTwyE</src>
-	</media>
-	<media>
-		<title>TJK TV Eyerleme Alanı Adana</title>
-		<thumb>https://i.ytimg.com/vi/rm1ORi1RejU/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>rm1ORi1RejU</src>
-	</media>
-	<media>
-		<title>Start Kura Çekimi  Şanlıurfa</title>
-		<thumb>https://i.ytimg.com/vi/oiR4SeeTZ1I/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>oiR4SeeTZ1I</src>
-	</media>
-	<media>
-		<title>TJK TV Eyerleme Alanı İstanbul</title>
-		<thumb>https://i.ytimg.com/vi/mxQUmrdOcnI/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>mxQUmrdOcnI</src>
 	</media>
 	<media>
 		<title>TJK TV Canlı Yayın</title>
@@ -79,9 +31,21 @@
 		<src>g89RQMJtK6E</src>
 	</media>
 	<media>
-		<title>Start Kura Çekimi  Bursa</title>
-		<thumb>https://i.ytimg.com/vi/i5CgnroZ1HY/hqdefault_live.jpg</thumb>
+		<title>TJK TV Eyerleme Alanı Adana</title>
+		<thumb>https://i.ytimg.com/vi/rm1ORi1RejU/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>i5CgnroZ1HY</src>
+		<src>rm1ORi1RejU</src>
+	</media>
+	<media>
+		<title>Start Kura Çekimi  Adana</title>
+		<thumb>https://i.ytimg.com/vi/rHyTL2BPPwQ/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>rHyTL2BPPwQ</src>
+	</media>
+	<media>
+		<title>Start Kura Çekimi  Antalya</title>
+		<thumb>https://i.ytimg.com/vi/vFgQLLBX_so/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>vFgQLLBX_so</src>
 	</media>
 </media>
