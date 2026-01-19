@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <media>
 	<media>
-		<title>beIN SPORTS HABER Canlı Yayını | #beINSPORTS</title>
-		<thumb>https://i.ytimg.com/vi/9xVXWLwT0vA/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>9xVXWLwT0vA</src>
-	</media>
-	<media>
 		<title>🔴Galatasaray - Fenerbahçe Maç Özetleri | beIN SPORTS Arşiv</title>
 		<thumb>https://i.ytimg.com/vi/D6JUgHh4vPk/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
@@ -19,46 +13,10 @@
 		<src>mDTnFqGLLs4</src>
 	</media>
 	<media>
-		<title>#CANLI | Emlak Konut - BOTAŞ | Halkbank Kadınlar Basketbol Süper Ligi</title>
+		<title>#CANLI </title>
 		<thumb>https://i.ytimg.com/vi/ih2KAtA50I4/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>ih2KAtA50I4</src>
-	</media>
-	<media>
-		<title>#CANLI | Emlak Konut - BOTAŞ | Halkbank Kadınlar Basketbol Süper Ligi</title>
-		<thumb>https://i.ytimg.com/vi/Fdy704ca8d4/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>Fdy704ca8d4</src>
-	</media>
-	<media>
-		<title>KIZILKAYA TARIM ŞANLIURFASPOR - BUCASPOR 1928</title>
-		<thumb>https://i.ytimg.com/vi/7hlXzax54mY/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>7hlXzax54mY</src>
-	</media>
-	<media>
-		<title>KARAMAN FUTBOL KULÜBÜ - KEPEZ SPOR FUTBOL A.Ş.</title>
-		<thumb>https://i.ytimg.com/vi/w4Q6qksMS4o/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>w4Q6qksMS4o</src>
-	</media>
-	<media>
-		<title>KARACABEY BELEDİYE SPOR A.Ş. - SULTAN SU İNEGÖLSPOR</title>
-		<thumb>https://i.ytimg.com/vi/bsNi5FgQjd4/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>bsNi5FgQjd4</src>
-	</media>
-	<media>
-		<title>ALİAĞA FUTBOL A.Ş. - GÜZİDE GEBZE SPOR KULÜBÜ</title>
-		<thumb>https://i.ytimg.com/vi/0cNzSZGghRA/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>0cNzSZGghRA</src>
-	</media>
-	<media>
-		<title>ARKENT ARNAVUTKÖY BELEDİYESİ FUTBOL SK - MENEMEN FUTBOL KULÜBÜ</title>
-		<thumb>https://i.ytimg.com/vi/JaKV4K3lHYs/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>JaKV4K3lHYs</src>
 	</media>
 	<media>
 		<title>TJK TV Canlı Yayın</title>
@@ -67,21 +25,21 @@
 		<src>g89RQMJtK6E</src>
 	</media>
 	<media>
-		<title>TJK TV Eyerleme Alanı Adana</title>
-		<thumb>https://i.ytimg.com/vi/rm1ORi1RejU/hqdefault_live.jpg</thumb>
+		<title>Start Kura Çekimi  Şanlıurfa</title>
+		<thumb>https://i.ytimg.com/vi/oiR4SeeTZ1I/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>rm1ORi1RejU</src>
+		<src>oiR4SeeTZ1I</src>
 	</media>
 	<media>
-		<title>Start Kura Çekimi  Adana</title>
-		<thumb>https://i.ytimg.com/vi/rHyTL2BPPwQ/hqdefault_live.jpg</thumb>
+		<title>TJK TV Eyerleme Alanı Bursa</title>
+		<thumb>https://i.ytimg.com/vi/YLg3Te6Mr9M/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>rHyTL2BPPwQ</src>
+		<src>YLg3Te6Mr9M</src>
 	</media>
 	<media>
-		<title>Start Kura Çekimi  Antalya</title>
-		<thumb>https://i.ytimg.com/vi/vFgQLLBX_so/hqdefault_live.jpg</thumb>
+		<title>Start Kura Çekimi İstanbul</title>
+		<thumb>https://i.ytimg.com/vi/LMRt3N64_Wg/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>vFgQLLBX_so</src>
+		<src>LMRt3N64_Wg</src>
 	</media>
 </media>
