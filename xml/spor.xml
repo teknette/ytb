@@ -19,58 +19,10 @@
 		<src>mDTnFqGLLs4</src>
 	</media>
 	<media>
-		<title>#CANLI Galatasaray lige nasıl bir dönüş yapacak? | Spor Hattı</title>
+		<title>#CANLI | HT Spor 7/24 Canlı Yayını</title>
 		<thumb>https://i.ytimg.com/vi/ih2KAtA50I4/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>ih2KAtA50I4</src>
-	</media>
-	<media>
-		<title>SULTAN SU İNEGÖLSPOR - KARAMAN FUTBOL KULÜBÜ</title>
-		<thumb>https://i.ytimg.com/vi/SdcLQ4uOsm0/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>SdcLQ4uOsm0</src>
-	</media>
-	<media>
-		<title>MENEMEN FUTBOL KULÜBÜ - ADANASPOR A.Ş.</title>
-		<thumb>https://i.ytimg.com/vi/qQXl3oCFJ2s/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>qQXl3oCFJ2s</src>
-	</media>
-	<media>
-		<title>KÜÇÜKÇEKMECE SİNOP SPOR A.Ş. - GALATA SPOR KULÜBÜ</title>
-		<thumb>https://i.ytimg.com/vi/AlPzuzUrwn0/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>AlPzuzUrwn0</src>
-	</media>
-	<media>
-		<title>EDİRNESPOR - BURSA YILDIRIM SPOR KULÜBÜ</title>
-		<thumb>https://i.ytimg.com/vi/STO9IIhPREU/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>STO9IIhPREU</src>
-	</media>
-	<media>
-		<title>İSKENDERUNSPOR A.Ş. - BATMAN PETROL SPOR A.Ş.</title>
-		<thumb>https://i.ytimg.com/vi/fAMhol-cMaE/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>fAMhol-cMaE</src>
-	</media>
-	<media>
-		<title>TJK TV Eyerleme Alanı Adana</title>
-		<thumb>https://i.ytimg.com/vi/rm1ORi1RejU/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>rm1ORi1RejU</src>
-	</media>
-	<media>
-		<title>Start Kura Çekimi  Şanlıurfa</title>
-		<thumb>https://i.ytimg.com/vi/oiR4SeeTZ1I/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>oiR4SeeTZ1I</src>
-	</media>
-	<media>
-		<title>TJK TV Eyerleme Alanı İstanbul</title>
-		<thumb>https://i.ytimg.com/vi/n-WrgVsCVYI/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>n-WrgVsCVYI</src>
 	</media>
 	<media>
 		<title>TJK TV Canlı Yayın</title>
@@ -79,9 +31,21 @@
 		<src>g89RQMJtK6E</src>
 	</media>
 	<media>
-		<title>Start Kura Çekimi  Bursa</title>
-		<thumb>https://i.ytimg.com/vi/i5CgnroZ1HY/hqdefault_live.jpg</thumb>
+		<title>TJK TV Eyerleme Alanı Adana</title>
+		<thumb>https://i.ytimg.com/vi/rm1ORi1RejU/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>i5CgnroZ1HY</src>
+		<src>rm1ORi1RejU</src>
+	</media>
+	<media>
+		<title>Start Kura Çekimi  Adana</title>
+		<thumb>https://i.ytimg.com/vi/rHyTL2BPPwQ/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>rHyTL2BPPwQ</src>
+	</media>
+	<media>
+		<title>Start Kura Çekimi  Antalya</title>
+		<thumb>https://i.ytimg.com/vi/vFgQLLBX_so/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>vFgQLLBX_so</src>
 	</media>
 </media>
