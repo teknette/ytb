@@ -19,10 +19,40 @@
 		<src>mDTnFqGLLs4</src>
 	</media>
 	<media>
-		<title>#CANLI | HT Spor 7/24 Canlı Yayını</title>
+		<title>#CANLI | Kevser İme Şahin İle Haber Bülteni</title>
 		<thumb>https://i.ytimg.com/vi/ih2KAtA50I4/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>ih2KAtA50I4</src>
+	</media>
+	<media>
+		<title>BURSA NİLÜFER FUTBOL A.Ş. - ÇORLU SPOR 1947</title>
+		<thumb>https://i.ytimg.com/vi/gfr-Hfy0Olo/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>gfr-Hfy0Olo</src>
+	</media>
+	<media>
+		<title>YALOVA FK 77 SPOR KULÜBÜ - İNEGÖL KAFKAS SPOR KULÜBÜ</title>
+		<thumb>https://i.ytimg.com/vi/HjrnbXIM1hw/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>HjrnbXIM1hw</src>
+	</media>
+	<media>
+		<title>KARABÜK İDMANYURDU SPOR - DÜZCE CAM DÜZCESPOR</title>
+		<thumb>https://i.ytimg.com/vi/U63WBktysHE/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>U63WBktysHE</src>
+	</media>
+	<media>
+		<title>SİLİVRİSPOR - İNKILAP FUTBOL SPOR KULÜBÜ</title>
+		<thumb>https://i.ytimg.com/vi/JmRPWz8upoY/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>JmRPWz8upoY</src>
+	</media>
+	<media>
+		<title>AFYONSPOR KULÜBÜ - KÜTAHYASPOR FUTBOL SPOR KULÜBÜ</title>
+		<thumb>https://i.ytimg.com/vi/YCkpsK_gPEA/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>YCkpsK_gPEA</src>
 	</media>
 	<media>
 		<title>TJK TV Canlı Yayın</title>
