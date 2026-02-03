@@ -14,39 +14,21 @@
 	</media>
 	<media>
 		<title>A Spor Canlı Yayın 🔴</title>
-		<thumb>https://i.ytimg.com/vi/mDTnFqGLLs4/hqdefault_live.jpg</thumb>
+		<thumb>https://i.ytimg.com/vi/mgujcDXBcE0/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>mDTnFqGLLs4</src>
+		<src>mgujcDXBcE0</src>
 	</media>
 	<media>
-		<title>#CANLI | Deniz Biricik ile Satır Arası</title>
+		<title>#CANLI | HT Spor 7/24 Canlı Yayını</title>
 		<thumb>https://i.ytimg.com/vi/ih2KAtA50I4/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>ih2KAtA50I4</src>
 	</media>
 	<media>
-		<title>Sıfır&amp;#39;dan Soralım | Pelin Koç</title>
-		<thumb>https://i.ytimg.com/vi/WyoqU66uzXw/hqdefault_live.jpg</thumb>
+		<title>TJK TV Eyerleme Alanı Antalya</title>
+		<thumb>https://i.ytimg.com/vi/_1_K-Nl2uHY/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>WyoqU66uzXw</src>
-	</media>
-	<media>
-		<title>TJK TV Eyerleme Alanı Bursa</title>
-		<thumb>https://i.ytimg.com/vi/YLg3Te6Mr9M/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>YLg3Te6Mr9M</src>
-	</media>
-	<media>
-		<title>Start Kura Çekimi  Şanlıurfa</title>
-		<thumb>https://i.ytimg.com/vi/oiR4SeeTZ1I/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>oiR4SeeTZ1I</src>
-	</media>
-	<media>
-		<title>TJK TV Eyerleme Alanı Şanlıurfa</title>
-		<thumb>https://i.ytimg.com/vi/T0LQMiNxk2Q/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>T0LQMiNxk2Q</src>
+		<src>_1_K-Nl2uHY</src>
 	</media>
 	<media>
 		<title>TJK TV Canlı Yayın</title>
@@ -55,9 +37,15 @@
 		<src>g89RQMJtK6E</src>
 	</media>
 	<media>
-		<title>Start Kura Çekimi İstanbul</title>
-		<thumb>https://i.ytimg.com/vi/LMRt3N64_Wg/hqdefault_live.jpg</thumb>
+		<title>Start Kura Çekimi  İzmir</title>
+		<thumb>https://i.ytimg.com/vi/sWTZFl075gk/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>LMRt3N64_Wg</src>
+		<src>sWTZFl075gk</src>
+	</media>
+	<media>
+		<title>Start Kura Çekimi  Antalya</title>
+		<thumb>https://i.ytimg.com/vi/vFgQLLBX_so/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>vFgQLLBX_so</src>
 	</media>
 </media>
