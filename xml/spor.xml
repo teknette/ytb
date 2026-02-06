@@ -19,10 +19,16 @@
 		<src>FHjbZjTjG5k</src>
 	</media>
 	<media>
-		<title>#CANLI</title>
+		<title>#CANLI | Deniz Biricik ile Satır Arası</title>
 		<thumb>https://i.ytimg.com/vi/ih2KAtA50I4/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>ih2KAtA50I4</src>
+	</media>
+	<media>
+		<title>Sıfır&amp;#39;dan Soralım | Pelin Koç</title>
+		<thumb>https://i.ytimg.com/vi/4f9m0wJaTO4/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>4f9m0wJaTO4</src>
 	</media>
 	<media>
 		<title>TJK TV Canlı Yayın</title>
@@ -47,5 +53,11 @@
 		<thumb>https://i.ytimg.com/vi/rHyTL2BPPwQ/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>rHyTL2BPPwQ</src>
+	</media>
+	<media>
+		<title>CANLI | Transferde Final | Fenerbahçe&amp;#39;den Golcü Atağı | Ali Naci Küçük - Emre Bol - Emre Zabunoğlu</title>
+		<thumb>https://i.ytimg.com/vi/VDXKl6oDud0/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>VDXKl6oDud0</src>
 	</media>
 </media>
