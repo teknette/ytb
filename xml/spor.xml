@@ -19,16 +19,16 @@
 		<src>FHjbZjTjG5k</src>
 	</media>
 	<media>
-		<title>#CANLI | HT Spor 7/24 Canlı Yayını</title>
+		<title>#CANLI İstanbul Gençlik - Turgutlu Belediyespor | Halkbank Kadınlar Basketbol Ligi</title>
 		<thumb>https://i.ytimg.com/vi/ih2KAtA50I4/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>ih2KAtA50I4</src>
 	</media>
 	<media>
-		<title>TJK TV Canlı Yayın</title>
-		<thumb>https://i.ytimg.com/vi/g89RQMJtK6E/hqdefault_live.jpg</thumb>
+		<title>#CANLI İstanbul Gençlik - Turgutlu Belediyespor | Halkbank Kadınlar Basketbol Ligi</title>
+		<thumb>https://i.ytimg.com/vi/cHgLD8OrQCw/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>g89RQMJtK6E</src>
+		<src>cHgLD8OrQCw</src>
 	</media>
 	<media>
 		<title>TJK TV Eyerleme Alanı Adana</title>
@@ -37,10 +37,22 @@
 		<src>8zgw6IDXB9E</src>
 	</media>
 	<media>
+		<title>TJK TV Eyerleme Alanı İstanbul</title>
+		<thumb>https://i.ytimg.com/vi/6Y2m0Z4Velg/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>6Y2m0Z4Velg</src>
+	</media>
+	<media>
 		<title>Start Kura Çekimi  Şanlıurfa</title>
 		<thumb>https://i.ytimg.com/vi/oiR4SeeTZ1I/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>oiR4SeeTZ1I</src>
+	</media>
+	<media>
+		<title>TJK TV Canlı Yayın</title>
+		<thumb>https://i.ytimg.com/vi/g89RQMJtK6E/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>g89RQMJtK6E</src>
 	</media>
 	<media>
 		<title>Start Kura Çekimi  Bursa</title>
