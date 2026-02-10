@@ -14,51 +14,15 @@
 	</media>
 	<media>
 		<title>A Spor Canlı Yayın 🔴</title>
-		<thumb>https://i.ytimg.com/vi/xrka0oqDESM/hqdefault_live.jpg</thumb>
+		<thumb>https://i.ytimg.com/vi/mgeW8Qm8-SY/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>xrka0oqDESM</src>
+		<src>mgeW8Qm8-SY</src>
 	</media>
 	<media>
-		<title>#CANLI | Beşiktaş sahasında 2 puan kaybetti | Satır Arası</title>
+		<title>#CANLI | HT Spor 7/24 Canlı Yayın</title>
 		<thumb>https://i.ytimg.com/vi/ih2KAtA50I4/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>ih2KAtA50I4</src>
-	</media>
-	<media>
-		<title>KARACABEY BELEDİYE SPOR A.Ş. - ADANA 01 FUTBOL KULÜBÜ SK</title>
-		<thumb>https://i.ytimg.com/vi/FV_oyk4BMBc/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>FV_oyk4BMBc</src>
-	</media>
-	<media>
-		<title>NAZİLLİ SPOR A.Ş. - SÖKE 1970 SPOR KULÜBÜ</title>
-		<thumb>https://i.ytimg.com/vi/7fDPgnHEA-Q/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>7fDPgnHEA-Q</src>
-	</media>
-	<media>
-		<title>BURSA NİLÜFER FUTBOL A.Ş. - BEYKOZ İSHAKLI SPOR FAALİYETLERİ A.Ş.</title>
-		<thumb>https://i.ytimg.com/vi/wf_JOs3-meA/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>wf_JOs3-meA</src>
-	</media>
-	<media>
-		<title>BEYKOZ ANADOLU SPOR A.Ş. - BUCASPOR 1928</title>
-		<thumb>https://i.ytimg.com/vi/AyZIgQoFdjk/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>AyZIgQoFdjk</src>
-	</media>
-	<media>
-		<title>ARKENT ARNAVUTKÖY BLD. FUTBOL SK - GÜZİDE GEBZE SPOR KULÜBÜ</title>
-		<thumb>https://i.ytimg.com/vi/mbGXZCp7mxM/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>mbGXZCp7mxM</src>
-	</media>
-	<media>
-		<title>TJK TV Eyerleme Alanı Şanlıurfa</title>
-		<thumb>https://i.ytimg.com/vi/T0LQMiNxk2Q/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>T0LQMiNxk2Q</src>
 	</media>
 	<media>
 		<title>TJK TV Eyerleme Alanı Bursa</title>
@@ -67,16 +31,22 @@
 		<src>YLg3Te6Mr9M</src>
 	</media>
 	<media>
-		<title>TJK TV Canlı Yayın</title>
-		<thumb>https://i.ytimg.com/vi/g89RQMJtK6E/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>g89RQMJtK6E</src>
-	</media>
-	<media>
 		<title>Start Kura Çekimi  Şanlıurfa</title>
 		<thumb>https://i.ytimg.com/vi/oiR4SeeTZ1I/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>oiR4SeeTZ1I</src>
+	</media>
+	<media>
+		<title>TJK TV Eyerleme Alanı Şanlıurfa</title>
+		<thumb>https://i.ytimg.com/vi/T0LQMiNxk2Q/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>T0LQMiNxk2Q</src>
+	</media>
+	<media>
+		<title>TJK TV Canlı Yayın</title>
+		<thumb>https://i.ytimg.com/vi/g89RQMJtK6E/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>g89RQMJtK6E</src>
 	</media>
 	<media>
 		<title>Start Kura Çekimi İstanbul</title>
