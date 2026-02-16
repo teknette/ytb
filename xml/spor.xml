@@ -19,10 +19,28 @@
 		<src>mgeW8Qm8-SY</src>
 	</media>
 	<media>
-		<title>#CANLI | HT Spor 7/24 Canlı Yayın</title>
+		<title>#CANLI | Deniz Biricik ile Satır Arası</title>
 		<thumb>https://i.ytimg.com/vi/ih2KAtA50I4/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>ih2KAtA50I4</src>
+	</media>
+	<media>
+		<title>MARDİN 1969 SPOR - SOMA SPOR</title>
+		<thumb>https://i.ytimg.com/vi/vWUszaYtb30/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>vWUszaYtb30</src>
+	</media>
+	<media>
+		<title>TJK TV Eyerleme Alanı Bursa</title>
+		<thumb>https://i.ytimg.com/vi/YLg3Te6Mr9M/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>YLg3Te6Mr9M</src>
+	</media>
+	<media>
+		<title>TJK TV Eyerleme Alanı Şanlıurfa</title>
+		<thumb>https://i.ytimg.com/vi/T0LQMiNxk2Q/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>T0LQMiNxk2Q</src>
 	</media>
 	<media>
 		<title>TJK TV Canlı Yayın</title>
@@ -31,15 +49,15 @@
 		<src>g89RQMJtK6E</src>
 	</media>
 	<media>
-		<title>Start Kura Çekimi  Adana</title>
-		<thumb>https://i.ytimg.com/vi/E14vE96PZTA/hqdefault_live.jpg</thumb>
+		<title>Start Kura Çekimi  Şanlıurfa</title>
+		<thumb>https://i.ytimg.com/vi/oiR4SeeTZ1I/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>E14vE96PZTA</src>
+		<src>oiR4SeeTZ1I</src>
 	</media>
 	<media>
-		<title>Start Kura Çekimi  Antalya</title>
-		<thumb>https://i.ytimg.com/vi/vFgQLLBX_so/hqdefault_live.jpg</thumb>
+		<title>Start Kura Çekimi İstanbul</title>
+		<thumb>https://i.ytimg.com/vi/LMRt3N64_Wg/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>vFgQLLBX_so</src>
+		<src>LMRt3N64_Wg</src>
 	</media>
 </media>
