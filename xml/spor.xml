@@ -19,7 +19,7 @@
 		<src>mgeW8Qm8-SY</src>
 	</media>
 	<media>
-		<title>#CANLI | HT Spor 7/24 Canlı Yayın</title>
+		<title>#CANLI | Uğur Yapıcı ile Spor Hattı</title>
 		<thumb>https://i.ytimg.com/vi/ih2KAtA50I4/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>ih2KAtA50I4</src>
@@ -29,6 +29,30 @@
 		<thumb>https://i.ytimg.com/vi/_sG9FJDKcIk/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>_sG9FJDKcIk</src>
+	</media>
+	<media>
+		<title>GİRESUNSPOR - FATSA BELEDİYESPOR</title>
+		<thumb>https://i.ytimg.com/vi/bfWu1ZyY6Vo/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>bfWu1ZyY6Vo</src>
+	</media>
+	<media>
+		<title>SÖKE 1970 SPOR KULÜBÜ - AYVALIKGÜCÜ BELEDİYESPOR</title>
+		<thumb>https://i.ytimg.com/vi/-YR6tSzxPKI/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>-YR6tSzxPKI</src>
+	</media>
+	<media>
+		<title>KÜTAHYASPOR FUTBOL SPOR KULÜBÜ - NAZİLLİ SPOR A.Ş.</title>
+		<thumb>https://i.ytimg.com/vi/ElpE9Voun50/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>ElpE9Voun50</src>
+	</media>
+	<media>
+		<title>TOKAT BELEDİYE SPOR KULÜBÜ - KDZ.EREĞLİ BELEDİYE SPOR</title>
+		<thumb>https://i.ytimg.com/vi/hJBKhOfjdg0/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>hJBKhOfjdg0</src>
 	</media>
 	<media>
 		<title>TJK TV Canlı Yayın</title>
