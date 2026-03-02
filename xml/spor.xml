@@ -25,10 +25,34 @@
 		<src>ih2KAtA50I4</src>
 	</media>
 	<media>
+		<title>#CANLI Emlak Konut - BOTAŞ | Halkbank Kadınlar Basketbol Süper Ligi Play-Off</title>
+		<thumb>https://i.ytimg.com/vi/F988IOiEYsc/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>F988IOiEYsc</src>
+	</media>
+	<media>
 		<title>Sıfır TV Canlı Yayını</title>
 		<thumb>https://i.ytimg.com/vi/_sG9FJDKcIk/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>_sG9FJDKcIk</src>
+	</media>
+	<media>
+		<title>TJK TV Eyerleme Alanı Bursa</title>
+		<thumb>https://i.ytimg.com/vi/YLg3Te6Mr9M/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>YLg3Te6Mr9M</src>
+	</media>
+	<media>
+		<title>Start Kura Çekimi  Şanlıurfa</title>
+		<thumb>https://i.ytimg.com/vi/oiR4SeeTZ1I/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>oiR4SeeTZ1I</src>
+	</media>
+	<media>
+		<title>TJK TV Eyerleme Alanı Şanlıurfa</title>
+		<thumb>https://i.ytimg.com/vi/N9HqgpEaNJU/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>N9HqgpEaNJU</src>
 	</media>
 	<media>
 		<title>TJK TV Canlı Yayın</title>
@@ -37,21 +61,9 @@
 		<src>g89RQMJtK6E</src>
 	</media>
 	<media>
-		<title>Start Kura Çekimi  Adana</title>
-		<thumb>https://i.ytimg.com/vi/E14vE96PZTA/hqdefault_live.jpg</thumb>
+		<title>Start Kura Çekimi İstanbul</title>
+		<thumb>https://i.ytimg.com/vi/LMRt3N64_Wg/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>E14vE96PZTA</src>
-	</media>
-	<media>
-		<title>TJK TV Eyerleme Alanı Adana</title>
-		<thumb>https://i.ytimg.com/vi/U4mk-eIxaL0/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>U4mk-eIxaL0</src>
-	</media>
-	<media>
-		<title>Start Kura Çekimi  Antalya</title>
-		<thumb>https://i.ytimg.com/vi/vFgQLLBX_so/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>vFgQLLBX_so</src>
+		<src>LMRt3N64_Wg</src>
 	</media>
 </media>
