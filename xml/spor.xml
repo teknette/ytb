@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <media>
 	<media>
+		<title>beIN SPORTS HABER Canlı Yayını | #beINSPORTS</title>
+		<thumb>https://i.ytimg.com/vi/9xVXWLwT0vA/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>9xVXWLwT0vA</src>
+	</media>
+	<media>
 		<title>🔴 Beşiktaş - Galatasaray Maç Özetleri | beIN SPORTS Arşiv</title>
 		<thumb>https://i.ytimg.com/vi/dUsrcM69S4w/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
@@ -17,12 +23,6 @@
 		<thumb>https://i.ytimg.com/vi/ih2KAtA50I4/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>ih2KAtA50I4</src>
-	</media>
-	<media>
-		<title>#CANLI Çimsa ÇBK Mersin - Beşiktaş BOA | Halkbank Kadınlar Basketbol Süper Ligi Play-Off</title>
-		<thumb>https://i.ytimg.com/vi/VnI36abrIy8/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>VnI36abrIy8</src>
 	</media>
 	<media>
 		<title>Sıfır TV Canlı Yayını</title>
