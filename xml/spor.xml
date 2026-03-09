@@ -19,22 +19,10 @@
 		<src>mgeW8Qm8-SY</src>
 	</media>
 	<media>
-		<title>#CANLI | Kevser İme Şahin ile Haber Bülteni</title>
+		<title>#CANLI | HT Spor 7/24 Canlı Yayın</title>
 		<thumb>https://i.ytimg.com/vi/ih2KAtA50I4/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>ih2KAtA50I4</src>
-	</media>
-	<media>
-		<title>MUŞ SPOR KULÜBÜ - BURSASPOR</title>
-		<thumb>https://i.ytimg.com/vi/zFbhFzKhSfU/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>zFbhFzKhSfU</src>
-	</media>
-	<media>
-		<title>ESKİŞEHİRSPOR KULÜBÜ - BORNOVA 1877 SPORTİF YATIRIMLAR A.Ş.</title>
-		<thumb>https://i.ytimg.com/vi/MxderCeSvqg/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>MxderCeSvqg</src>
 	</media>
 	<media>
 		<title>Sıfır TV Canlı Yayını</title>
@@ -43,10 +31,22 @@
 		<src>-C_qsnQlAmA</src>
 	</media>
 	<media>
-		<title>ALTAY - KÜTAHYASPOR FUTBOL SPOR KULÜBÜ</title>
-		<thumb>https://i.ytimg.com/vi/qtWajbJA5eg/hqdefault_live.jpg</thumb>
+		<title>TJK TV Eyerleme Alanı Bursa</title>
+		<thumb>https://i.ytimg.com/vi/YLg3Te6Mr9M/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>qtWajbJA5eg</src>
+		<src>YLg3Te6Mr9M</src>
+	</media>
+	<media>
+		<title>Start Kura Çekimi  Şanlıurfa</title>
+		<thumb>https://i.ytimg.com/vi/oiR4SeeTZ1I/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>oiR4SeeTZ1I</src>
+	</media>
+	<media>
+		<title>TJK TV Eyerleme Alanı Şanlıurfa</title>
+		<thumb>https://i.ytimg.com/vi/2oSc7Wc1hV4/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>2oSc7Wc1hV4</src>
 	</media>
 	<media>
 		<title>TJK TV Canlı Yayın</title>
@@ -55,21 +55,9 @@
 		<src>g89RQMJtK6E</src>
 	</media>
 	<media>
-		<title>TJK TV Eyerleme Alanı Adana</title>
-		<thumb>https://i.ytimg.com/vi/U4mk-eIxaL0/hqdefault_live.jpg</thumb>
+		<title>Start Kura Çekimi İstanbul</title>
+		<thumb>https://i.ytimg.com/vi/LMRt3N64_Wg/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>U4mk-eIxaL0</src>
-	</media>
-	<media>
-		<title>Start Kura Çekimi  Adana</title>
-		<thumb>https://i.ytimg.com/vi/E14vE96PZTA/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>E14vE96PZTA</src>
-	</media>
-	<media>
-		<title>Start Kura Çekimi  Antalya</title>
-		<thumb>https://i.ytimg.com/vi/vFgQLLBX_so/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>vFgQLLBX_so</src>
+		<src>LMRt3N64_Wg</src>
 	</media>
 </media>
