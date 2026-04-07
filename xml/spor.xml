@@ -25,39 +25,45 @@
 		<src>mgeW8Qm8-SY</src>
 	</media>
 	<media>
-		<title>#CANLI | HT Spor 7/24 Canlı Yayın</title>
+		<title>#CANLI | Deniz Biricik ile Satır Arası</title>
 		<thumb>https://i.ytimg.com/vi/ih2KAtA50I4/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>ih2KAtA50I4</src>
 	</media>
 	<media>
-		<title>TJK TV Eyerleme Alanı Bursa</title>
-		<thumb>https://i.ytimg.com/vi/Kdbwh9N6dXU/hqdefault_live.jpg</thumb>
+		<title>TJK TV Eyerleme Alanı Antalya</title>
+		<thumb>https://i.ytimg.com/vi/vb17zY2TEe4/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>Kdbwh9N6dXU</src>
+		<src>vb17zY2TEe4</src>
 	</media>
 	<media>
-		<title>TJK TV Eyerleme Alanı Şanlıurfa</title>
-		<thumb>https://i.ytimg.com/vi/lnsA7jSZt50/hqdefault_live.jpg</thumb>
+		<title>TJK TV Eyerleme Alanı Adana</title>
+		<thumb>https://i.ytimg.com/vi/7jwsY2jODKk/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>lnsA7jSZt50</src>
+		<src>7jwsY2jODKk</src>
 	</media>
 	<media>
-		<title>Start Kura Çekimi  Elazığ</title>
-		<thumb>https://i.ytimg.com/vi/fZN0zmHaMII/hqdefault_live.jpg</thumb>
+		<title>Start Kura Çekimi  Antalya</title>
+		<thumb>https://i.ytimg.com/vi/5atwHOlPKvc/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>fZN0zmHaMII</src>
+		<src>5atwHOlPKvc</src>
 	</media>
 	<media>
-		<title>Start Kura Çekimi İstanbul</title>
-		<thumb>https://i.ytimg.com/vi/vDfUh_0U0kQ/hqdefault_live.jpg</thumb>
+		<title>Start Kura Çekimi İzmir</title>
+		<thumb>https://i.ytimg.com/vi/Egq9e0VpkFU/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>vDfUh_0U0kQ</src>
+		<src>Egq9e0VpkFU</src>
 	</media>
 	<media>
 		<title>TJK TV Canlı Yayın</title>
 		<thumb>https://i.ytimg.com/vi/g89RQMJtK6E/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>g89RQMJtK6E</src>
+	</media>
+	<media>
+		<title>Göztepe - Galatasaray | Derbilerin Analizi, Şampiyonluk Yarışı | Ersin Düzen, Emre Özcan</title>
+		<thumb>https://i.ytimg.com/vi/nm4dwGbYnho/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>nm4dwGbYnho</src>
 	</media>
 </media>
