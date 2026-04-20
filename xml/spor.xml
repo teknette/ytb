@@ -19,22 +19,10 @@
 		<src>mgeW8Qm8-SY</src>
 	</media>
 	<media>
-		<title>#CANLI | HT Spor 7/24 Canlı Yayın</title>
+		<title>#CANLI Euroleague şampiyonu Fenerbahçe Opet İstanbul’da | Satır Arası</title>
 		<thumb>https://i.ytimg.com/vi/ih2KAtA50I4/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>ih2KAtA50I4</src>
-	</media>
-	<media>
-		<title>TJK TV Eyerleme Alanı Adana</title>
-		<thumb>https://i.ytimg.com/vi/OGVmwSSR7Bk/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>OGVmwSSR7Bk</src>
-	</media>
-	<media>
-		<title>TJK TV Eyerleme Alanı İstanbul</title>
-		<thumb>https://i.ytimg.com/vi/EGAmNU2_Ufo/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>EGAmNU2_Ufo</src>
 	</media>
 	<media>
 		<title>Start Kura Çekimi  Elazığ</title>
@@ -43,10 +31,22 @@
 		<src>naBE2DMTTKg</src>
 	</media>
 	<media>
-		<title>Start Kura Çekimi  Kocaeli</title>
-		<thumb>https://i.ytimg.com/vi/-b9eFwCaoZE/hqdefault_live.jpg</thumb>
+		<title>TJK TV Eyerleme Alanı Bursa</title>
+		<thumb>https://i.ytimg.com/vi/mwi1iwp7gDU/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>-b9eFwCaoZE</src>
+		<src>mwi1iwp7gDU</src>
+	</media>
+	<media>
+		<title>TJK TV Eyerleme Alanı Şanlıurfa</title>
+		<thumb>https://i.ytimg.com/vi/dnmtiBkPm4Y/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>dnmtiBkPm4Y</src>
+	</media>
+	<media>
+		<title>Start Kura Çekimi İstanbul</title>
+		<thumb>https://i.ytimg.com/vi/1wJjX8NJnt0/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>1wJjX8NJnt0</src>
 	</media>
 	<media>
 		<title>TJK TV Canlı Yayın</title>
