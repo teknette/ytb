@@ -19,33 +19,39 @@
 		<src>mgeW8Qm8-SY</src>
 	</media>
 	<media>
-		<title>#canlıyayın | HT Spor 7/24 Canlı Yayın</title>
+		<title>#CANLI | Galatasaray - Fenerbahçe | Derbi Özel</title>
+		<thumb>https://i.ytimg.com/vi/Qt2xY7nW__E/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>Qt2xY7nW__E</src>
+	</media>
+	<media>
+		<title>#CANLI | 2026 Türkiye Drift Şampiyonası 1. Ayak</title>
+		<thumb>https://i.ytimg.com/vi/rYEzg-O80Hk/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>rYEzg-O80Hk</src>
+	</media>
+	<media>
+		<title>#canlıyayın | 2026 Türkiye Drift Şampiyonası 1. Ayak</title>
 		<thumb>https://i.ytimg.com/vi/ih2KAtA50I4/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>ih2KAtA50I4</src>
 	</media>
 	<media>
-		<title>Start Kura Çekimi  Bursa</title>
-		<thumb>https://i.ytimg.com/vi/qeZ5CACJsnc/hqdefault_live.jpg</thumb>
+		<title>Start Kura Çekimi  Kocaeli</title>
+		<thumb>https://i.ytimg.com/vi/ZEaTw4i2QOw/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>qeZ5CACJsnc</src>
+		<src>ZEaTw4i2QOw</src>
 	</media>
 	<media>
-		<title>Start Kura Çekimi  Şanlıurfa</title>
-		<thumb>https://i.ytimg.com/vi/-uoYdrKxiwA/hqdefault_live.jpg</thumb>
+		<title>Start Kura Çekimi  Elazığ</title>
+		<thumb>https://i.ytimg.com/vi/hM9BMDMfmvY/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>-uoYdrKxiwA</src>
+		<src>hM9BMDMfmvY</src>
 	</media>
 	<media>
 		<title>TJK TV Canlı Yayın</title>
 		<thumb>https://i.ytimg.com/vi/g89RQMJtK6E/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>g89RQMJtK6E</src>
-	</media>
-	<media>
-		<title>TJK TV Eyerleme Alanı Ankara</title>
-		<thumb>https://i.ytimg.com/vi/Px6CAPhOd8c/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>Px6CAPhOd8c</src>
 	</media>
 </media>
