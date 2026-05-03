@@ -19,28 +19,40 @@
 		<src>mgeW8Qm8-SY</src>
 	</media>
 	<media>
-		<title>#CANLI | HT Spor 7/24 Canlı Yayın</title>
+		<title>#CANLI | KİPAŞ İstiklal Spor-Gaziantep Basketbol | TBL Çeyrek Final 2.Maçlar</title>
+		<thumb>https://i.ytimg.com/vi/3VJ2TOIRrh0/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>3VJ2TOIRrh0</src>
+	</media>
+	<media>
+		<title>#CANLI | KİPAŞ İstiklal Spor-Gaziantep Basketbol | TBL Çeyrek Final 2.Maçlar</title>
 		<thumb>https://i.ytimg.com/vi/ih2KAtA50I4/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>ih2KAtA50I4</src>
 	</media>
 	<media>
-		<title>Start Kura Çekimi Şanlıurfa</title>
-		<thumb>https://i.ytimg.com/vi/uwRXIv6LRME/hqdefault_live.jpg</thumb>
+		<title>TJK TV Eyerleme Alanı İstanbul</title>
+		<thumb>https://i.ytimg.com/vi/yIxFJ67yylw/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>uwRXIv6LRME</src>
+		<src>yIxFJ67yylw</src>
 	</media>
 	<media>
-		<title>TJK TV Eyerleme Alanı Ankara</title>
-		<thumb>https://i.ytimg.com/vi/uUquG8JrhbM/hqdefault_live.jpg</thumb>
+		<title>Start Kura Çekimi Ankara</title>
+		<thumb>https://i.ytimg.com/vi/0lE0Iqt2i0k/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>uUquG8JrhbM</src>
+		<src>0lE0Iqt2i0k</src>
 	</media>
 	<media>
-		<title>Start Kura Çekimi Bursa</title>
-		<thumb>https://i.ytimg.com/vi/YJ2f3guMols/hqdefault_live.jpg</thumb>
+		<title>Start Kura Çekimi Kocaeli</title>
+		<thumb>https://i.ytimg.com/vi/nQm7AfjG0eQ/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>YJ2f3guMols</src>
+		<src>nQm7AfjG0eQ</src>
+	</media>
+	<media>
+		<title>TJK TV Eyerleme Alanı Adana</title>
+		<thumb>https://i.ytimg.com/vi/H6zNF4Y1Eng/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>H6zNF4Y1Eng</src>
 	</media>
 	<media>
 		<title>TJK TV Canlı Yayın</title>
