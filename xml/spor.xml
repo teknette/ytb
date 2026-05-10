@@ -19,28 +19,40 @@
 		<src>mgeW8Qm8-SY</src>
 	</media>
 	<media>
-		<title>#CANLI | HT Spor 7/24 Canlı Yayın</title>
+		<title>#CANLI Gaziantep Basketbol-Konya BBSK | Türkiye Sigorta Türkiye Basketbol Ligi Yarı Final 1. Maçlar</title>
+		<thumb>https://i.ytimg.com/vi/eI53Pp-wJ-Q/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>eI53Pp-wJ-Q</src>
+	</media>
+	<media>
+		<title>#CANLI Gaziantep Basketbol-Konya BBSK | Türkiye Sigorta Türkiye Basketbol Ligi Yarı Final 1. Maçlar</title>
 		<thumb>https://i.ytimg.com/vi/ih2KAtA50I4/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>ih2KAtA50I4</src>
 	</media>
 	<media>
-		<title>TJK TV Eyerleme Alanı Ankara</title>
-		<thumb>https://i.ytimg.com/vi/03vM6M4zToo/hqdefault_live.jpg</thumb>
+		<title>TJK TV Eyerleme Alanı İstanbul 10.05.2026</title>
+		<thumb>https://i.ytimg.com/vi/ewXsUFbEGRg/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>03vM6M4zToo</src>
+		<src>ewXsUFbEGRg</src>
 	</media>
 	<media>
-		<title>Start Kura Çekimi Bursa</title>
-		<thumb>https://i.ytimg.com/vi/5RfFeo7diSs/hqdefault_live.jpg</thumb>
+		<title>Start Kura Çekimi Ankara</title>
+		<thumb>https://i.ytimg.com/vi/4x_k2-Mz8CE/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>5RfFeo7diSs</src>
+		<src>4x_k2-Mz8CE</src>
 	</media>
 	<media>
-		<title>Start Kura Çekimi Şanlıurfa</title>
-		<thumb>https://i.ytimg.com/vi/KsX2ZLrgdf0/hqdefault_live.jpg</thumb>
+		<title>Start Kura Çekimi Kocaeli</title>
+		<thumb>https://i.ytimg.com/vi/GaibZgBHOqA/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>KsX2ZLrgdf0</src>
+		<src>GaibZgBHOqA</src>
+	</media>
+	<media>
+		<title>TJK TV Eyerleme Alanı Adana</title>
+		<thumb>https://i.ytimg.com/vi/wjNvUELf48A/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>wjNvUELf48A</src>
 	</media>
 	<media>
 		<title>TJK TV Canlı Yayın</title>
