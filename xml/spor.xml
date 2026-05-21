@@ -19,39 +19,45 @@
 		<src>mgeW8Qm8-SY</src>
 	</media>
 	<media>
-		<title>#CANLI | HT Spor 7/24 Canlı Yayın</title>
+		<title>#CANLI | Kevser İme Şahin ile Satır Arası</title>
 		<thumb>https://i.ytimg.com/vi/gcWaPe_LBMc/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>gcWaPe_LBMc</src>
 	</media>
 	<media>
-		<title>TJK TV Eyerleme Alanı İstanbul</title>
-		<thumb>https://i.ytimg.com/vi/LL82oVhtm4Y/hqdefault_live.jpg</thumb>
+		<title>Start Kura Çekimi İzmir</title>
+		<thumb>https://i.ytimg.com/vi/Ib7jhlx1CCE/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>LL82oVhtm4Y</src>
+		<src>Ib7jhlx1CCE</src>
 	</media>
 	<media>
-		<title>Start Kura Çekimi İstanbul</title>
-		<thumb>https://i.ytimg.com/vi/UUBbBl9h6Rk/hqdefault_live.jpg</thumb>
+		<title>Start Kura Çekimi Ankara</title>
+		<thumb>https://i.ytimg.com/vi/-ozsseWYpeY/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>UUBbBl9h6Rk</src>
+		<src>-ozsseWYpeY</src>
 	</media>
 	<media>
-		<title>TJK TV Eyerleme Alanı Elazığ</title>
-		<thumb>https://i.ytimg.com/vi/JzNTS2Knjdw/hqdefault_live.jpg</thumb>
+		<title>TJK TV Eyerleme Alanı Ankara</title>
+		<thumb>https://i.ytimg.com/vi/bW13dFIhVQo/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>JzNTS2Knjdw</src>
+		<src>bW13dFIhVQo</src>
 	</media>
 	<media>
-		<title>Start Kura Çekimi Bursa</title>
-		<thumb>https://i.ytimg.com/vi/e13vpwOfLL4/hqdefault_live.jpg</thumb>
+		<title>Start Kura Çekimi Diyarbakır</title>
+		<thumb>https://i.ytimg.com/vi/N28DYZVQQEQ/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>e13vpwOfLL4</src>
+		<src>N28DYZVQQEQ</src>
 	</media>
 	<media>
 		<title>TJK TV Canlı Yayın</title>
 		<thumb>https://i.ytimg.com/vi/g89RQMJtK6E/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>g89RQMJtK6E</src>
+	</media>
+	<media>
+		<title>Gündem Futbol | Ersin Düzen, Uğur Karakullukçu, Veli Yiğit</title>
+		<thumb>https://i.ytimg.com/vi/MDQ4sZsBVJk/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>MDQ4sZsBVJk</src>
 	</media>
 </media>
