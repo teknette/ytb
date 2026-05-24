@@ -19,28 +19,40 @@
 		<src>mgeW8Qm8-SY</src>
 	</media>
 	<media>
+		<title>#CANLI | Türkiye Drift Şampiyonası Gaziantep 2. Etap</title>
+		<thumb>https://i.ytimg.com/vi/Y8cI7oNlrEs/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>Y8cI7oNlrEs</src>
+	</media>
+	<media>
 		<title>#CANLI | HT Spor 7/24 Canlı Yayın</title>
 		<thumb>https://i.ytimg.com/vi/gcWaPe_LBMc/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>gcWaPe_LBMc</src>
 	</media>
 	<media>
-		<title>TJK TV Eyerleme Alanı Ankara</title>
-		<thumb>https://i.ytimg.com/vi/UU1kR30gZW4/hqdefault_live.jpg</thumb>
+		<title>TJK TV Eyerleme Alanı İstanbul</title>
+		<thumb>https://i.ytimg.com/vi/dvbx5LgKcYs/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>UU1kR30gZW4</src>
+		<src>dvbx5LgKcYs</src>
 	</media>
 	<media>
-		<title>Start Kura Çekimi Şanlıurfa</title>
-		<thumb>https://i.ytimg.com/vi/hN7ZMCP6OcE/hqdefault_live.jpg</thumb>
+		<title>TJK TV Eyerleme Alanı Adana</title>
+		<thumb>https://i.ytimg.com/vi/F0mHKL65-YM/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>hN7ZMCP6OcE</src>
+		<src>F0mHKL65-YM</src>
 	</media>
 	<media>
-		<title>Start Kura Çekimi Bursa</title>
-		<thumb>https://i.ytimg.com/vi/gsbNpG29BFA/hqdefault_live.jpg</thumb>
+		<title>Start Kura Çekimi Ankara</title>
+		<thumb>https://i.ytimg.com/vi/hqu5pWMeZnc/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>gsbNpG29BFA</src>
+		<src>hqu5pWMeZnc</src>
+	</media>
+	<media>
+		<title>Start Kura Çekimi Kocaeli</title>
+		<thumb>https://i.ytimg.com/vi/U1SqYKgD59U/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>U1SqYKgD59U</src>
 	</media>
 	<media>
 		<title>TJK TV Canlı Yayın</title>
