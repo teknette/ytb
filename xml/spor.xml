@@ -19,16 +19,10 @@
 		<src>mgeW8Qm8-SY</src>
 	</media>
 	<media>
-		<title>#CANLI A Milli Takım&amp;#39;da hazırlıklar 10 eksikle sürdü | Satır Arası</title>
+		<title>#CANLI | HT Spor 7/24 Canlı Yayın</title>
 		<thumb>https://i.ytimg.com/vi/gcWaPe_LBMc/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>gcWaPe_LBMc</src>
-	</media>
-	<media>
-		<title>TJK TV Canlı Yayın</title>
-		<thumb>https://i.ytimg.com/vi/g89RQMJtK6E/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>g89RQMJtK6E</src>
 	</media>
 	<media>
 		<title>TJK TV Eyerleme Alanı Bursa</title>
@@ -37,21 +31,21 @@
 		<src>m7Jily_s2Ag</src>
 	</media>
 	<media>
-		<title>Start Kura Çekimi İstanbul</title>
-		<thumb>https://i.ytimg.com/vi/RneoGk4Op0w/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>RneoGk4Op0w</src>
-	</media>
-	<media>
 		<title>TJK TV Eyerleme Alanı Şanlıurfa</title>
 		<thumb>https://i.ytimg.com/vi/GSMEwPDbZ7o/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>GSMEwPDbZ7o</src>
 	</media>
 	<media>
-		<title>Gündem Futbol | Ersin Düzen, Uğur Karakullukçu, Erbatur Ergenekon, Veli Yiğit</title>
-		<thumb>https://i.ytimg.com/vi/J6mnhckQI7w/hqdefault_live.jpg</thumb>
+		<title>Start Kura Çekimi İstanbul</title>
+		<thumb>https://i.ytimg.com/vi/RneoGk4Op0w/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>J6mnhckQI7w</src>
+		<src>RneoGk4Op0w</src>
+	</media>
+	<media>
+		<title>TJK TV Canlı Yayın</title>
+		<thumb>https://i.ytimg.com/vi/g89RQMJtK6E/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>g89RQMJtK6E</src>
 	</media>
 </media>
