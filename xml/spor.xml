@@ -19,10 +19,34 @@
 		<src>mgeW8Qm8-SY</src>
 	</media>
 	<media>
-		<title>#CANLI | HT Spor 7/24 Canlı Yayın</title>
+		<title>#CANLI | Sine Çakır Heyse ile Ana Haber</title>
 		<thumb>https://i.ytimg.com/vi/gcWaPe_LBMc/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>gcWaPe_LBMc</src>
+	</media>
+	<media>
+		<title>TJK TV Eyerleme Alanı Ankara</title>
+		<thumb>https://i.ytimg.com/vi/_JOwR30OwlI/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>_JOwR30OwlI</src>
+	</media>
+	<media>
+		<title>Start Kura Çekimi İzmir</title>
+		<thumb>https://i.ytimg.com/vi/Nszg-cOjj-g/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>Nszg-cOjj-g</src>
+	</media>
+	<media>
+		<title>Start Kura Çekimi Ankara</title>
+		<thumb>https://i.ytimg.com/vi/o2zEmWf2KtI/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>o2zEmWf2KtI</src>
+	</media>
+	<media>
+		<title>Start Kura Çekimi Diyarbakır</title>
+		<thumb>https://i.ytimg.com/vi/lc8lO_g6lwk/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>lc8lO_g6lwk</src>
 	</media>
 	<media>
 		<title>TJK TV Canlı Yayın</title>
