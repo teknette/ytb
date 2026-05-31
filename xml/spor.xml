@@ -19,33 +19,45 @@
 		<src>mgeW8Qm8-SY</src>
 	</media>
 	<media>
-		<title>#CANLI | HT Spor 7/24 Canlı Yayın</title>
+		<title>#CANLI | Levent Yavuz ile Spor Hattı</title>
 		<thumb>https://i.ytimg.com/vi/gcWaPe_LBMc/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>gcWaPe_LBMc</src>
 	</media>
 	<media>
-		<title>TJK TV Eyerleme Alanı Ankara</title>
-		<thumb>https://i.ytimg.com/vi/frTTMA1LUuQ/hqdefault_live.jpg</thumb>
+		<title>TJK TV Eyerleme Alanı İstanbul</title>
+		<thumb>https://i.ytimg.com/vi/3mhgPSB1Ep0/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>frTTMA1LUuQ</src>
+		<src>3mhgPSB1Ep0</src>
 	</media>
 	<media>
-		<title>Start Kura Çekimi Şanlıurfa</title>
-		<thumb>https://i.ytimg.com/vi/rGWUyyFcqTM/hqdefault_live.jpg</thumb>
+		<title>Start Kura Çekimi Ankara</title>
+		<thumb>https://i.ytimg.com/vi/fW3w97j0sv4/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>rGWUyyFcqTM</src>
+		<src>fW3w97j0sv4</src>
 	</media>
 	<media>
-		<title>Start Kura Çekimi Bursa</title>
-		<thumb>https://i.ytimg.com/vi/KYGP8b6CsPA/hqdefault_live.jpg</thumb>
+		<title>TJK TV Eyerleme Alanı Adana</title>
+		<thumb>https://i.ytimg.com/vi/f8FzsyrScyc/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>KYGP8b6CsPA</src>
+		<src>f8FzsyrScyc</src>
+	</media>
+	<media>
+		<title>Start Kura Çekimi Kocaeli</title>
+		<thumb>https://i.ytimg.com/vi/ybwtmLF9Qx8/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>ybwtmLF9Qx8</src>
 	</media>
 	<media>
 		<title>TJK TV Canlı Yayın</title>
 		<thumb>https://i.ytimg.com/vi/g89RQMJtK6E/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>g89RQMJtK6E</src>
+	</media>
+	<media>
+		<title>Seçime Geri Sayım | Hangi Futbolcularla Anlaşıldı? | Ersin Düzen, Yağız Sabuncuoğlu</title>
+		<thumb>https://i.ytimg.com/vi/KcRpuYb3bKA/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>KcRpuYb3bKA</src>
 	</media>
 </media>
