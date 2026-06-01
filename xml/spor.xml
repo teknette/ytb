@@ -19,39 +19,45 @@
 		<src>mgeW8Qm8-SY</src>
 	</media>
 	<media>
-		<title>#CANLI | HT Spor 7/24 Canlı Yayın</title>
+		<title>#CANLI | Melih Aydoğmuş ile Maç Yolu</title>
 		<thumb>https://i.ytimg.com/vi/gcWaPe_LBMc/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>gcWaPe_LBMc</src>
 	</media>
 	<media>
-		<title>TJK TV Eyerleme Alanı İstanbul</title>
-		<thumb>https://i.ytimg.com/vi/3mhgPSB1Ep0/hqdefault_live.jpg</thumb>
+		<title>Start Kura Çekimi Elazığ</title>
+		<thumb>https://i.ytimg.com/vi/dGaYLwLp7-0/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>3mhgPSB1Ep0</src>
+		<src>dGaYLwLp7-0</src>
 	</media>
 	<media>
-		<title>Start Kura Çekimi Ankara</title>
-		<thumb>https://i.ytimg.com/vi/fW3w97j0sv4/hqdefault_live.jpg</thumb>
+		<title>TJK TV Eyerleme Alanı Bursa</title>
+		<thumb>https://i.ytimg.com/vi/kvQ6mNbHjeY/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>fW3w97j0sv4</src>
+		<src>kvQ6mNbHjeY</src>
 	</media>
 	<media>
-		<title>TJK TV Eyerleme Alanı Adana</title>
-		<thumb>https://i.ytimg.com/vi/f8FzsyrScyc/hqdefault_live.jpg</thumb>
+		<title>Start Kura Çekimi İstanbul</title>
+		<thumb>https://i.ytimg.com/vi/EV0E0EaomXM/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>f8FzsyrScyc</src>
+		<src>EV0E0EaomXM</src>
 	</media>
 	<media>
-		<title>Start Kura Çekimi Kocaeli</title>
-		<thumb>https://i.ytimg.com/vi/ybwtmLF9Qx8/hqdefault_live.jpg</thumb>
+		<title>TJK TV Eyerleme Alanı Şanlıurfa</title>
+		<thumb>https://i.ytimg.com/vi/LxBI1vGYqtE/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>ybwtmLF9Qx8</src>
+		<src>LxBI1vGYqtE</src>
 	</media>
 	<media>
 		<title>TJK TV Canlı Yayın</title>
 		<thumb>https://i.ytimg.com/vi/g89RQMJtK6E/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>g89RQMJtK6E</src>
+	</media>
+	<media>
+		<title>Damat | Tween - Her Akşam Spor | 1 Haziran 2026</title>
+		<thumb>https://i.ytimg.com/vi/DF73riW3hXQ/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>DF73riW3hXQ</src>
 	</media>
 </media>
