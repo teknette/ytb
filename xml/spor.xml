@@ -19,7 +19,7 @@
 		<src>mgeW8Qm8-SY</src>
 	</media>
 	<media>
-		<title>#CANLI | Melih Aydoğmuş ile Maç Yolu</title>
+		<title>#CANLI | HT Spor 7/24 Canlı Yayın</title>
 		<thumb>https://i.ytimg.com/vi/gcWaPe_LBMc/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>gcWaPe_LBMc</src>
@@ -37,27 +37,21 @@
 		<src>kvQ6mNbHjeY</src>
 	</media>
 	<media>
-		<title>Start Kura Çekimi İstanbul</title>
-		<thumb>https://i.ytimg.com/vi/EV0E0EaomXM/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>EV0E0EaomXM</src>
-	</media>
-	<media>
 		<title>TJK TV Eyerleme Alanı Şanlıurfa</title>
 		<thumb>https://i.ytimg.com/vi/LxBI1vGYqtE/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>LxBI1vGYqtE</src>
 	</media>
 	<media>
+		<title>Start Kura Çekimi İstanbul</title>
+		<thumb>https://i.ytimg.com/vi/EV0E0EaomXM/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>EV0E0EaomXM</src>
+	</media>
+	<media>
 		<title>TJK TV Canlı Yayın</title>
 		<thumb>https://i.ytimg.com/vi/g89RQMJtK6E/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>g89RQMJtK6E</src>
-	</media>
-	<media>
-		<title>Damat | Tween - Her Akşam Spor | 1 Haziran 2026</title>
-		<thumb>https://i.ytimg.com/vi/DF73riW3hXQ/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>DF73riW3hXQ</src>
 	</media>
 </media>
