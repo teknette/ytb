@@ -19,39 +19,45 @@
 		<src>mgeW8Qm8-SY</src>
 	</media>
 	<media>
-		<title>#CANLI | HT Spor 7/24 Canlı Yayın</title>
+		<title>#CANLI | Deniz Biricik ile Satır Arası</title>
 		<thumb>https://i.ytimg.com/vi/gcWaPe_LBMc/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>gcWaPe_LBMc</src>
 	</media>
 	<media>
-		<title>TJK TV Eyerleme Alanı Elazığ</title>
-		<thumb>https://i.ytimg.com/vi/zCFL3eDBI3U/hqdefault_live.jpg</thumb>
+		<title>TJK TV Eyerleme Alanı Ankara</title>
+		<thumb>https://i.ytimg.com/vi/clU9zuGyQfU/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>zCFL3eDBI3U</src>
+		<src>clU9zuGyQfU</src>
 	</media>
 	<media>
-		<title>Start Kura Çekimi İstanbul</title>
-		<thumb>https://i.ytimg.com/vi/hS72eQCccCs/hqdefault_live.jpg</thumb>
+		<title>Start Kura Çekimi Ankara</title>
+		<thumb>https://i.ytimg.com/vi/rxs1JkNk7mA/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>hS72eQCccCs</src>
+		<src>rxs1JkNk7mA</src>
 	</media>
 	<media>
-		<title>TJK TV Eyerleme Alanı İstanbul</title>
-		<thumb>https://i.ytimg.com/vi/fiJVR_Vvrqw/hqdefault_live.jpg</thumb>
+		<title>Start Kura Çekimi Diyarbakır</title>
+		<thumb>https://i.ytimg.com/vi/2taC_EQZ_Dg/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>fiJVR_Vvrqw</src>
+		<src>2taC_EQZ_Dg</src>
 	</media>
 	<media>
-		<title>Start Kura Çekimi Bursa</title>
-		<thumb>https://i.ytimg.com/vi/jsU7eNRNijU/hqdefault_live.jpg</thumb>
+		<title>Start Kura Çekimi İzmir</title>
+		<thumb>https://i.ytimg.com/vi/wQZcYyCkvkA/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>jsU7eNRNijU</src>
+		<src>wQZcYyCkvkA</src>
 	</media>
 	<media>
 		<title>TJK TV Canlı Yayın</title>
 		<thumb>https://i.ytimg.com/vi/g89RQMJtK6E/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>g89RQMJtK6E</src>
+	</media>
+	<media>
+		<title>Icardi kararını verdi mi? | Fenerbahçe’de kılıçlar çekildi! | bi&amp;#39;haber</title>
+		<thumb>https://i.ytimg.com/vi/QDgnj0NyZ-Q/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>QDgnj0NyZ-Q</src>
 	</media>
 </media>
