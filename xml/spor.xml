@@ -19,7 +19,7 @@
 		<src>mgeW8Qm8-SY</src>
 	</media>
 	<media>
-		<title>#CANLI | Deniz Biricik ile Satır Arası</title>
+		<title>#CANLI | HT Spor 7/24 Canlı Yayın</title>
 		<thumb>https://i.ytimg.com/vi/gcWaPe_LBMc/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>gcWaPe_LBMc</src>
@@ -29,6 +29,12 @@
 		<thumb>https://i.ytimg.com/vi/clU9zuGyQfU/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>clU9zuGyQfU</src>
+	</media>
+	<media>
+		<title>Start Kura Çekimi İzmir</title>
+		<thumb>https://i.ytimg.com/vi/wQZcYyCkvkA/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>wQZcYyCkvkA</src>
 	</media>
 	<media>
 		<title>Start Kura Çekimi Ankara</title>
@@ -43,21 +49,9 @@
 		<src>2taC_EQZ_Dg</src>
 	</media>
 	<media>
-		<title>Start Kura Çekimi İzmir</title>
-		<thumb>https://i.ytimg.com/vi/wQZcYyCkvkA/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>wQZcYyCkvkA</src>
-	</media>
-	<media>
 		<title>TJK TV Canlı Yayın</title>
 		<thumb>https://i.ytimg.com/vi/g89RQMJtK6E/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>g89RQMJtK6E</src>
-	</media>
-	<media>
-		<title>Icardi kararını verdi mi? | Fenerbahçe’de kılıçlar çekildi! | bi&amp;#39;haber</title>
-		<thumb>https://i.ytimg.com/vi/QDgnj0NyZ-Q/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>QDgnj0NyZ-Q</src>
 	</media>
 </media>
