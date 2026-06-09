@@ -19,7 +19,7 @@
 		<src>mgeW8Qm8-SY</src>
 	</media>
 	<media>
-		<title>#CANLI | Sine Çakır Heyse ile Ana Haber</title>
+		<title>#CANLI | HT Spor 7/24 Canlı Yayın</title>
 		<thumb>https://i.ytimg.com/vi/gcWaPe_LBMc/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>gcWaPe_LBMc</src>
@@ -37,16 +37,16 @@
 		<src>bCDC3On09yI</src>
 	</media>
 	<media>
-		<title>Start Kura Çekimi İstanbul</title>
-		<thumb>https://i.ytimg.com/vi/Qo1b8orR9cQ/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>Qo1b8orR9cQ</src>
-	</media>
-	<media>
 		<title>TJK TV Eyerleme Alanı Bursa</title>
 		<thumb>https://i.ytimg.com/vi/ADsiYumHzSs/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>ADsiYumHzSs</src>
+	</media>
+	<media>
+		<title>Start Kura Çekimi İstanbul</title>
+		<thumb>https://i.ytimg.com/vi/Qo1b8orR9cQ/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>Qo1b8orR9cQ</src>
 	</media>
 	<media>
 		<title>TJK TV Canlı Yayın</title>
