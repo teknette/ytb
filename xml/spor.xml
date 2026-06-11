@@ -13,13 +13,7 @@
 		<src>LaJmj3apVPQ</src>
 	</media>
 	<media>
-		<title>A Spor Canlı Yayın 🔴</title>
-		<thumb>https://i.ytimg.com/vi/mgeW8Qm8-SY/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>mgeW8Qm8-SY</src>
-	</media>
-	<media>
-		<title>#CANLI | Deniz Biricik ile Satır Arası</title>
+		<title>#CANLI | HT Spor 7/24 Canlı Yayın</title>
 		<thumb>https://i.ytimg.com/vi/gcWaPe_LBMc/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>gcWaPe_LBMc</src>
@@ -29,6 +23,12 @@
 		<thumb>https://i.ytimg.com/vi/xkCpo3upTkI/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>xkCpo3upTkI</src>
+	</media>
+	<media>
+		<title>TJK TV Eyerleme Alanı Elazığ</title>
+		<thumb>https://i.ytimg.com/vi/Tf97OGkEbXY/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>Tf97OGkEbXY</src>
 	</media>
 	<media>
 		<title>Start Kura Çekimi İstanbul</title>
@@ -41,12 +41,6 @@
 		<thumb>https://i.ytimg.com/vi/7ybwGGM6yBc/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>7ybwGGM6yBc</src>
-	</media>
-	<media>
-		<title>TJK TV Eyerleme Alanı Elazığ</title>
-		<thumb>https://i.ytimg.com/vi/Tf97OGkEbXY/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>Tf97OGkEbXY</src>
 	</media>
 	<media>
 		<title>TJK TV Canlı Yayın</title>
