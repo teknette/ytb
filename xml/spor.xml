@@ -14,27 +14,33 @@
 	</media>
 	<media>
 		<title>A Spor Canlı Yayın 🔴 Son Dakika Transfer Haberleri</title>
-		<thumb>https://i.ytimg.com/vi/E1wnCxgBFpQ/hqdefault_live.jpg</thumb>
+		<thumb>https://i.ytimg.com/vi/ituDjlTmXh8/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>E1wnCxgBFpQ</src>
+		<src>ituDjlTmXh8</src>
 	</media>
 	<media>
-		<title>#CANLI | Sine Çakır Heyse ile Ana Haber</title>
+		<title>#CANLI | HT Spor 7/24 Canlı Yayın</title>
 		<thumb>https://i.ytimg.com/vi/gcWaPe_LBMc/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>gcWaPe_LBMc</src>
 	</media>
 	<media>
-		<title>TJK TV Eyerleme Alanı Bursa</title>
-		<thumb>https://i.ytimg.com/vi/weGA1ki8LYo/hqdefault_live.jpg</thumb>
+		<title>TJK TV Canlı Yayın</title>
+		<thumb>https://i.ytimg.com/vi/g89RQMJtK6E/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>weGA1ki8LYo</src>
+		<src>g89RQMJtK6E</src>
 	</media>
 	<media>
 		<title>TJK TV Eyerleme Alanı İstanbul</title>
 		<thumb>https://i.ytimg.com/vi/fkpc5i8N02E/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>fkpc5i8N02E</src>
+	</media>
+	<media>
+		<title>TJK TV Eyerleme Alanı Bursa</title>
+		<thumb>https://i.ytimg.com/vi/weGA1ki8LYo/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>weGA1ki8LYo</src>
 	</media>
 	<media>
 		<title>Start Kura Çekimi İzmir</title>
@@ -47,11 +53,5 @@
 		<thumb>https://i.ytimg.com/vi/u-jF5OUuCm8/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>u-jF5OUuCm8</src>
-	</media>
-	<media>
-		<title>TJK TV Canlı Yayın</title>
-		<thumb>https://i.ytimg.com/vi/g89RQMJtK6E/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>g89RQMJtK6E</src>
 	</media>
 </media>
