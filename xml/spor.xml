@@ -1,40 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <media>
 	<media>
-		<title>beIN SPORTS HABER Canlı Yayını | #beINSPORTS</title>
-		<thumb>https://i.ytimg.com/vi/i7UpPgxfZZ8/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>i7UpPgxfZZ8</src>
-	</media>
-	<media>
 		<title>🔴 Beşiktaş - Trabzonspor Maç Özetleri | beIN SPORTS Arşiv</title>
 		<thumb>https://i.ytimg.com/vi/LaJmj3apVPQ/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>LaJmj3apVPQ</src>
 	</media>
 	<media>
-		<title>#CANLI | HT Spor 7/24 Canlı Yayın</title>
+		<title>#CANLI | Kevser İme Şahin ile Nokta Transfer</title>
 		<thumb>https://i.ytimg.com/vi/gcWaPe_LBMc/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>gcWaPe_LBMc</src>
 	</media>
 	<media>
-		<title>Start Kura Çekimi Ankara</title>
-		<thumb>https://i.ytimg.com/vi/8f0bm0YaquI/hqdefault_live.jpg</thumb>
+		<title>TJK TV Eyerleme Alanı Bursa</title>
+		<thumb>https://i.ytimg.com/vi/ZagV_yGyV8I/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>8f0bm0YaquI</src>
+		<src>ZagV_yGyV8I</src>
 	</media>
 	<media>
-		<title>Start Kura Çekimi Kocaeli</title>
-		<thumb>https://i.ytimg.com/vi/34qw1R_gSxs/hqdefault_live.jpg</thumb>
+		<title>TJK TV Eyerleme Alanı Şanlıurfa</title>
+		<thumb>https://i.ytimg.com/vi/RNLXzyAqBUk/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>34qw1R_gSxs</src>
+		<src>RNLXzyAqBUk</src>
 	</media>
 	<media>
-		<title>TJK TV Eyerleme Alanı İstanbul</title>
-		<thumb>https://i.ytimg.com/vi/XUPq3LLvol8/hqdefault_live.jpg</thumb>
+		<title>Start Kura Çekimi Elazığ</title>
+		<thumb>https://i.ytimg.com/vi/otsneip3YHM/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>XUPq3LLvol8</src>
+		<src>otsneip3YHM</src>
+	</media>
+	<media>
+		<title>Start Kura Çekimi İstanbul</title>
+		<thumb>https://i.ytimg.com/vi/8RUKUi2XTig/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>8RUKUi2XTig</src>
 	</media>
 	<media>
 		<title>TJK TV Canlı Yayın</title>
