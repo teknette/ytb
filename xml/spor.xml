@@ -13,28 +13,22 @@
 		<src>LaJmj3apVPQ</src>
 	</media>
 	<media>
-		<title>#CANLI | Levent Yavuz ile Dünya Kupası Özel</title>
+		<title>#CANLI | HT Spor 7/24 Canlı Yayın</title>
 		<thumb>https://i.ytimg.com/vi/gcWaPe_LBMc/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>gcWaPe_LBMc</src>
-	</media>
-	<media>
-		<title>TİGEM Karacabey Tay Satışları 16.06.2026</title>
-		<thumb>https://i.ytimg.com/vi/4HEa9k6E6Uk/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>4HEa9k6E6Uk</src>
-	</media>
-	<media>
-		<title>Start Kura Çekimi Ankara</title>
-		<thumb>https://i.ytimg.com/vi/D-JIoUwaLCM/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>D-JIoUwaLCM</src>
 	</media>
 	<media>
 		<title>Start Kura Çekimi Kocaeli</title>
 		<thumb>https://i.ytimg.com/vi/7X32L7KZo2A/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>7X32L7KZo2A</src>
+	</media>
+	<media>
+		<title>Start Kura Çekimi Ankara</title>
+		<thumb>https://i.ytimg.com/vi/D-JIoUwaLCM/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>D-JIoUwaLCM</src>
 	</media>
 	<media>
 		<title>TJK TV Eyerleme Alanı Ankara</title>
