@@ -13,10 +13,16 @@
 		<src>vTPsolQFr5s</src>
 	</media>
 	<media>
-		<title>#CANLI | Melih Aydoğmuş ile Spor Hattı</title>
+		<title>#CANLI | HT Spor 7/24 Canlı Yayın</title>
 		<thumb>https://i.ytimg.com/vi/gcWaPe_LBMc/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>gcWaPe_LBMc</src>
+	</media>
+	<media>
+		<title>TJK TV Canlı Yayın</title>
+		<thumb>https://i.ytimg.com/vi/g89RQMJtK6E/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>g89RQMJtK6E</src>
 	</media>
 	<media>
 		<title>TJK TV Eyerleme Alanı Ankara</title>
@@ -35,23 +41,5 @@
 		<thumb>https://i.ytimg.com/vi/IHR-8XjwU3o/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>IHR-8XjwU3o</src>
-	</media>
-	<media>
-		<title>TJK TV Canlı Yayın</title>
-		<thumb>https://i.ytimg.com/vi/g89RQMJtK6E/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>g89RQMJtK6E</src>
-	</media>
-	<media>
-		<title>Türkiye - Paraguay Maç Sonu | Berk Göl, Semih Sezerli, Batuhan Hınçal</title>
-		<thumb>https://i.ytimg.com/vi/RYoMZPSfn34/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>RYoMZPSfn34</src>
-	</media>
-	<media>
-		<title>Elenmenin Faturası Kime Kesilecek? | Montella İstifa Edecek mi? | Icardi | Kupada Bugün</title>
-		<thumb>https://i.ytimg.com/vi/KuuVNzezg-k/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>KuuVNzezg-k</src>
 	</media>
 </media>
