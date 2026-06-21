@@ -13,33 +13,45 @@
 		<src>vTPsolQFr5s</src>
 	</media>
 	<media>
-		<title>#CANLI | HT Spor 7/24 Canlı Yayın</title>
+		<title>Faturanın Kesildiği İsim Açıklanıyor | Serkan Korkmaz, Fatih Akyel, Murat Özbostan</title>
+		<thumb>https://i.ytimg.com/vi/X8yNeD3Rnjk/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>X8yNeD3Rnjk</src>
+	</media>
+	<media>
+		<title>#CANLI | Türkiye Drift Şampiyonası</title>
+		<thumb>https://i.ytimg.com/vi/qXEuG6SQXTg/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>qXEuG6SQXTg</src>
+	</media>
+	<media>
+		<title>#CANLI | Türkiye Drift Şampiyonası</title>
 		<thumb>https://i.ytimg.com/vi/gcWaPe_LBMc/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>gcWaPe_LBMc</src>
+	</media>
+	<media>
+		<title>Start Kura Çekimi Kocaeli</title>
+		<thumb>https://i.ytimg.com/vi/j7ve967kd7I/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>j7ve967kd7I</src>
+	</media>
+	<media>
+		<title>TJK TV Eyerleme Alanı İstanbul</title>
+		<thumb>https://i.ytimg.com/vi/HqeYHU5QE4g/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>HqeYHU5QE4g</src>
+	</media>
+	<media>
+		<title>Start Kura Çekimi Ankara</title>
+		<thumb>https://i.ytimg.com/vi/rP2FkFyQF4c/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>rP2FkFyQF4c</src>
 	</media>
 	<media>
 		<title>TJK TV Canlı Yayın</title>
 		<thumb>https://i.ytimg.com/vi/g89RQMJtK6E/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>g89RQMJtK6E</src>
-	</media>
-	<media>
-		<title>TJK TV Eyerleme Alanı Ankara</title>
-		<thumb>https://i.ytimg.com/vi/GXzyL27_NWU/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>GXzyL27_NWU</src>
-	</media>
-	<media>
-		<title>Start Kura Çekimi Elazığ</title>
-		<thumb>https://i.ytimg.com/vi/DJ4ib4dQAHI/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>DJ4ib4dQAHI</src>
-	</media>
-	<media>
-		<title>Start Kura Çekimi Bursa</title>
-		<thumb>https://i.ytimg.com/vi/IHR-8XjwU3o/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>IHR-8XjwU3o</src>
 	</media>
 </media>
