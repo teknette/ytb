@@ -13,22 +13,10 @@
 		<src>vTPsolQFr5s</src>
 	</media>
 	<media>
-		<title>#CANLI | Sine Çakır Heyse ile Ana Haber</title>
+		<title>#CANLI | HT Spor 7/24 Canlı Yayın</title>
 		<thumb>https://i.ytimg.com/vi/gcWaPe_LBMc/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>gcWaPe_LBMc</src>
-	</media>
-	<media>
-		<title>TJK TV Eyerleme Alanı İstanbul</title>
-		<thumb>https://i.ytimg.com/vi/o0ii9UpnTFI/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>o0ii9UpnTFI</src>
-	</media>
-	<media>
-		<title>Start Kura Çekimi Kocaeli</title>
-		<thumb>https://i.ytimg.com/vi/uN62dVU-930/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>uN62dVU-930</src>
 	</media>
 	<media>
 		<title>Start Kura Çekimi Ankara</title>
@@ -37,10 +25,22 @@
 		<src>k9Wd4uBv5J0</src>
 	</media>
 	<media>
+		<title>Start Kura Çekimi Kocaeli</title>
+		<thumb>https://i.ytimg.com/vi/uN62dVU-930/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>uN62dVU-930</src>
+	</media>
+	<media>
 		<title>TJK TV Eyerleme Alanı Elazığ</title>
 		<thumb>https://i.ytimg.com/vi/Mef7QljVfOw/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>Mef7QljVfOw</src>
+	</media>
+	<media>
+		<title>TJK TV Eyerleme Alanı İstanbul</title>
+		<thumb>https://i.ytimg.com/vi/o0ii9UpnTFI/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>o0ii9UpnTFI</src>
 	</media>
 	<media>
 		<title>TJK TV Canlı Yayın</title>
