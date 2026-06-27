@@ -13,22 +13,22 @@
 		<src>vTPsolQFr5s</src>
 	</media>
 	<media>
-		<title>#CANLI | Sine Çakır Heyse ile Ana Haber</title>
+		<title>#CANLI | HT Spor 7/24 Canlı Yayın</title>
 		<thumb>https://i.ytimg.com/vi/gcWaPe_LBMc/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>gcWaPe_LBMc</src>
-	</media>
-	<media>
-		<title>Start Kura Çekimi İstanbul</title>
-		<thumb>https://i.ytimg.com/vi/KdwUzPSJoqA/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>KdwUzPSJoqA</src>
 	</media>
 	<media>
 		<title>Start Kura Çekimi İzmir</title>
 		<thumb>https://i.ytimg.com/vi/Wk_gb8Q-HCQ/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>Wk_gb8Q-HCQ</src>
+	</media>
+	<media>
+		<title>Start Kura Çekimi İstanbul</title>
+		<thumb>https://i.ytimg.com/vi/KdwUzPSJoqA/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>KdwUzPSJoqA</src>
 	</media>
 	<media>
 		<title>TJK TV Eyerleme Alanı Ankara</title>
@@ -41,11 +41,5 @@
 		<thumb>https://i.ytimg.com/vi/g89RQMJtK6E/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>g89RQMJtK6E</src>
-	</media>
-	<media>
-		<title>Türkiye - ABD Maç Sonu | Serdar Ali Çelikler, Ali Ece, Emek Ege</title>
-		<thumb>https://i.ytimg.com/vi/E5L4s-IJIAs/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>E5L4s-IJIAs</src>
 	</media>
 </media>
