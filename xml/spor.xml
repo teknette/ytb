@@ -13,16 +13,28 @@
 		<src>vTPsolQFr5s</src>
 	</media>
 	<media>
-		<title>#CANLI | Sine Çakır Heyse ile Ana Haber</title>
+		<title>#CANLI | HT Spor 7/24 Canlı Yayın</title>
 		<thumb>https://i.ytimg.com/vi/gcWaPe_LBMc/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>gcWaPe_LBMc</src>
+	</media>
+	<media>
+		<title>TJK TV Canlı Yayın</title>
+		<thumb>https://i.ytimg.com/vi/g89RQMJtK6E/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>g89RQMJtK6E</src>
 	</media>
 	<media>
 		<title>TJK TV Eyerleme Alanı Bursa</title>
 		<thumb>https://i.ytimg.com/vi/0GXZVr_TzcI/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>0GXZVr_TzcI</src>
+	</media>
+	<media>
+		<title>TJK TV Eyerleme Alanı Elazığ</title>
+		<thumb>https://i.ytimg.com/vi/z8h8emDemJw/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>z8h8emDemJw</src>
 	</media>
 	<media>
 		<title>Start Kura Çekimi İstanbul</title>
@@ -35,29 +47,5 @@
 		<thumb>https://i.ytimg.com/vi/nU-fOQTf2GY/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>nU-fOQTf2GY</src>
-	</media>
-	<media>
-		<title>TJK TV Eyerleme Alanı Elazığ</title>
-		<thumb>https://i.ytimg.com/vi/z8h8emDemJw/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>z8h8emDemJw</src>
-	</media>
-	<media>
-		<title>TJK TV Canlı Yayın</title>
-		<thumb>https://i.ytimg.com/vi/g89RQMJtK6E/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>g89RQMJtK6E</src>
-	</media>
-	<media>
-		<title>ÖNDER ÖZEN&amp;#39;DEN TRANSFER İŞARETLERİ | Siyahla Beyaz | Fırat Günayer, Sercan Dikme, Bora Beyzade</title>
-		<thumb>https://i.ytimg.com/vi/u_LimNYleL4/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>u_LimNYleL4</src>
-	</media>
-	<media>
-		<title>TRANSFER GÜNDEMİ | ICARDI KALACAK MI, ORTA SAHAYA VE DEFANSA KİMLER GELECEK? | Eski Açık</title>
-		<thumb>https://i.ytimg.com/vi/_O3WDaU7z9M/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>_O3WDaU7z9M</src>
 	</media>
 </media>
