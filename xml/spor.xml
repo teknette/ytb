@@ -13,45 +13,39 @@
 		<src>vTPsolQFr5s</src>
 	</media>
 	<media>
-		<title>#CANLI | HT Spor 7/24 Canlı Yayın</title>
+		<title>#CANLI | Melih Aydoğmuş ile Satır Arası</title>
 		<thumb>https://i.ytimg.com/vi/gcWaPe_LBMc/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>gcWaPe_LBMc</src>
 	</media>
 	<media>
+		<title>TJK TV Eyerleme Alanı Bursa</title>
+		<thumb>https://i.ytimg.com/vi/IpVTsFIPaOQ/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>IpVTsFIPaOQ</src>
+	</media>
+	<media>
+		<title>TJK TV Eyerleme Alanı İstanbul</title>
+		<thumb>https://i.ytimg.com/vi/gGGVyujoiqY/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>gGGVyujoiqY</src>
+	</media>
+	<media>
+		<title>Start Kura Çekimi İstanbul</title>
+		<thumb>https://i.ytimg.com/vi/0WWAWvht4vg/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>0WWAWvht4vg</src>
+	</media>
+	<media>
 		<title>Start Kura Çekimi İzmir</title>
-		<thumb>https://i.ytimg.com/vi/3cWjqu5YF_E/hqdefault_live.jpg</thumb>
+		<thumb>https://i.ytimg.com/vi/w1wuRCanJno/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>3cWjqu5YF_E</src>
-	</media>
-	<media>
-		<title>TJK TV Eyerleme Alanı Ankara</title>
-		<thumb>https://i.ytimg.com/vi/wKIa-oUjitc/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>wKIa-oUjitc</src>
-	</media>
-	<media>
-		<title>Start Kura Çekimi Ankara</title>
-		<thumb>https://i.ytimg.com/vi/votX_0qKnso/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>votX_0qKnso</src>
-	</media>
-	<media>
-		<title>Start Kura Çekimi Diyarbakır</title>
-		<thumb>https://i.ytimg.com/vi/tYuie8H2ic0/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>tYuie8H2ic0</src>
+		<src>w1wuRCanJno</src>
 	</media>
 	<media>
 		<title>TJK TV Canlı Yayın</title>
 		<thumb>https://i.ytimg.com/vi/g89RQMJtK6E/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>g89RQMJtK6E</src>
-	</media>
-	<media>
-		<title>Portekiz - Hırvatistan Maç Sonu| Ersin Düzen, Uğur Karakullukçu, Veli Yiğit, Erbatur Ergenekon</title>
-		<thumb>https://i.ytimg.com/vi/xbjMqBwRsEw/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>xbjMqBwRsEw</src>
 	</media>
 </media>
