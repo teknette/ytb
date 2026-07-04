@@ -13,7 +13,7 @@
 		<src>vTPsolQFr5s</src>
 	</media>
 	<media>
-		<title>#CANLI | Melih Aydoğmuş ile Satır Arası</title>
+		<title>#CANLI | HT Spor 7/24 Canlı Yayın</title>
 		<thumb>https://i.ytimg.com/vi/gcWaPe_LBMc/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>gcWaPe_LBMc</src>
@@ -31,21 +31,27 @@
 		<src>gGGVyujoiqY</src>
 	</media>
 	<media>
-		<title>Start Kura Çekimi İstanbul</title>
-		<thumb>https://i.ytimg.com/vi/0WWAWvht4vg/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>0WWAWvht4vg</src>
-	</media>
-	<media>
 		<title>Start Kura Çekimi İzmir</title>
 		<thumb>https://i.ytimg.com/vi/w1wuRCanJno/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>w1wuRCanJno</src>
 	</media>
 	<media>
+		<title>Start Kura Çekimi İstanbul</title>
+		<thumb>https://i.ytimg.com/vi/0WWAWvht4vg/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>0WWAWvht4vg</src>
+	</media>
+	<media>
 		<title>TJK TV Canlı Yayın</title>
 		<thumb>https://i.ytimg.com/vi/g89RQMJtK6E/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>g89RQMJtK6E</src>
+	</media>
+	<media>
+		<title>Arjantin - Yeşil Burun Adaları Maç Sonu, Lionel Messi son 16 turu için sahada | Serdar, Ali, Emek</title>
+		<thumb>https://i.ytimg.com/vi/eNk1IbQSLM8/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>eNk1IbQSLM8</src>
 	</media>
 </media>
