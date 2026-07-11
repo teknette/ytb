@@ -13,7 +13,7 @@
 		<src>vTPsolQFr5s</src>
 	</media>
 	<media>
-		<title>#CANLI | Satır Arası</title>
+		<title>#CANLI | HT Spor 7/24 Canlı Yayın</title>
 		<thumb>https://i.ytimg.com/vi/gcWaPe_LBMc/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>gcWaPe_LBMc</src>
@@ -25,16 +25,16 @@
 		<src>_SHaiU83YFo</src>
 	</media>
 	<media>
-		<title>TJK TV Eyerleme Alanı Bursa</title>
-		<thumb>https://i.ytimg.com/vi/CUW0XKqQwGQ/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>CUW0XKqQwGQ</src>
-	</media>
-	<media>
 		<title>Start Kura Çekimi İstanbul</title>
 		<thumb>https://i.ytimg.com/vi/K4vvSLMA0ko/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>K4vvSLMA0ko</src>
+	</media>
+	<media>
+		<title>TJK TV Eyerleme Alanı Bursa</title>
+		<thumb>https://i.ytimg.com/vi/CUW0XKqQwGQ/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>CUW0XKqQwGQ</src>
 	</media>
 	<media>
 		<title>TJK TV Eyerleme Alanı İstanbul</title>
@@ -47,11 +47,5 @@
 		<thumb>https://i.ytimg.com/vi/g89RQMJtK6E/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>g89RQMJtK6E</src>
-	</media>
-	<media>
-		<title>Greenwood, Ne Zaman Geliyor? | Dursun Özbek, Mehmet Arslan&amp;#39;a Konuştu | Yağız Sabuncuoğlu | Spoiler</title>
-		<thumb>https://i.ytimg.com/vi/srAI5VT0K08/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>srAI5VT0K08</src>
 	</media>
 </media>
