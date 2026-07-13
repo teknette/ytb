@@ -13,39 +13,51 @@
 		<src>vTPsolQFr5s</src>
 	</media>
 	<media>
-		<title>#CANLI | HT Spor 7/24 Canlı Yayın</title>
+		<title>A Spor Canlı Yayın 🔴 Son Dakika Transfer Haberleri, Dünya Kupası Gündemi</title>
+		<thumb>https://i.ytimg.com/vi/gEb5e99c1zM/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>gEb5e99c1zM</src>
+	</media>
+	<media>
+		<title>#CANLI | Sine Çakır Heyse ile Ana Haber </title>
 		<thumb>https://i.ytimg.com/vi/gcWaPe_LBMc/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>gcWaPe_LBMc</src>
 	</media>
 	<media>
-		<title>TJK TV Eyerleme Alanı İstanbul</title>
-		<thumb>https://i.ytimg.com/vi/85XmasrDikM/hqdefault_live.jpg</thumb>
+		<title>TJK TV Eyerleme Alanı Bursa</title>
+		<thumb>https://i.ytimg.com/vi/tNbv2Mrw9c0/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>85XmasrDikM</src>
+		<src>tNbv2Mrw9c0</src>
 	</media>
 	<media>
-		<title>TJK TV Eyerleme Alanı İzmir</title>
-		<thumb>https://i.ytimg.com/vi/oxgT_yBY6_Q/hqdefault_live.jpg</thumb>
+		<title>Start Kura Çekimi Elazığ</title>
+		<thumb>https://i.ytimg.com/vi/MlspY6j5vg0/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>oxgT_yBY6_Q</src>
+		<src>MlspY6j5vg0</src>
 	</media>
 	<media>
-		<title>Start Kura Çekimi Ankara</title>
-		<thumb>https://i.ytimg.com/vi/YwZ2UG6jrag/hqdefault_live.jpg</thumb>
+		<title>Start Kura Çekimi İstanbul</title>
+		<thumb>https://i.ytimg.com/vi/uajb0qUGVNk/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>YwZ2UG6jrag</src>
+		<src>uajb0qUGVNk</src>
 	</media>
 	<media>
-		<title>Start Kura Çekimi Kocaeli</title>
-		<thumb>https://i.ytimg.com/vi/SWT0DTYm1qA/hqdefault_live.jpg</thumb>
+		<title>TJK TV Eyerleme Alanı Elazığ</title>
+		<thumb>https://i.ytimg.com/vi/hNlJr-DF-P8/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>SWT0DTYm1qA</src>
+		<src>hNlJr-DF-P8</src>
 	</media>
 	<media>
 		<title>TJK TV Canlı Yayın</title>
 		<thumb>https://i.ytimg.com/vi/g89RQMJtK6E/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>g89RQMJtK6E</src>
+	</media>
+	<media>
+		<title>Greenwood ve Trossard transferleri son aşamada, Galatasaray&amp;#39;da gündem Brahim Diaz ve Enciso</title>
+		<thumb>https://i.ytimg.com/vi/f-K2ORCgonA/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>f-K2ORCgonA</src>
 	</media>
 </media>
