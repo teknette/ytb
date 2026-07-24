@@ -19,39 +19,45 @@
 		<src>-zSaswVrQ_M</src>
 	</media>
 	<media>
-		<title>#CANLI | HT Spor 7/24 Canlı Yayın</title>
+		<title>#CANLI | Deniz Biricik ile Satır Arası</title>
 		<thumb>https://i.ytimg.com/vi/gcWaPe_LBMc/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>gcWaPe_LBMc</src>
 	</media>
 	<media>
+		<title>TJK TV Eyerleme Alanı Bursa</title>
+		<thumb>https://i.ytimg.com/vi/c2r9E47xQ9c/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>c2r9E47xQ9c</src>
+	</media>
+	<media>
+		<title>Start Kura Çekimi İstanbul</title>
+		<thumb>https://i.ytimg.com/vi/D4lrl2LsPZw/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>D4lrl2LsPZw</src>
+	</media>
+	<media>
+		<title>TJK TV Eyerleme Alanı İstanbul</title>
+		<thumb>https://i.ytimg.com/vi/GgaIB6K5444/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>GgaIB6K5444</src>
+	</media>
+	<media>
 		<title>Start Kura Çekimi İzmir</title>
-		<thumb>https://i.ytimg.com/vi/o9jIU9Omu6E/hqdefault_live.jpg</thumb>
+		<thumb>https://i.ytimg.com/vi/0kQ76QcYFGw/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>o9jIU9Omu6E</src>
-	</media>
-	<media>
-		<title>TJK TV Eyerleme Alanı Ankara</title>
-		<thumb>https://i.ytimg.com/vi/s0gwktXASMo/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>s0gwktXASMo</src>
-	</media>
-	<media>
-		<title>Start Kura Çekimi Ankara</title>
-		<thumb>https://i.ytimg.com/vi/H3eff90RTg4/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>H3eff90RTg4</src>
-	</media>
-	<media>
-		<title>Start Kura Çekimi Diyarbakır</title>
-		<thumb>https://i.ytimg.com/vi/Dczgxl7wjcQ/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>Dczgxl7wjcQ</src>
+		<src>0kQ76QcYFGw</src>
 	</media>
 	<media>
 		<title>TJK TV Canlı Yayın</title>
 		<thumb>https://i.ytimg.com/vi/g89RQMJtK6E/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>g89RQMJtK6E</src>
+	</media>
+	<media>
+		<title>Galatasaray Transferlere Başlıyor Mu? | Forvet Transferi Geliyor Mu? | Spoiler</title>
+		<thumb>https://i.ytimg.com/vi/mlI4FUAzlVw/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>mlI4FUAzlVw</src>
 	</media>
 </media>
