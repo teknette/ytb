@@ -19,16 +19,16 @@
 		<src>-zSaswVrQ_M</src>
 	</media>
 	<media>
-		<title>#CANLI | Türkiye Drift Şampiyonası (Tekrar)</title>
+		<title>#CANLI | HT Spor 7/24 Canlı Yayın</title>
 		<thumb>https://i.ytimg.com/vi/gcWaPe_LBMc/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>gcWaPe_LBMc</src>
 	</media>
 	<media>
-		<title>TJK TV Eyerleme Alanı Ankara</title>
-		<thumb>https://i.ytimg.com/vi/ubx4GWEmEbg/hqdefault_live.jpg</thumb>
+		<title>TJK TV Canlı Yayın</title>
+		<thumb>https://i.ytimg.com/vi/g89RQMJtK6E/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>ubx4GWEmEbg</src>
+		<src>g89RQMJtK6E</src>
 	</media>
 	<media>
 		<title>Start Kura Çekimi Bursa</title>
@@ -37,10 +37,10 @@
 		<src>hamrLQvDK20</src>
 	</media>
 	<media>
-		<title>Start Kura Çekimi Elazığ</title>
-		<thumb>https://i.ytimg.com/vi/HxxqkjCtnPc/hqdefault_live.jpg</thumb>
+		<title>TJK TV Eyerleme Alanı Ankara</title>
+		<thumb>https://i.ytimg.com/vi/ubx4GWEmEbg/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>HxxqkjCtnPc</src>
+		<src>ubx4GWEmEbg</src>
 	</media>
 	<media>
 		<title>TJK TV Eyerleme Alanı İzmir</title>
@@ -49,9 +49,9 @@
 		<src>GxCFAWuCxeM</src>
 	</media>
 	<media>
-		<title>TJK TV Canlı Yayın</title>
-		<thumb>https://i.ytimg.com/vi/g89RQMJtK6E/hqdefault_live.jpg</thumb>
+		<title>Start Kura Çekimi Elazığ</title>
+		<thumb>https://i.ytimg.com/vi/HxxqkjCtnPc/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>g89RQMJtK6E</src>
+		<src>HxxqkjCtnPc</src>
 	</media>
 </media>
