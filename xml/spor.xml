@@ -19,22 +19,16 @@
 		<src>-zSaswVrQ_M</src>
 	</media>
 	<media>
-		<title>#CANLI Trabzonspor – Eintracht Frankfurt | Maç Yolu</title>
+		<title>#CANLI | HT Spor 7/24 Canlı Yayın</title>
 		<thumb>https://i.ytimg.com/vi/gcWaPe_LBMc/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>gcWaPe_LBMc</src>
 	</media>
 	<media>
-		<title>Start Kura Çekimi Kocaeli</title>
-		<thumb>https://i.ytimg.com/vi/dG1XfSQJ-7k/hqdefault_live.jpg</thumb>
+		<title>TJK TV Eyerleme Alanı İzmir</title>
+		<thumb>https://i.ytimg.com/vi/j1YQpBgXQMs/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>dG1XfSQJ-7k</src>
-	</media>
-	<media>
-		<title>Start Kura Çekimi Ankara</title>
-		<thumb>https://i.ytimg.com/vi/65eii6M6Fn0/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>65eii6M6Fn0</src>
+		<src>j1YQpBgXQMs</src>
 	</media>
 	<media>
 		<title>TJK TV Eyerleme Alanı İstanbul</title>
@@ -43,10 +37,16 @@
 		<src>U8aIKKXggr4</src>
 	</media>
 	<media>
-		<title>TJK TV Eyerleme Alanı İzmir</title>
-		<thumb>https://i.ytimg.com/vi/j1YQpBgXQMs/hqdefault_live.jpg</thumb>
+		<title>Start Kura Çekimi Ankara</title>
+		<thumb>https://i.ytimg.com/vi/65eii6M6Fn0/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>j1YQpBgXQMs</src>
+		<src>65eii6M6Fn0</src>
+	</media>
+	<media>
+		<title>Start Kura Çekimi Kocaeli</title>
+		<thumb>https://i.ytimg.com/vi/dG1XfSQJ-7k/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>dG1XfSQJ-7k</src>
 	</media>
 	<media>
 		<title>TJK TV Canlı Yayın</title>
