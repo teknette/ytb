@@ -19,28 +19,34 @@
 		<src>-zSaswVrQ_M</src>
 	</media>
 	<media>
-		<title>#CANLI | Uğur Yapıcı ile Haber Bülteni</title>
+		<title>#CANLI | Satır Arası</title>
 		<thumb>https://i.ytimg.com/vi/gcWaPe_LBMc/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>gcWaPe_LBMc</src>
 	</media>
 	<media>
-		<title>Start Kura Çekimi Ankara</title>
-		<thumb>https://i.ytimg.com/vi/iwA9oqzI2lw/hqdefault_live.jpg</thumb>
+		<title>TJK TV Eyerleme Alanı İstanbul</title>
+		<thumb>https://i.ytimg.com/vi/WLiFKRDfu0c/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>iwA9oqzI2lw</src>
+		<src>WLiFKRDfu0c</src>
 	</media>
 	<media>
-		<title>TJK TV Eyerleme Alanı Ankara</title>
-		<thumb>https://i.ytimg.com/vi/pWRXsKhHtBc/hqdefault_live.jpg</thumb>
+		<title>Start Kura Çekimi İstanbul</title>
+		<thumb>https://i.ytimg.com/vi/KQIWHwW4zFk/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>pWRXsKhHtBc</src>
+		<src>KQIWHwW4zFk</src>
 	</media>
 	<media>
-		<title>Start Kura Çekimi Kocaeli</title>
-		<thumb>https://i.ytimg.com/vi/JsRIc5NhpvU/hqdefault_live.jpg</thumb>
+		<title>TJK TV Eyerleme Alanı Elazığ</title>
+		<thumb>https://i.ytimg.com/vi/rOuEnZzLZH0/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>JsRIc5NhpvU</src>
+		<src>rOuEnZzLZH0</src>
+	</media>
+	<media>
+		<title>Start Kura Çekimi Bursa</title>
+		<thumb>https://i.ytimg.com/vi/Y3wA_3cSSM8/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>Y3wA_3cSSM8</src>
 	</media>
 	<media>
 		<title>TJK TV Canlı Yayın</title>
