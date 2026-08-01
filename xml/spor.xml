@@ -19,10 +19,16 @@
 		<src>-zSaswVrQ_M</src>
 	</media>
 	<media>
-		<title>#CANLI | Deniz Biricik ile Satır Arası</title>
+		<title>#CANLI | HT Spor 7/24 Canlı Yayın</title>
 		<thumb>https://i.ytimg.com/vi/gcWaPe_LBMc/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>gcWaPe_LBMc</src>
+	</media>
+	<media>
+		<title>Start Kura Çekimi İstanbul</title>
+		<thumb>https://i.ytimg.com/vi/kgXe-s1l3wE/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>kgXe-s1l3wE</src>
 	</media>
 	<media>
 		<title>Start Kura Çekimi İzmir</title>
@@ -35,12 +41,6 @@
 		<thumb>https://i.ytimg.com/vi/Kt_OSMfv9No/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>Kt_OSMfv9No</src>
-	</media>
-	<media>
-		<title>Start Kura Çekimi İstanbul</title>
-		<thumb>https://i.ytimg.com/vi/kgXe-s1l3wE/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>kgXe-s1l3wE</src>
 	</media>
 	<media>
 		<title>TJK TV Eyerleme Alanı İstanbul</title>
