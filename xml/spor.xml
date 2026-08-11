@@ -19,7 +19,7 @@
 		<src>-zSaswVrQ_M</src>
 	</media>
 	<media>
-		<title>#CANLI | Seçil Menteş ile Satır Arası</title>
+		<title>#CANLI | HT Spor 7/24 Canlı Yayın</title>
 		<thumb>https://i.ytimg.com/vi/gcWaPe_LBMc/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>gcWaPe_LBMc</src>
@@ -37,16 +37,16 @@
 		<src>cIUoaqs4ddw</src>
 	</media>
 	<media>
-		<title>Start Kura Çekimi Elazığ</title>
-		<thumb>https://i.ytimg.com/vi/YOgw58MchRI/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>YOgw58MchRI</src>
-	</media>
-	<media>
 		<title>Start Kura Çekimi İstanbul</title>
 		<thumb>https://i.ytimg.com/vi/ME8qvTfvxyQ/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>ME8qvTfvxyQ</src>
+	</media>
+	<media>
+		<title>Start Kura Çekimi Elazığ</title>
+		<thumb>https://i.ytimg.com/vi/YOgw58MchRI/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>YOgw58MchRI</src>
 	</media>
 	<media>
 		<title>TJK TV Canlı Yayın</title>
