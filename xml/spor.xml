@@ -19,39 +19,45 @@
 		<src>-zSaswVrQ_M</src>
 	</media>
 	<media>
-		<title>#CANLI | HT Spor 7/24 Canlı Yayın</title>
+		<title>#CANLI | Melih Aydoğmuş ile Satır Arası</title>
 		<thumb>https://i.ytimg.com/vi/gcWaPe_LBMc/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>gcWaPe_LBMc</src>
 	</media>
 	<media>
-		<title>TJK TV Eyerleme Alanı Bursa</title>
-		<thumb>https://i.ytimg.com/vi/WkKaLX8sSNY/hqdefault_live.jpg</thumb>
+		<title>TİGEM Anadolu - Sultansuyu Tay Satışı</title>
+		<thumb>https://i.ytimg.com/vi/WKZU3bK8TLY/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>WkKaLX8sSNY</src>
+		<src>WKZU3bK8TLY</src>
 	</media>
 	<media>
-		<title>TJK TV Eyerleme Alanı Elazığ</title>
-		<thumb>https://i.ytimg.com/vi/cIUoaqs4ddw/hqdefault_live.jpg</thumb>
+		<title>TJK TV Eyerleme Alanı Ankara</title>
+		<thumb>https://i.ytimg.com/vi/hskZ3yVxZqg/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>cIUoaqs4ddw</src>
+		<src>hskZ3yVxZqg</src>
 	</media>
 	<media>
-		<title>Start Kura Çekimi İstanbul</title>
-		<thumb>https://i.ytimg.com/vi/ME8qvTfvxyQ/hqdefault_live.jpg</thumb>
+		<title>Start Kura Çekimi Kocaeli</title>
+		<thumb>https://i.ytimg.com/vi/2GSQyLN_IKo/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>ME8qvTfvxyQ</src>
+		<src>2GSQyLN_IKo</src>
 	</media>
 	<media>
-		<title>Start Kura Çekimi Elazığ</title>
-		<thumb>https://i.ytimg.com/vi/YOgw58MchRI/hqdefault_live.jpg</thumb>
+		<title>Start Kura Çekimi Ankara</title>
+		<thumb>https://i.ytimg.com/vi/3OFIQcR9oMQ/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>YOgw58MchRI</src>
+		<src>3OFIQcR9oMQ</src>
 	</media>
 	<media>
 		<title>TJK TV Canlı Yayın</title>
 		<thumb>https://i.ytimg.com/vi/g89RQMJtK6E/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>g89RQMJtK6E</src>
+	</media>
+	<media>
+		<title>VLAHOVIC İÇİN KARAR GÜNÜ | Siyahla Beyaz | Sercan Dikme, Fırat Günayer | CANLI</title>
+		<thumb>https://i.ytimg.com/vi/BPfs3mfiTfw/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>BPfs3mfiTfw</src>
 	</media>
 </media>
