@@ -19,33 +19,45 @@
 		<src>-zSaswVrQ_M</src>
 	</media>
 	<media>
-		<title>#CANLI | HT Spor 7/24 Canlı Yayın</title>
+		<title>#CANLI | Melih Aydoğmuş ile Satır Arası</title>
 		<thumb>https://i.ytimg.com/vi/gcWaPe_LBMc/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>gcWaPe_LBMc</src>
 	</media>
 	<media>
-		<title>TJK TV Eyerleme Alanı Ankara</title>
-		<thumb>https://i.ytimg.com/vi/hskZ3yVxZqg/hqdefault_live.jpg</thumb>
+		<title>Start Kura Çekimi İstanbul</title>
+		<thumb>https://i.ytimg.com/vi/zMytO_BXQz0/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>hskZ3yVxZqg</src>
+		<src>zMytO_BXQz0</src>
 	</media>
 	<media>
-		<title>Start Kura Çekimi Kocaeli</title>
-		<thumb>https://i.ytimg.com/vi/2GSQyLN_IKo/hqdefault_live.jpg</thumb>
+		<title>TJK TV Eyerleme Alanı İstanbul</title>
+		<thumb>https://i.ytimg.com/vi/FnHV8N-gm6A/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>2GSQyLN_IKo</src>
+		<src>FnHV8N-gm6A</src>
 	</media>
 	<media>
-		<title>Start Kura Çekimi Ankara</title>
-		<thumb>https://i.ytimg.com/vi/3OFIQcR9oMQ/hqdefault_live.jpg</thumb>
+		<title>TJK TV Eyerleme Alanı Elazığ</title>
+		<thumb>https://i.ytimg.com/vi/CNRY3EWdFDk/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>3OFIQcR9oMQ</src>
+		<src>CNRY3EWdFDk</src>
+	</media>
+	<media>
+		<title>Start Kura Çekimi Bursa</title>
+		<thumb>https://i.ytimg.com/vi/MztdHi9Tf94/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>MztdHi9Tf94</src>
 	</media>
 	<media>
 		<title>TJK TV Canlı Yayın</title>
 		<thumb>https://i.ytimg.com/vi/g89RQMJtK6E/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>g89RQMJtK6E</src>
+	</media>
+	<media>
+		<title>VLAHOVIC İSTANBUL&amp;#39;A GELİYOR! | Fırat Günayer, Sercan Dikme, Bora Beyzade | CANLI</title>
+		<thumb>https://i.ytimg.com/vi/GMw6dlxktDw/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>GMw6dlxktDw</src>
 	</media>
 </media>
