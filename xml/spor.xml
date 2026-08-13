@@ -13,34 +13,16 @@
 		<src>vTPsolQFr5s</src>
 	</media>
 	<media>
-		<title>A Spor Canlı Yayın 🔴</title>
+		<title>Vlahovic Geldi Sıra Lukaku&amp;#39;da! | Canlı Uçak Takip | A Spor Canlı Yayın 🔴</title>
 		<thumb>https://i.ytimg.com/vi/-zSaswVrQ_M/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>-zSaswVrQ_M</src>
 	</media>
 	<media>
-		<title>#CANLI | Melih Aydoğmuş ile Satır Arası</title>
+		<title>#CANLI | HT Spor 7/24 Canlı Yayın</title>
 		<thumb>https://i.ytimg.com/vi/gcWaPe_LBMc/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>gcWaPe_LBMc</src>
-	</media>
-	<media>
-		<title>Start Kura Çekimi İstanbul</title>
-		<thumb>https://i.ytimg.com/vi/zMytO_BXQz0/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>zMytO_BXQz0</src>
-	</media>
-	<media>
-		<title>TJK TV Eyerleme Alanı İstanbul</title>
-		<thumb>https://i.ytimg.com/vi/FnHV8N-gm6A/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>FnHV8N-gm6A</src>
-	</media>
-	<media>
-		<title>TJK TV Eyerleme Alanı Elazığ</title>
-		<thumb>https://i.ytimg.com/vi/CNRY3EWdFDk/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>CNRY3EWdFDk</src>
 	</media>
 	<media>
 		<title>Start Kura Çekimi Bursa</title>
@@ -49,15 +31,27 @@
 		<src>MztdHi9Tf94</src>
 	</media>
 	<media>
+		<title>TJK TV Eyerleme Alanı Elazığ</title>
+		<thumb>https://i.ytimg.com/vi/CNRY3EWdFDk/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>CNRY3EWdFDk</src>
+	</media>
+	<media>
+		<title>TJK TV Eyerleme Alanı İstanbul</title>
+		<thumb>https://i.ytimg.com/vi/FnHV8N-gm6A/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>FnHV8N-gm6A</src>
+	</media>
+	<media>
+		<title>Start Kura Çekimi İstanbul</title>
+		<thumb>https://i.ytimg.com/vi/zMytO_BXQz0/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>zMytO_BXQz0</src>
+	</media>
+	<media>
 		<title>TJK TV Canlı Yayın</title>
 		<thumb>https://i.ytimg.com/vi/g89RQMJtK6E/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>g89RQMJtK6E</src>
-	</media>
-	<media>
-		<title>VLAHOVIC İSTANBUL&amp;#39;A GELİYOR! | Fırat Günayer, Sercan Dikme, Bora Beyzade | CANLI</title>
-		<thumb>https://i.ytimg.com/vi/GMw6dlxktDw/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>GMw6dlxktDw</src>
 	</media>
 </media>
