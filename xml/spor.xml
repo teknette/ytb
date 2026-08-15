@@ -19,7 +19,7 @@
 		<src>-zSaswVrQ_M</src>
 	</media>
 	<media>
-		<title>#CANLI | Uğur Yapıcı ile Satır Arası</title>
+		<title>#CANLI | HT Spor 7/24 Canlı Yayın</title>
 		<thumb>https://i.ytimg.com/vi/gcWaPe_LBMc/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>gcWaPe_LBMc</src>
@@ -29,12 +29,6 @@
 		<thumb>https://i.ytimg.com/vi/V9f9hf58KuE/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>V9f9hf58KuE</src>
-	</media>
-	<media>
-		<title>TJK TV Eyerleme Alanı Bursa</title>
-		<thumb>https://i.ytimg.com/vi/ZHI7JjRDVOg/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>ZHI7JjRDVOg</src>
 	</media>
 	<media>
 		<title>Start Kura Çekimi İzmir</title>
@@ -47,6 +41,12 @@
 		<thumb>https://i.ytimg.com/vi/0QL8Dia_0Z0/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>0QL8Dia_0Z0</src>
+	</media>
+	<media>
+		<title>TJK TV Eyerleme Alanı Bursa</title>
+		<thumb>https://i.ytimg.com/vi/ZHI7JjRDVOg/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>ZHI7JjRDVOg</src>
 	</media>
 	<media>
 		<title>TJK TV Canlı Yayın</title>
