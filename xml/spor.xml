@@ -19,34 +19,22 @@
 		<src>-zSaswVrQ_M</src>
 	</media>
 	<media>
-		<title>#CANLI | Seçil Menteş ile Spor Hattı</title>
+		<title>#CANLI | HT Spor 7/24 Canlı Yayın</title>
 		<thumb>https://i.ytimg.com/vi/gcWaPe_LBMc/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>gcWaPe_LBMc</src>
-	</media>
-	<media>
-		<title>SC FORTUNA KÖLN - ALEMANNIA AACHEN | Almanya 3. Lig | CANLI YAYIN</title>
-		<thumb>https://i.ytimg.com/vi/8GiqA-lLVzw/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>8GiqA-lLVzw</src>
-	</media>
-	<media>
-		<title>TJK TV Canlı Yayın</title>
-		<thumb>https://i.ytimg.com/vi/g89RQMJtK6E/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>g89RQMJtK6E</src>
-	</media>
-	<media>
-		<title>TJK TV Eyerleme Alanı Ankara</title>
-		<thumb>https://i.ytimg.com/vi/y37iheUDxTQ/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>y37iheUDxTQ</src>
 	</media>
 	<media>
 		<title>TJK TV Eyerleme Alanı İzmir</title>
 		<thumb>https://i.ytimg.com/vi/YEIHsqWSJGc/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>YEIHsqWSJGc</src>
+	</media>
+	<media>
+		<title>TJK TV Eyerleme Alanı Ankara</title>
+		<thumb>https://i.ytimg.com/vi/y37iheUDxTQ/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>y37iheUDxTQ</src>
 	</media>
 	<media>
 		<title>Start Kura Çekimi Elazığ</title>
@@ -59,5 +47,11 @@
 		<thumb>https://i.ytimg.com/vi/X2P9Kbinxl0/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>X2P9Kbinxl0</src>
+	</media>
+	<media>
+		<title>TJK TV Canlı Yayın</title>
+		<thumb>https://i.ytimg.com/vi/g89RQMJtK6E/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>g89RQMJtK6E</src>
 	</media>
 </media>
