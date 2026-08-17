@@ -19,16 +19,10 @@
 		<src>-zSaswVrQ_M</src>
 	</media>
 	<media>
-		<title>#CANLI | Seçil Menteş ile Spor Hattı</title>
+		<title>#CANLI | HT Spor 7/24 Canlı Yayın</title>
 		<thumb>https://i.ytimg.com/vi/gcWaPe_LBMc/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>gcWaPe_LBMc</src>
-	</media>
-	<media>
-		<title>TJK TV Eyerleme Alanı İzmir</title>
-		<thumb>https://i.ytimg.com/vi/0GWjd_ynjkc/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>0GWjd_ynjkc</src>
 	</media>
 	<media>
 		<title>TJK TV Eyerleme Alanı İstanbul</title>
@@ -37,16 +31,22 @@
 		<src>pUU5c-xqcOc</src>
 	</media>
 	<media>
-		<title>Start Kura Çekimi Kocaeli</title>
-		<thumb>https://i.ytimg.com/vi/hTDxC7FYtdk/hqdefault_live.jpg</thumb>
+		<title>TJK TV Eyerleme Alanı İzmir</title>
+		<thumb>https://i.ytimg.com/vi/0GWjd_ynjkc/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>hTDxC7FYtdk</src>
+		<src>0GWjd_ynjkc</src>
 	</media>
 	<media>
 		<title>Start Kura Çekimi Ankara</title>
 		<thumb>https://i.ytimg.com/vi/syKO9KCUvbs/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>syKO9KCUvbs</src>
+	</media>
+	<media>
+		<title>Start Kura Çekimi Kocaeli</title>
+		<thumb>https://i.ytimg.com/vi/hTDxC7FYtdk/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>hTDxC7FYtdk</src>
 	</media>
 	<media>
 		<title>TJK TV Canlı Yayın</title>
