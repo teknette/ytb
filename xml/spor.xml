@@ -13,16 +13,10 @@
 		<src>-zSaswVrQ_M</src>
 	</media>
 	<media>
-		<title>#CANLI | Satır Arası</title>
+		<title>#CANLI | HT Spor 7/24 Canlı Yayın</title>
 		<thumb>https://i.ytimg.com/vi/gcWaPe_LBMc/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>gcWaPe_LBMc</src>
-	</media>
-	<media>
-		<title>Start Kura Çekimi Bursa</title>
-		<thumb>https://i.ytimg.com/vi/GkH2ZLu0fgk/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>GkH2ZLu0fgk</src>
 	</media>
 	<media>
 		<title>TJK TV Eyerleme Alanı İstanbul</title>
@@ -35,6 +29,12 @@
 		<thumb>https://i.ytimg.com/vi/liYX3f0PNR8/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>liYX3f0PNR8</src>
+	</media>
+	<media>
+		<title>Start Kura Çekimi Bursa</title>
+		<thumb>https://i.ytimg.com/vi/GkH2ZLu0fgk/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>GkH2ZLu0fgk</src>
 	</media>
 	<media>
 		<title>Start Kura Çekimi İstanbul</title>
