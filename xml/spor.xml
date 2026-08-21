@@ -7,28 +7,10 @@
 		<src>i7UpPgxfZZ8</src>
 	</media>
 	<media>
-		<title>A Spor Canlı Yayın 🔴 Galatasaray&amp;#39;ın Yeni Transferi Aleksey Batrakov İstanbul&amp;#39;da!</title>
+		<title>A Spor Canlı Yayın 🔴</title>
 		<thumb>https://i.ytimg.com/vi/-zSaswVrQ_M/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>-zSaswVrQ_M</src>
-	</media>
-	<media>
-		<title>#CANLI | Deniz Biricik İle Satır Arası</title>
-		<thumb>https://i.ytimg.com/vi/gcWaPe_LBMc/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>gcWaPe_LBMc</src>
-	</media>
-	<media>
-		<title>TJK TV Canlı Yayın</title>
-		<thumb>https://i.ytimg.com/vi/g89RQMJtK6E/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>g89RQMJtK6E</src>
-	</media>
-	<media>
-		<title>TJK TV Eyerleme Alanı Ankara</title>
-		<thumb>https://i.ytimg.com/vi/PK6KVvcYhSA/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>PK6KVvcYhSA</src>
 	</media>
 	<media>
 		<title>Start Kura Çekimi İzmir</title>
@@ -43,9 +25,21 @@
 		<src>j7T4Iv1BFoM</src>
 	</media>
 	<media>
+		<title>TJK TV Eyerleme Alanı Ankara</title>
+		<thumb>https://i.ytimg.com/vi/PK6KVvcYhSA/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>PK6KVvcYhSA</src>
+	</media>
+	<media>
 		<title>Start Kura Çekimi Diyarbakır</title>
 		<thumb>https://i.ytimg.com/vi/VfRglUPPPpA/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>VfRglUPPPpA</src>
+	</media>
+	<media>
+		<title>TJK TV Canlı Yayın</title>
+		<thumb>https://i.ytimg.com/vi/g89RQMJtK6E/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>g89RQMJtK6E</src>
 	</media>
 </media>
