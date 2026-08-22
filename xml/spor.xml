@@ -13,39 +13,45 @@
 		<src>-zSaswVrQ_M</src>
 	</media>
 	<media>
-		<title>#CANLI | HT Spor 7/24 Canlı Yayın</title>
+		<title>#CANLI | Spor Hattı</title>
 		<thumb>https://i.ytimg.com/vi/gcWaPe_LBMc/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>gcWaPe_LBMc</src>
 	</media>
 	<media>
-		<title>TJK TV Eyerleme Alanı İstanbul</title>
-		<thumb>https://i.ytimg.com/vi/fo5W4RG4364/hqdefault_live.jpg</thumb>
+		<title>TJK TV Eyerleme Alanı İzmir</title>
+		<thumb>https://i.ytimg.com/vi/hGnN4FBhiU8/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>fo5W4RG4364</src>
+		<src>hGnN4FBhiU8</src>
 	</media>
 	<media>
-		<title>TJK TV Eyerleme Alanı Bursa</title>
-		<thumb>https://i.ytimg.com/vi/U-FP03XMaDM/hqdefault_live.jpg</thumb>
+		<title>Start Kura Çekimi Elazığ</title>
+		<thumb>https://i.ytimg.com/vi/yS2NU5Z_ZXU/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>U-FP03XMaDM</src>
+		<src>yS2NU5Z_ZXU</src>
 	</media>
 	<media>
-		<title>Start Kura Çekimi İstanbul</title>
-		<thumb>https://i.ytimg.com/vi/e6QqhoImk7c/hqdefault_live.jpg</thumb>
+		<title>Start Kura Çekimi Bursa</title>
+		<thumb>https://i.ytimg.com/vi/9IfqE4g45Yc/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>e6QqhoImk7c</src>
+		<src>9IfqE4g45Yc</src>
 	</media>
 	<media>
-		<title>Start Kura Çekimi İzmir</title>
-		<thumb>https://i.ytimg.com/vi/IaQbVZNjXM0/hqdefault_live.jpg</thumb>
+		<title>TJK TV Eyerleme Alanı Ankara</title>
+		<thumb>https://i.ytimg.com/vi/eiHJs60NoXc/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>IaQbVZNjXM0</src>
+		<src>eiHJs60NoXc</src>
 	</media>
 	<media>
 		<title>TJK TV Canlı Yayın</title>
 		<thumb>https://i.ytimg.com/vi/g89RQMJtK6E/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>g89RQMJtK6E</src>
+	</media>
+	<media>
+		<title>Galatasaray’da transfer gündemi alev aldı! | Fenerbahçe’de sürpriz ayrılık yaşanacak mı? | bihaber</title>
+		<thumb>https://i.ytimg.com/vi/p_Xe-ogbm8M/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>p_Xe-ogbm8M</src>
 	</media>
 </media>
