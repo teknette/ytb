@@ -13,22 +13,10 @@
 		<src>-zSaswVrQ_M</src>
 	</media>
 	<media>
-		<title>#CANLI | Deniz Biricik ile Satır Arası</title>
+		<title>#CANLI | HT Spor 7/24 Canlı Yayın</title>
 		<thumb>https://i.ytimg.com/vi/gcWaPe_LBMc/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>gcWaPe_LBMc</src>
-	</media>
-	<media>
-		<title>Start Kura Çekimi Kocaeli</title>
-		<thumb>https://i.ytimg.com/vi/zOsFk8GQ9rs/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>zOsFk8GQ9rs</src>
-	</media>
-	<media>
-		<title>Start Kura Çekimi Ankara</title>
-		<thumb>https://i.ytimg.com/vi/n-HdXWtPq1k/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>n-HdXWtPq1k</src>
 	</media>
 	<media>
 		<title>TJK TV Eyerleme Alanı Ankara</title>
@@ -37,15 +25,21 @@
 		<src>H1XXFHcv_qA</src>
 	</media>
 	<media>
+		<title>Start Kura Çekimi Ankara</title>
+		<thumb>https://i.ytimg.com/vi/n-HdXWtPq1k/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>n-HdXWtPq1k</src>
+	</media>
+	<media>
+		<title>Start Kura Çekimi Kocaeli</title>
+		<thumb>https://i.ytimg.com/vi/zOsFk8GQ9rs/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>zOsFk8GQ9rs</src>
+	</media>
+	<media>
 		<title>TJK TV Canlı Yayın</title>
 		<thumb>https://i.ytimg.com/vi/g89RQMJtK6E/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>g89RQMJtK6E</src>
-	</media>
-	<media>
-		<title>BEŞİKTAŞ&amp;#39;TAN BEKLENEN HAMLELER | Siyahla Beyaz | Sercan Dikme, Fırat Günayer | Canlı</title>
-		<thumb>https://i.ytimg.com/vi/Erstl5x_Ge8/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>Erstl5x_Ge8</src>
 	</media>
 </media>
