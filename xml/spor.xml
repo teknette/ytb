@@ -13,22 +13,22 @@
 		<src>-zSaswVrQ_M</src>
 	</media>
 	<media>
-		<title>#CANLI | HT Spor 7/24 Canlı Yayın</title>
+		<title>#CANLI | Seçil Menteş ile Gece Yarısı</title>
 		<thumb>https://i.ytimg.com/vi/gcWaPe_LBMc/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>gcWaPe_LBMc</src>
-	</media>
-	<media>
-		<title>TJK TV Eyerleme Alanı Bursa</title>
-		<thumb>https://i.ytimg.com/vi/tnhSlNl2eos/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>tnhSlNl2eos</src>
 	</media>
 	<media>
 		<title>TJK TV Eyerleme Alanı İstanbul</title>
 		<thumb>https://i.ytimg.com/vi/Zx0OIllvRsY/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>Zx0OIllvRsY</src>
+	</media>
+	<media>
+		<title>TJK TV Eyerleme Alanı Bursa</title>
+		<thumb>https://i.ytimg.com/vi/tnhSlNl2eos/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>tnhSlNl2eos</src>
 	</media>
 	<media>
 		<title>Start Kura Çekimi İstanbul</title>
@@ -47,5 +47,11 @@
 		<thumb>https://i.ytimg.com/vi/g89RQMJtK6E/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>g89RQMJtK6E</src>
+	</media>
+	<media>
+		<title>Leao Heyecanı, Talisca &amp;amp; Cerny Gidiyor Mu? | Veli Yiğit, Erbatur Ergenekon, Barış Yurduseven</title>
+		<thumb>https://i.ytimg.com/vi/r2EhStl5g7A/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>r2EhStl5g7A</src>
 	</media>
 </media>
