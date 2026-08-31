@@ -13,7 +13,7 @@
 		<src>-zSaswVrQ_M</src>
 	</media>
 	<media>
-		<title>#CANLI | Ayça Kaçmaz ile Ana Haber </title>
+		<title>#CANLI | HT Spor 7/24 Canlı Yayın</title>
 		<thumb>https://i.ytimg.com/vi/gcWaPe_LBMc/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>gcWaPe_LBMc</src>
@@ -31,16 +31,16 @@
 		<src>yW26nJTbFqo</src>
 	</media>
 	<media>
-		<title>Start Kura Çekimi Ankara</title>
-		<thumb>https://i.ytimg.com/vi/1gJzI_owlT8/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>1gJzI_owlT8</src>
-	</media>
-	<media>
 		<title>Start Kura Çekimi Kocaeli</title>
 		<thumb>https://i.ytimg.com/vi/QfCpx_v1X3c/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>QfCpx_v1X3c</src>
+	</media>
+	<media>
+		<title>Start Kura Çekimi Ankara</title>
+		<thumb>https://i.ytimg.com/vi/1gJzI_owlT8/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>1gJzI_owlT8</src>
 	</media>
 	<media>
 		<title>TJK TV Canlı Yayın</title>
