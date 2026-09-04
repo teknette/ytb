@@ -19,39 +19,39 @@
 		<src>-zSaswVrQ_M</src>
 	</media>
 	<media>
-		<title>#CANLI | HT Spor 7/24 Canlı Yayın</title>
-		<thumb>https://i.ytimg.com/vi/gcWaPe_LBMc/hqdefault_live.jpg</thumb>
+		<title>TJK TV Eyerleme Alanı İzmir</title>
+		<thumb>https://i.ytimg.com/vi/uIcDG0fhXiA/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>gcWaPe_LBMc</src>
+		<src>uIcDG0fhXiA</src>
+	</media>
+	<media>
+		<title>TJK TV Eyerleme Alanı Bursa</title>
+		<thumb>https://i.ytimg.com/vi/28KXDgiPrGM/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>28KXDgiPrGM</src>
+	</media>
+	<media>
+		<title>Start Kura Çekimi Adana</title>
+		<thumb>https://i.ytimg.com/vi/76zG3T3KmUE/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>76zG3T3KmUE</src>
 	</media>
 	<media>
 		<title>Start Kura Çekimi İstanbul</title>
-		<thumb>https://i.ytimg.com/vi/7kHM18AytVg/hqdefault_live.jpg</thumb>
+		<thumb>https://i.ytimg.com/vi/L3MfqFcF2OM/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>7kHM18AytVg</src>
-	</media>
-	<media>
-		<title>Start Kura Çekimi Ankara</title>
-		<thumb>https://i.ytimg.com/vi/E4L0pNrAG3Y/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>E4L0pNrAG3Y</src>
-	</media>
-	<media>
-		<title>TJK TV Eyerleme Alanı Ankara</title>
-		<thumb>https://i.ytimg.com/vi/TF0iIhhUhP8/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>TF0iIhhUhP8</src>
-	</media>
-	<media>
-		<title>TJK TV Eyerleme Alanı İzmir</title>
-		<thumb>https://i.ytimg.com/vi/kZTLuhFrevA/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>kZTLuhFrevA</src>
+		<src>L3MfqFcF2OM</src>
 	</media>
 	<media>
 		<title>TJK TV Canlı Yayın</title>
 		<thumb>https://i.ytimg.com/vi/g89RQMJtK6E/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>g89RQMJtK6E</src>
+	</media>
+	<media>
+		<title>DEV MAÇ ÖNCESİ SON DURUM! | Fırat Günayer, Sercan Dikme | CANLI</title>
+		<thumb>https://i.ytimg.com/vi/cO6PPGf9CfQ/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>cO6PPGf9CfQ</src>
 	</media>
 </media>
