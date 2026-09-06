@@ -13,13 +13,13 @@
 		<src>IIIU0cIVxyc</src>
 	</media>
 	<media>
-		<title>A Spor Canlı Yayın 🔴 Fenerbahçe - Beşiktaş Derbisi Öncesi Son Gelişmeler</title>
+		<title>A Spor Canlı Yayın 🔴</title>
 		<thumb>https://i.ytimg.com/vi/-zSaswVrQ_M/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>-zSaswVrQ_M</src>
 	</media>
 	<media>
-		<title>#CANLI Fenerbahçe - Beşiktaş | Derbi Özel</title>
+		<title>#CANLI | HT Spor 7/24 Canlı Yayın</title>
 		<thumb>https://i.ytimg.com/vi/gcWaPe_LBMc/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>gcWaPe_LBMc</src>
@@ -31,16 +31,16 @@
 		<src>jthaR9hFq4E</src>
 	</media>
 	<media>
-		<title>TJK TV Eyerleme Alanı Ankara</title>
-		<thumb>https://i.ytimg.com/vi/KKJEmcQaCx4/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>KKJEmcQaCx4</src>
-	</media>
-	<media>
 		<title>TJK TV Eyerleme Alanı İstanbul</title>
 		<thumb>https://i.ytimg.com/vi/ryBHYlG3d1I/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>ryBHYlG3d1I</src>
+	</media>
+	<media>
+		<title>TJK TV Eyerleme Alanı Ankara</title>
+		<thumb>https://i.ytimg.com/vi/KKJEmcQaCx4/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>KKJEmcQaCx4</src>
 	</media>
 	<media>
 		<title>Start Kura Çekimi Elazığ</title>
