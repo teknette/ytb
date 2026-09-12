@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <media>
 	<media>
-		<title>beIN SPORTS HABER Canlı Yayını | #beINSPORTS</title>
+		<title>Vanspor FK - Keçiörengücü | Trendyol 1. Lig 7. Hafta Maçı</title>
 		<thumb>https://i.ytimg.com/vi/i7UpPgxfZZ8/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>i7UpPgxfZZ8</src>
@@ -19,33 +19,27 @@
 		<src>-zSaswVrQ_M</src>
 	</media>
 	<media>
-		<title>#CANLI | HT Spor 7/24 Canlı Yayın</title>
-		<thumb>https://i.ytimg.com/vi/gcWaPe_LBMc/hqdefault_live.jpg</thumb>
+		<title>TJK TV Eyerleme Alanı Ankara</title>
+		<thumb>https://i.ytimg.com/vi/X4SExgF9s9Q/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>gcWaPe_LBMc</src>
+		<src>X4SExgF9s9Q</src>
 	</media>
 	<media>
-		<title>Start Kura Çekimi İstanbul</title>
-		<thumb>https://i.ytimg.com/vi/_bmsRHInWBQ/hqdefault_live.jpg</thumb>
+		<title>TJK TV Eyerleme Alanı İzmir</title>
+		<thumb>https://i.ytimg.com/vi/XGKaP-zboXw/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>_bmsRHInWBQ</src>
+		<src>XGKaP-zboXw</src>
 	</media>
 	<media>
-		<title>TJK TV Eyerleme Alanı İstanbul</title>
-		<thumb>https://i.ytimg.com/vi/8_OTo17np9I/hqdefault_live.jpg</thumb>
+		<title>Start Kura Çekimi Şanlıurfa</title>
+		<thumb>https://i.ytimg.com/vi/HtZT-Mt0tik/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>8_OTo17np9I</src>
+		<src>HtZT-Mt0tik</src>
 	</media>
 	<media>
-		<title>TJK TV Eyerleme Alanı Bursa</title>
-		<thumb>https://i.ytimg.com/vi/_rWHCR9M7qA/hqdefault_live.jpg</thumb>
+		<title>Start Kura Çekimi Bursa</title>
+		<thumb>https://i.ytimg.com/vi/uq46FM5qEh8/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>_rWHCR9M7qA</src>
-	</media>
-	<media>
-		<title>Start Kura Çekimi Adana</title>
-		<thumb>https://i.ytimg.com/vi/ISdIza_v7Hk/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>ISdIza_v7Hk</src>
+		<src>uq46FM5qEh8</src>
 	</media>
 </media>
