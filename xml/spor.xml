@@ -19,27 +19,39 @@
 		<src>-zSaswVrQ_M</src>
 	</media>
 	<media>
-		<title>#CANLI | HT Spor 7/24 Canlı Yayın</title>
+		<title>#CANLI | Kevser İme Şahin ile Ana Haber </title>
 		<thumb>https://i.ytimg.com/vi/gcWaPe_LBMc/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>gcWaPe_LBMc</src>
 	</media>
 	<media>
-		<title>TJK TV Eyerleme Alanı Ankara</title>
-		<thumb>https://i.ytimg.com/vi/clsmwskUF6c/hqdefault_live.jpg</thumb>
+		<title>TJK TV Eyerleme Alanı Elazığ</title>
+		<thumb>https://i.ytimg.com/vi/J6NZhrjtZPA/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>clsmwskUF6c</src>
+		<src>J6NZhrjtZPA</src>
 	</media>
 	<media>
-		<title>Start Kura Çekimi İzmir</title>
-		<thumb>https://i.ytimg.com/vi/aZfEipc-Rlo/hqdefault_live.jpg</thumb>
+		<title>TJK TV Eyerleme Alanı İstanbul</title>
+		<thumb>https://i.ytimg.com/vi/o11j1dhXKMc/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>aZfEipc-Rlo</src>
+		<src>o11j1dhXKMc</src>
 	</media>
 	<media>
-		<title>Start Kura Çekimi Ankara</title>
-		<thumb>https://i.ytimg.com/vi/jKrHw67I55g/hqdefault_live.jpg</thumb>
+		<title>Start Kura Çekimi Bursa</title>
+		<thumb>https://i.ytimg.com/vi/QWNP6Fhfceo/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>jKrHw67I55g</src>
+		<src>QWNP6Fhfceo</src>
+	</media>
+	<media>
+		<title>Start Kura Çekimi İstanbul</title>
+		<thumb>https://i.ytimg.com/vi/iruf2sB3hH0/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>iruf2sB3hH0</src>
+	</media>
+	<media>
+		<title>İLK RAKİP MARSİLYA | Siyahla Beyaz | Sercan Dikme, Fırat Günayer | CANLI</title>
+		<thumb>https://i.ytimg.com/vi/kh9BR68H9lU/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>kh9BR68H9lU</src>
 	</media>
 </media>
