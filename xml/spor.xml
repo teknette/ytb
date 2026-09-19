@@ -19,33 +19,39 @@
 		<src>-zSaswVrQ_M</src>
 	</media>
 	<media>
+		<title>#CANLI | Gaziantep Basketbol - Finalspor | Türkiye Sigorta Türkiye Basketbol Ligi</title>
+		<thumb>https://i.ytimg.com/vi/Jj5QxnP_8lo/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>Jj5QxnP_8lo</src>
+	</media>
+	<media>
 		<title>#CANLI | HT Spor 7/24 Canlı Yayın</title>
 		<thumb>https://i.ytimg.com/vi/gcWaPe_LBMc/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>gcWaPe_LBMc</src>
 	</media>
 	<media>
-		<title>TJK TV Eyerleme Alanı İstanbul</title>
-		<thumb>https://i.ytimg.com/vi/qNJqXnO-KII/hqdefault_live.jpg</thumb>
+		<title>TJK TV Eyerleme Alanı Ankara</title>
+		<thumb>https://i.ytimg.com/vi/YLJYOS1pNu4/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>qNJqXnO-KII</src>
+		<src>YLJYOS1pNu4</src>
 	</media>
 	<media>
-		<title>TJK TV Eyerleme Alanı Bursa</title>
-		<thumb>https://i.ytimg.com/vi/kZOv3pue-rs/hqdefault_live.jpg</thumb>
+		<title>TJK TV Eyerleme Alanı İzmir</title>
+		<thumb>https://i.ytimg.com/vi/asUftb_1HZk/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>kZOv3pue-rs</src>
+		<src>asUftb_1HZk</src>
 	</media>
 	<media>
-		<title>Start Kura Çekimi İstanbul</title>
-		<thumb>https://i.ytimg.com/vi/eM8JdhN-wMo/hqdefault_live.jpg</thumb>
+		<title>Start Kura Çekimi Şanlıurfa</title>
+		<thumb>https://i.ytimg.com/vi/wD3PYKyl-2s/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>eM8JdhN-wMo</src>
+		<src>wD3PYKyl-2s</src>
 	</media>
 	<media>
-		<title>Start Kura Çekimi Adana</title>
-		<thumb>https://i.ytimg.com/vi/b2OskmmWGP4/hqdefault_live.jpg</thumb>
+		<title>Start Kura Çekimi Bursa</title>
+		<thumb>https://i.ytimg.com/vi/Q5VQAilWpwY/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>b2OskmmWGP4</src>
+		<src>Q5VQAilWpwY</src>
 	</media>
 </media>
