@@ -31,15 +31,15 @@
 		<src>cDS5i9lzoG8</src>
 	</media>
 	<media>
-		<title>Start Kura Çekimi Ankara</title>
-		<thumb>https://i.ytimg.com/vi/xQq4vzy7ydY/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>xQq4vzy7ydY</src>
-	</media>
-	<media>
 		<title>Start Kura Çekimi İzmir</title>
 		<thumb>https://i.ytimg.com/vi/D7wxDYZaGMA/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>D7wxDYZaGMA</src>
+	</media>
+	<media>
+		<title>Start Kura Çekimi Ankara</title>
+		<thumb>https://i.ytimg.com/vi/xQq4vzy7ydY/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>xQq4vzy7ydY</src>
 	</media>
 </media>
