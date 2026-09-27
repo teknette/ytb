@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <media>
 	<media>
-		<title>beIN SPORTS HABER Canlı Yayını | #beINSPORTS</title>
-		<thumb>https://i.ytimg.com/vi/i7UpPgxfZZ8/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>i7UpPgxfZZ8</src>
-	</media>
-	<media>
 		<title>🔴 Trabzonspor - Galatasaray Maç Özetleri | beIN SPORTS Arşiv #canlı</title>
 		<thumb>https://i.ytimg.com/vi/OzwQZX5TWR0/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
@@ -19,27 +13,33 @@
 		<src>gcWaPe_LBMc</src>
 	</media>
 	<media>
-		<title>Start Kura Çekimi Şanlıurfa</title>
-		<thumb>https://i.ytimg.com/vi/IpsEO82kXC8/hqdefault_live.jpg</thumb>
+		<title>TJK TV Eyerleme Alanı İstanbul</title>
+		<thumb>https://i.ytimg.com/vi/-9TpJ6N8Vf8/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>IpsEO82kXC8</src>
+		<src>-9TpJ6N8Vf8</src>
 	</media>
 	<media>
-		<title>TJK TV Eyerleme Alanı İzmir</title>
-		<thumb>https://i.ytimg.com/vi/6W1a9w854HA/hqdefault_live.jpg</thumb>
+		<title>Start Kura Çekimi Adana</title>
+		<thumb>https://i.ytimg.com/vi/_PXU0kykILQ/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>6W1a9w854HA</src>
+		<src>_PXU0kykILQ</src>
 	</media>
 	<media>
-		<title>TJK TV Eyerleme Alanı Ankara</title>
-		<thumb>https://i.ytimg.com/vi/0-PKFOABQ-M/hqdefault_live.jpg</thumb>
+		<title>Start Kura Çekimi Kocaeli</title>
+		<thumb>https://i.ytimg.com/vi/KcL9RSUiTLk/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>0-PKFOABQ-M</src>
+		<src>KcL9RSUiTLk</src>
 	</media>
 	<media>
-		<title>Start Kura Çekimi Bursa</title>
-		<thumb>https://i.ytimg.com/vi/AeuMed8yxlM/hqdefault_live.jpg</thumb>
+		<title>TJK TV Eyerleme Alanı Adana</title>
+		<thumb>https://i.ytimg.com/vi/2gslTqS_aUQ/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>AeuMed8yxlM</src>
+		<src>2gslTqS_aUQ</src>
+	</media>
+	<media>
+		<title>AZİZ YILDIRIM&amp;#39;IN AÇIKLAMALARINI YORUMLUYORUZ | Murat Aşık, Aydın Cingöz, Oğulcan Akçe</title>
+		<thumb>https://i.ytimg.com/vi/KdXhk2CSPjw/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>KdXhk2CSPjw</src>
 	</media>
 </media>
