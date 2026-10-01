@@ -13,15 +13,21 @@
 		<src>gcWaPe_LBMc</src>
 	</media>
 	<media>
-		<title>TJK TV Eyerleme Alanı İstanbul</title>
-		<thumb>https://i.ytimg.com/vi/w3tD-j9XC8s/hqdefault_live.jpg</thumb>
+		<title>TJK TV Eyerleme Alanı İzmir</title>
+		<thumb>https://i.ytimg.com/vi/f5hqLGdYido/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>w3tD-j9XC8s</src>
+		<src>f5hqLGdYido</src>
 	</media>
 	<media>
-		<title>Start Kura Çekimi İstanbul</title>
-		<thumb>https://i.ytimg.com/vi/jY2kHazmJ7o/hqdefault_live.jpg</thumb>
+		<title>TJK TV Eyerleme Alanı Ankara</title>
+		<thumb>https://i.ytimg.com/vi/UkeqmSHUtHY/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>jY2kHazmJ7o</src>
+		<src>UkeqmSHUtHY</src>
+	</media>
+	<media>
+		<title>MHK skandalı | Bahis şoku | İbrahim Hacıosmanoğlu ortada yok | Galatasaray-Fenerbahçe</title>
+		<thumb>https://i.ytimg.com/vi/uv7NhW_Vi48/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>uv7NhW_Vi48</src>
 	</media>
 </media>
