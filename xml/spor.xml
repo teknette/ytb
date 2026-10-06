@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <media>
 	<media>
-		<title>🔴 Trabzonspor - Galatasaray Maç Özetleri | beIN SPORTS Arşiv #canlı</title>
-		<thumb>https://i.ytimg.com/vi/OzwQZX5TWR0/hqdefault_live.jpg</thumb>
+		<title>🔴 Trabzonspor - Beşiktaş Maç Özetleri | beIN SPORTS Arşiv #canlı</title>
+		<thumb>https://i.ytimg.com/vi/cYg9MJ_xqvo/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>OzwQZX5TWR0</src>
+		<src>cYg9MJ_xqvo</src>
 	</media>
 	<media>
-		<title>TJK TV Eyerleme Alanı İstanbul</title>
-		<thumb>https://i.ytimg.com/vi/l-as4UWBQLM/hqdefault_live.jpg</thumb>
+		<title>Start Kura Çekimi İstanbul</title>
+		<thumb>https://i.ytimg.com/vi/hnZK5wXzQDk/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>l-as4UWBQLM</src>
+		<src>hnZK5wXzQDk</src>
 	</media>
 	<media>
-		<title>Start Kura Çekimi Kocaeli</title>
-		<thumb>https://i.ytimg.com/vi/Gh3FAL-N8JU/hqdefault_live.jpg</thumb>
+		<title>TJK TV Eyerleme Alanı Şanlıurfa</title>
+		<thumb>https://i.ytimg.com/vi/cvGAGHbr3eg/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>Gh3FAL-N8JU</src>
+		<src>cvGAGHbr3eg</src>
 	</media>
 	<media>
-		<title>TJK TV Eyerleme Alanı Adana</title>
-		<thumb>https://i.ytimg.com/vi/LOj_CyliZYA/hqdefault_live.jpg</thumb>
+		<title>Start Kura Çekimi Elazığ</title>
+		<thumb>https://i.ytimg.com/vi/R3DeJOZcjtw/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
-		<src>LOj_CyliZYA</src>
+		<src>R3DeJOZcjtw</src>
 	</media>
 </media>
