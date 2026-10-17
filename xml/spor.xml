@@ -13,15 +13,15 @@
 		<src>nol9os2B8zE</src>
 	</media>
 	<media>
-		<title>Start Kura Çekimi İstanbul</title>
-		<thumb>https://i.ytimg.com/vi/7zls9iecYQU/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>7zls9iecYQU</src>
-	</media>
-	<media>
 		<title>TJK TV Eyerleme Alanı Bursa</title>
 		<thumb>https://i.ytimg.com/vi/p1exWOqerYQ/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>p1exWOqerYQ</src>
+	</media>
+	<media>
+		<title>Start Kura Çekimi İstanbul</title>
+		<thumb>https://i.ytimg.com/vi/7zls9iecYQU/hqdefault_live.jpg</thumb>
+		<type>youtube</type>
+		<src>7zls9iecYQU</src>
 	</media>
 </media>
