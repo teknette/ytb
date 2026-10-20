@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <media>
 	<media>
-		<title>A Spor Canlı Yayın 🔴 Trabzonspor - Beşiktaş | CANLI ANLATIM</title>
+		<title>A Spor Canlı Yayın 🔴</title>
 		<thumb>https://i.ytimg.com/vi/nol9os2B8zE/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>nol9os2B8zE</src>
-	</media>
-	<media>
-		<title>#CANLI Kırklareli BLD Vefa İlaç - Aslan Y. Burhaniye | Halkbank Türkiye Kadınlar Basketbol Ligi</title>
-		<thumb>https://i.ytimg.com/vi/FW1EYzoXvGg/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>FW1EYzoXvGg</src>
 	</media>
 	<media>
 		<title>TJK TV Eyerleme Alanı Bursa</title>
@@ -35,17 +29,5 @@
 		<thumb>https://i.ytimg.com/vi/5y76zoR-7ic/hqdefault_live.jpg</thumb>
 		<type>youtube</type>
 		<src>5y76zoR-7ic</src>
-	</media>
-	<media>
-		<title>Beşinci Çeyrek | Deniz Aksoy, İbrahim Kutluay</title>
-		<thumb>https://i.ytimg.com/vi/BwX74wQ2cWY/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>BwX74wQ2cWY</src>
-	</media>
-	<media>
-		<title>TRABZONSPOR - BEŞİKTAŞ DEVRE ARASI CANLI | Fırat Günayer, Berkay Tokgöz</title>
-		<thumb>https://i.ytimg.com/vi/GAUcoBEhgGQ/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>GAUcoBEhgGQ</src>
 	</media>
 </media>
