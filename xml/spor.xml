@@ -2,86 +2,50 @@
 <media>
 	<media>
 		<title>beIN SPORTS HABER Canlı Yayını | #beINSPORTS</title>
-		<thumb>https://i.ytimg.com/vi/i7UpPgxfZZ8/hqdefault_live.jpg</thumb>
+		<thumb>https://i.ytimg.com/vi/i7UpPgxfZZ8/hqdefault.jpg</thumb>
 		<type>youtube</type>
 		<src>i7UpPgxfZZ8</src>
 	</media>
 	<media>
 		<title>🔴 Galatasaray - Fenerbahçe Maç Özetleri | beIN SPORTS Arşiv #canlı</title>
-		<thumb>https://i.ytimg.com/vi/aF7vXgavHnc/hqdefault_live.jpg</thumb>
+		<thumb>https://i.ytimg.com/vi/aF7vXgavHnc/hqdefault.jpg</thumb>
 		<type>youtube</type>
 		<src>aF7vXgavHnc</src>
 	</media>
 	<media>
-		<title>CANLI | Galatasaray, Şampiyonlar Ligi&amp;#39;nde 3 Puan Peşinde! | Galatasaray - Lille ÖZEL YAYIN</title>
-		<thumb>https://i.ytimg.com/vi/VRMXdrPBeGY/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>VRMXdrPBeGY</src>
-	</media>
-	<media>
 		<title>A Spor Canlı Yayın 🔴</title>
-		<thumb>https://i.ytimg.com/vi/nol9os2B8zE/hqdefault_live.jpg</thumb>
+		<thumb>https://i.ytimg.com/vi/nol9os2B8zE/hqdefault.jpg</thumb>
 		<type>youtube</type>
 		<src>nol9os2B8zE</src>
 	</media>
 	<media>
 		<title>#CANLI | HT Spor 7/24 Canlı Yayın</title>
-		<thumb>https://i.ytimg.com/vi/gcWaPe_LBMc/hqdefault_live.jpg</thumb>
+		<thumb>https://i.ytimg.com/vi/gcWaPe_LBMc/hqdefault.jpg</thumb>
 		<type>youtube</type>
 		<src>gcWaPe_LBMc</src>
 	</media>
 	<media>
 		<title>TJK TV Eyerleme Alanı Elazığ</title>
-		<thumb>https://i.ytimg.com/vi/dSyN7mcfcYI/hqdefault_live.jpg</thumb>
+		<thumb>https://i.ytimg.com/vi/dSyN7mcfcYI/hqdefault.jpg</thumb>
 		<type>youtube</type>
 		<src>dSyN7mcfcYI</src>
 	</media>
 	<media>
-		<title>Start Kura Çekimi İstanbul</title>
-		<thumb>https://i.ytimg.com/vi/7wyi2PhVx-s/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>7wyi2PhVx-s</src>
-	</media>
-	<media>
 		<title>TJK TV Eyerleme Alanı İstanbul</title>
-		<thumb>https://i.ytimg.com/vi/SjopXMKe1d0/hqdefault_live.jpg</thumb>
+		<thumb>https://i.ytimg.com/vi/SjopXMKe1d0/hqdefault.jpg</thumb>
 		<type>youtube</type>
 		<src>SjopXMKe1d0</src>
 	</media>
 	<media>
+		<title>Start Kura Çekimi İstanbul</title>
+		<thumb>https://i.ytimg.com/vi/7wyi2PhVx-s/hqdefault.jpg</thumb>
+		<type>youtube</type>
+		<src>7wyi2PhVx-s</src>
+	</media>
+	<media>
 		<title>Start Kura Çekimi Bursa</title>
-		<thumb>https://i.ytimg.com/vi/0mo6kDdxO2E/hqdefault_live.jpg</thumb>
+		<thumb>https://i.ytimg.com/vi/0mo6kDdxO2E/hqdefault.jpg</thumb>
 		<type>youtube</type>
 		<src>0mo6kDdxO2E</src>
-	</media>
-	<media>
-		<title>Lille - Galatasaray Maç Önü | Melike Çelik, Uğur Karakullukçu, Veli Yiğit, Erbatur Ergenekon</title>
-		<thumb>https://i.ytimg.com/vi/Dv55oSypL1k/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>Dv55oSypL1k</src>
-	</media>
-	<media>
-		<title>LILLE - GALATASARAY MAÇ ÖNÜ CANLI | Bülent Timurlenk, Berkay Tokgöz, Şansal Büyüka</title>
-		<thumb>https://i.ytimg.com/vi/GNbu_nIj69o/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>GNbu_nIj69o</src>
-	</media>
-	<media>
-		<title>🔴 CANLI | Lille - Galatasaray Maç Önü | Nihat Kahveci, Nebil Evren | Kontratak Şampiyonlar Ligi</title>
-		<thumb>https://i.ytimg.com/vi/_3t3XjGoqdM/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>_3t3XjGoqdM</src>
-	</media>
-	<media>
-		<title>Lille - Galatasaray Maç Önü | Serdar Ali Çelikler, Metin Tekin, Ilgaz Çınar, Onur Tuğrul</title>
-		<thumb>https://i.ytimg.com/vi/jhsipScp24I/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>jhsipScp24I</src>
-	</media>
-	<media>
-		<title>LILLE OSC vs GALATASARAY MAÇ ÖNÜ | Eski Açık</title>
-		<thumb>https://i.ytimg.com/vi/qb_ka3m-esY/hqdefault_live.jpg</thumb>
-		<type>youtube</type>
-		<src>qb_ka3m-esY</src>
 	</media>
 </media>
