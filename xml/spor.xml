@@ -7,7 +7,7 @@
 		<src>i7UpPgxfZZ8</src>
 	</media>
 	<media>
-		<title>A Spor Canlı Yayın 🔴 52 Orduspor - 1461 Trabzon | Ziraat Türkiye Kupası 3. Tur</title>
+		<title>A Spor Canlı Yayın 🔴</title>
 		<thumb>https://i.ytimg.com/vi/nol9os2B8zE/hqdefault.jpg</thumb>
 		<type>youtube</type>
 		<src>nol9os2B8zE</src>
@@ -25,12 +25,6 @@
 		<src>9aHRkLEbfFw</src>
 	</media>
 	<media>
-		<title>TJK TV Eyerleme Alanı Elazığ</title>
-		<thumb>https://i.ytimg.com/vi/tNkgciL7lNo/hqdefault.jpg</thumb>
-		<type>youtube</type>
-		<src>tNkgciL7lNo</src>
-	</media>
-	<media>
 		<title>Start Kura Çekimi İstanbul</title>
 		<thumb>https://i.ytimg.com/vi/M8HxPhbjKLo/hqdefault.jpg</thumb>
 		<type>youtube</type>
@@ -41,5 +35,11 @@
 		<thumb>https://i.ytimg.com/vi/JlWLkjTi3Gs/hqdefault.jpg</thumb>
 		<type>youtube</type>
 		<src>JlWLkjTi3Gs</src>
+	</media>
+	<media>
+		<title>TJK TV Eyerleme Alanı Elazığ</title>
+		<thumb>https://i.ytimg.com/vi/tNkgciL7lNo/hqdefault.jpg</thumb>
+		<type>youtube</type>
+		<src>tNkgciL7lNo</src>
 	</media>
 </media>
