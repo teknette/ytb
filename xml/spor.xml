@@ -7,7 +7,7 @@
 		<src>i7UpPgxfZZ8</src>
 	</media>
 	<media>
-		<title>A Spor Canlı Yayın 🔴 Konyaspor - Galatasaray | Canlı Anlatım</title>
+		<title>A Spor Canlı Yayın 🔴</title>
 		<thumb>https://i.ytimg.com/vi/nol9os2B8zE/hqdefault.jpg</thumb>
 		<type>youtube</type>
 		<src>nol9os2B8zE</src>
@@ -25,6 +25,12 @@
 		<src>1Xg75qoorO4</src>
 	</media>
 	<media>
+		<title>TJK TV Eyerleme Alanı Bursa</title>
+		<thumb>https://i.ytimg.com/vi/aR_FFtZSwEc/hqdefault.jpg</thumb>
+		<type>youtube</type>
+		<src>aR_FFtZSwEc</src>
+	</media>
+	<media>
 		<title>TJK TV Eyerleme Alanı İstanbul</title>
 		<thumb>https://i.ytimg.com/vi/JCre280PrQA/hqdefault.jpg</thumb>
 		<type>youtube</type>
@@ -35,11 +41,5 @@
 		<thumb>https://i.ytimg.com/vi/4MdMLN6NP2g/hqdefault.jpg</thumb>
 		<type>youtube</type>
 		<src>4MdMLN6NP2g</src>
-	</media>
-	<media>
-		<title>TJK TV Eyerleme Alanı Bursa</title>
-		<thumb>https://i.ytimg.com/vi/aR_FFtZSwEc/hqdefault.jpg</thumb>
-		<type>youtube</type>
-		<src>aR_FFtZSwEc</src>
 	</media>
 </media>
