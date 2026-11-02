@@ -7,7 +7,7 @@
 		<src>i7UpPgxfZZ8</src>
 	</media>
 	<media>
-		<title>A Spor Canlı Yayın 🔴 Kasımpaşa - Beşiktaş | CANLI ANLATIM</title>
+		<title>A Spor Canlı Yayın 🔴</title>
 		<thumb>https://i.ytimg.com/vi/nol9os2B8zE/hqdefault.jpg</thumb>
 		<type>youtube</type>
 		<src>nol9os2B8zE</src>
@@ -31,15 +31,15 @@
 		<src>IgMvzgjSIWY</src>
 	</media>
 	<media>
-		<title>Start Kura Çekimi Adana</title>
-		<thumb>https://i.ytimg.com/vi/kLhXEPtTk5Q/hqdefault.jpg</thumb>
-		<type>youtube</type>
-		<src>kLhXEPtTk5Q</src>
-	</media>
-	<media>
 		<title>Start Kura Çekimi Kocaeli</title>
 		<thumb>https://i.ytimg.com/vi/prM7pZiFZoA/hqdefault.jpg</thumb>
 		<type>youtube</type>
 		<src>prM7pZiFZoA</src>
+	</media>
+	<media>
+		<title>Start Kura Çekimi Adana</title>
+		<thumb>https://i.ytimg.com/vi/kLhXEPtTk5Q/hqdefault.jpg</thumb>
+		<type>youtube</type>
+		<src>kLhXEPtTk5Q</src>
 	</media>
 </media>
