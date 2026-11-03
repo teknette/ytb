@@ -25,6 +25,12 @@
 		<src>gcWaPe_LBMc</src>
 	</media>
 	<media>
+		<title>TJK TV Eyerleme Alanı Bursa</title>
+		<thumb>https://i.ytimg.com/vi/x2A0fnQ7kgo/hqdefault.jpg</thumb>
+		<type>youtube</type>
+		<src>x2A0fnQ7kgo</src>
+	</media>
+	<media>
 		<title>Start Kura Çekimi İstanbul</title>
 		<thumb>https://i.ytimg.com/vi/6cTo4rOX2jY/hqdefault.jpg</thumb>
 		<type>youtube</type>
@@ -37,21 +43,9 @@
 		<src>An0JV1YUI7Y</src>
 	</media>
 	<media>
-		<title>TJK TV Eyerleme Alanı Bursa</title>
-		<thumb>https://i.ytimg.com/vi/x2A0fnQ7kgo/hqdefault.jpg</thumb>
-		<type>youtube</type>
-		<src>x2A0fnQ7kgo</src>
-	</media>
-	<media>
 		<title>Start Kura Çekimi Elazığ</title>
 		<thumb>https://i.ytimg.com/vi/6Fppfw29SPw/hqdefault.jpg</thumb>
 		<type>youtube</type>
 		<src>6Fppfw29SPw</src>
-	</media>
-	<media>
-		<title>Fenerbahçe 🤝 Conceição | Galatasaray - Stuttgart | Veli Yiğit, Erbatur Ergenekon, Barış Yurduseven</title>
-		<thumb>https://i.ytimg.com/vi/h8a9H8gZFyg/hqdefault.jpg</thumb>
-		<type>youtube</type>
-		<src>h8a9H8gZFyg</src>
 	</media>
 </media>
