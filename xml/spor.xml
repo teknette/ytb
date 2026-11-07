@@ -13,27 +13,33 @@
 		<src>nol9os2B8zE</src>
 	</media>
 	<media>
-		<title>#CANLI | Ahmet Selim Kul ve Cem Dizdar ile HT Spor Gündem</title>
+		<title>#CANLI | HT Spor 7/24 Canlı Yayın</title>
 		<thumb>https://i.ytimg.com/vi/gcWaPe_LBMc/hqdefault.jpg</thumb>
 		<type>youtube</type>
 		<src>gcWaPe_LBMc</src>
 	</media>
 	<media>
-		<title>Start Kura Çekimi İstanbul</title>
-		<thumb>https://i.ytimg.com/vi/jaJxLC_U33s/hqdefault.jpg</thumb>
+		<title>TJK TV Eyerleme Alanı Ankara</title>
+		<thumb>https://i.ytimg.com/vi/2GfKWx0Xlzo/hqdefault.jpg</thumb>
 		<type>youtube</type>
-		<src>jaJxLC_U33s</src>
+		<src>2GfKWx0Xlzo</src>
 	</media>
 	<media>
-		<title>Start Kura Çekimi Adana</title>
-		<thumb>https://i.ytimg.com/vi/rXsKC2hgm8U/hqdefault.jpg</thumb>
+		<title>TJK TV Eyerleme Alanı İzmir</title>
+		<thumb>https://i.ytimg.com/vi/9Qx5ubwHW6Q/hqdefault.jpg</thumb>
 		<type>youtube</type>
-		<src>rXsKC2hgm8U</src>
+		<src>9Qx5ubwHW6Q</src>
 	</media>
 	<media>
-		<title>TJK TV Eyerleme Alanı Bursa</title>
-		<thumb>https://i.ytimg.com/vi/3SrDpBiWvhY/hqdefault.jpg</thumb>
+		<title>Start Kura Çekimi Şanlıurfa</title>
+		<thumb>https://i.ytimg.com/vi/rArXzpFEhig/hqdefault.jpg</thumb>
 		<type>youtube</type>
-		<src>3SrDpBiWvhY</src>
+		<src>rArXzpFEhig</src>
+	</media>
+	<media>
+		<title>Start Kura Çekimi Bursa</title>
+		<thumb>https://i.ytimg.com/vi/726GP_hUdUM/hqdefault.jpg</thumb>
+		<type>youtube</type>
+		<src>726GP_hUdUM</src>
 	</media>
 </media>
