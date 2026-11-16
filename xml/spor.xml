@@ -19,21 +19,27 @@
 		<src>gcWaPe_LBMc</src>
 	</media>
 	<media>
-		<title>TJK TV Eyerleme Alanı Adana</title>
-		<thumb>https://i.ytimg.com/vi/ukKzNgxOkpQ/hqdefault.jpg</thumb>
+		<title>TJK TV Eyerleme Alanı Bursa</title>
+		<thumb>https://i.ytimg.com/vi/EttMu6_2_5c/hqdefault.jpg</thumb>
 		<type>youtube</type>
-		<src>ukKzNgxOkpQ</src>
+		<src>EttMu6_2_5c</src>
 	</media>
 	<media>
-		<title>Start Kura Çekimi Adana</title>
-		<thumb>https://i.ytimg.com/vi/ne_R4S0XM5I/hqdefault.jpg</thumb>
+		<title>Start Kura Çekimi İstanbul</title>
+		<thumb>https://i.ytimg.com/vi/DaOI8TkY2Sc/hqdefault.jpg</thumb>
 		<type>youtube</type>
-		<src>ne_R4S0XM5I</src>
+		<src>DaOI8TkY2Sc</src>
 	</media>
 	<media>
-		<title>Start Kura Çekimi Antalya</title>
-		<thumb>https://i.ytimg.com/vi/nXG36NF7NHY/hqdefault.jpg</thumb>
+		<title>Start Kura Çekimi Elazığ</title>
+		<thumb>https://i.ytimg.com/vi/G-BTA2CHLe8/hqdefault.jpg</thumb>
 		<type>youtube</type>
-		<src>nXG36NF7NHY</src>
+		<src>G-BTA2CHLe8</src>
+	</media>
+	<media>
+		<title>Gündem Futbol | Melike Çelik, Ersin Düzen</title>
+		<thumb>https://i.ytimg.com/vi/xNtoD1q2bsI/hqdefault.jpg</thumb>
+		<type>youtube</type>
+		<src>xNtoD1q2bsI</src>
 	</media>
 </media>
