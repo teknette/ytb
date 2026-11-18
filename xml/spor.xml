@@ -25,12 +25,6 @@
 		<src>gcWaPe_LBMc</src>
 	</media>
 	<media>
-		<title>Start Kura Çekimi Antalya</title>
-		<thumb>https://i.ytimg.com/vi/Q7JuEvd9ICs/hqdefault.jpg</thumb>
-		<type>youtube</type>
-		<src>Q7JuEvd9ICs</src>
-	</media>
-	<media>
 		<title>TJK TV Eyerleme Alanı Adana</title>
 		<thumb>https://i.ytimg.com/vi/EX2SjLd6J5Q/hqdefault.jpg</thumb>
 		<type>youtube</type>
@@ -47,5 +41,11 @@
 		<thumb>https://i.ytimg.com/vi/2JlLxFbbsE8/hqdefault.jpg</thumb>
 		<type>youtube</type>
 		<src>2JlLxFbbsE8</src>
+	</media>
+	<media>
+		<title>Start Kura Çekimi Antalya</title>
+		<thumb>https://i.ytimg.com/vi/Q7JuEvd9ICs/hqdefault.jpg</thumb>
+		<type>youtube</type>
+		<src>Q7JuEvd9ICs</src>
 	</media>
 </media>
