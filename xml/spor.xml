@@ -1,28 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <media>
 	<media>
-		<title>beIN SPORTS HABER Canlı Yayını | #beINSPORTS</title>
-		<thumb>https://i.ytimg.com/vi/i7UpPgxfZZ8/hqdefault.jpg</thumb>
-		<type>youtube</type>
-		<src>i7UpPgxfZZ8</src>
-	</media>
-	<media>
 		<title>🔴 Beşiktaş - Galatasaray Maç Özetleri | beIN SPORTS Arşiv #canlı</title>
 		<thumb>https://i.ytimg.com/vi/Hr8SU0Mj5yk/hqdefault.jpg</thumb>
 		<type>youtube</type>
 		<src>Hr8SU0Mj5yk</src>
 	</media>
 	<media>
-		<title>A Spor Canlı Yayın 🔴 Trabzonspor - Eyüpspor | Maç Sonu Yorumları</title>
+		<title>A Spor Canlı Yayın 🔴</title>
 		<thumb>https://i.ytimg.com/vi/DwFLd1Mg0eE/hqdefault.jpg</thumb>
 		<type>youtube</type>
 		<src>DwFLd1Mg0eE</src>
-	</media>
-	<media>
-		<title>CANLI YAYIN |  Mustafa Çulcu Tartışmalı Pozisyonları Yorumluyor | Trabzonspor 1-0 Eyüpspor Maç Sonu</title>
-		<thumb>https://i.ytimg.com/vi/iaG-Ym0tDVY/hqdefault.jpg</thumb>
-		<type>youtube</type>
-		<src>iaG-Ym0tDVY</src>
 	</media>
 	<media>
 		<title>#CANLI | HT Spor 7/24 Canlı Yayın</title>
@@ -53,11 +41,5 @@
 		<thumb>https://i.ytimg.com/vi/r48qaWLIV_I/hqdefault.jpg</thumb>
 		<type>youtube</type>
 		<src>r48qaWLIV_I</src>
-	</media>
-	<media>
-		<title>Trabzonspor - Eyüpspor Maç Sonu | Veli Yiğit, Barış Yurduseven</title>
-		<thumb>https://i.ytimg.com/vi/poCQTskkWe8/hqdefault.jpg</thumb>
-		<type>youtube</type>
-		<src>poCQTskkWe8</src>
 	</media>
 </media>
