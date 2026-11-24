@@ -19,21 +19,27 @@
 		<src>gcWaPe_LBMc</src>
 	</media>
 	<media>
-		<title>TJK TV Eyerleme Alanı Bursa</title>
-		<thumb>https://i.ytimg.com/vi/eORFn-X_Zxo/hqdefault.jpg</thumb>
+		<title>Start Kura Çekimi Antalya</title>
+		<thumb>https://i.ytimg.com/vi/KGWR1NH4Ph0/hqdefault.jpg</thumb>
 		<type>youtube</type>
-		<src>eORFn-X_Zxo</src>
+		<src>KGWR1NH4Ph0</src>
 	</media>
 	<media>
-		<title>Start Kura Çekimi İstanbul</title>
-		<thumb>https://i.ytimg.com/vi/-Z6Mlgw2qvI/hqdefault.jpg</thumb>
+		<title>TJK TV Eyerleme Alanı Antalya</title>
+		<thumb>https://i.ytimg.com/vi/9wOnaTuygZI/hqdefault.jpg</thumb>
 		<type>youtube</type>
-		<src>-Z6Mlgw2qvI</src>
+		<src>9wOnaTuygZI</src>
 	</media>
 	<media>
-		<title>Start Kura Çekimi Elazığ</title>
-		<thumb>https://i.ytimg.com/vi/xfyK96o8SnA/hqdefault.jpg</thumb>
+		<title>TJK TV Eyerleme Alanı Adana</title>
+		<thumb>https://i.ytimg.com/vi/DBiS5vskONQ/hqdefault.jpg</thumb>
 		<type>youtube</type>
-		<src>xfyK96o8SnA</src>
+		<src>DBiS5vskONQ</src>
+	</media>
+	<media>
+		<title>Start Kura Çekimi İzmir</title>
+		<thumb>https://i.ytimg.com/vi/UzUd7h2JHqc/hqdefault.jpg</thumb>
+		<type>youtube</type>
+		<src>UzUd7h2JHqc</src>
 	</media>
 </media>
