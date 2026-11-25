@@ -1,16 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <media>
 	<media>
+		<title>beIN SPORTS HABER Canlı Yayını | #beINSPORTS</title>
+		<thumb>https://i.ytimg.com/vi/i7UpPgxfZZ8/hqdefault.jpg</thumb>
+		<type>youtube</type>
+		<src>i7UpPgxfZZ8</src>
+	</media>
+	<media>
 		<title>🔴 Beşiktaş - Galatasaray Maç Özetleri | beIN SPORTS Arşiv #canlı</title>
 		<thumb>https://i.ytimg.com/vi/Hr8SU0Mj5yk/hqdefault.jpg</thumb>
 		<type>youtube</type>
 		<src>Hr8SU0Mj5yk</src>
 	</media>
 	<media>
-		<title>A Spor Canlı Yayın 🔴</title>
+		<title>A Spor Canlı Yayın 🔴Shakhtar Donetsk 0-0 Fenerbahçe | Şampiyonlar Ligi | CANLI ANLATIM</title>
 		<thumb>https://i.ytimg.com/vi/DwFLd1Mg0eE/hqdefault.jpg</thumb>
 		<type>youtube</type>
 		<src>DwFLd1Mg0eE</src>
+	</media>
+	<media>
+		<title>Canlı Yayın🔴 Fenerbahçe Londra&amp;#39;da Galibiyet Peşinde</title>
+		<thumb>https://i.ytimg.com/vi/eAcDPqsj1mM/hqdefault.jpg</thumb>
+		<type>youtube</type>
+		<src>eAcDPqsj1mM</src>
 	</media>
 	<media>
 		<title>#CANLI | HT Spor 7/24 Canlı Yayın</title>
@@ -19,27 +31,27 @@
 		<src>gcWaPe_LBMc</src>
 	</media>
 	<media>
-		<title>Start Kura Çekimi Antalya</title>
-		<thumb>https://i.ytimg.com/vi/KGWR1NH4Ph0/hqdefault.jpg</thumb>
+		<title>TJK TV Eyerleme Alanı İstanbul</title>
+		<thumb>https://i.ytimg.com/vi/7ZfnpSfA6nc/hqdefault.jpg</thumb>
 		<type>youtube</type>
-		<src>KGWR1NH4Ph0</src>
+		<src>7ZfnpSfA6nc</src>
 	</media>
 	<media>
-		<title>TJK TV Eyerleme Alanı Antalya</title>
-		<thumb>https://i.ytimg.com/vi/9wOnaTuygZI/hqdefault.jpg</thumb>
+		<title>TJK TV Eyerleme Alanı Elazığ</title>
+		<thumb>https://i.ytimg.com/vi/lEjZQFJwRpY/hqdefault.jpg</thumb>
 		<type>youtube</type>
-		<src>9wOnaTuygZI</src>
-	</media>
-	<media>
-		<title>TJK TV Eyerleme Alanı Adana</title>
-		<thumb>https://i.ytimg.com/vi/DBiS5vskONQ/hqdefault.jpg</thumb>
-		<type>youtube</type>
-		<src>DBiS5vskONQ</src>
+		<src>lEjZQFJwRpY</src>
 	</media>
 	<media>
 		<title>Start Kura Çekimi İzmir</title>
-		<thumb>https://i.ytimg.com/vi/UzUd7h2JHqc/hqdefault.jpg</thumb>
+		<thumb>https://i.ytimg.com/vi/Mr3guziIHII/hqdefault.jpg</thumb>
 		<type>youtube</type>
-		<src>UzUd7h2JHqc</src>
+		<src>Mr3guziIHII</src>
+	</media>
+	<media>
+		<title>Start Kura Çekimi Bursa</title>
+		<thumb>https://i.ytimg.com/vi/7y3JMVUKqPQ/hqdefault.jpg</thumb>
+		<type>youtube</type>
+		<src>7y3JMVUKqPQ</src>
 	</media>
 </media>
